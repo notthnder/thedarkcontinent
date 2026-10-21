@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "37eeefdb211c597e9a79d78e7b9bd5337624d18527ce722a2fc213168b2a4e90"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "b0c145bb901f81327e9499dc8388e43b0d1729cea782a6b938248342a6d6678a"
 metafile = true
@@ -1908,4 +1912,14 @@ metafile = true
 [[files]]
 file = "mods/zfastnoise.pw.toml"
 hash = "9f1d6d9aa8181d808fb0f3a19ec1893714063550155a1011059b2542c4dece41"
+metafile = true
+
+[[files]]
+file = "resourcepacks/horror-ambience-music-reactive-music-mod.pw.toml"
+hash = "9a946ddbefab7eac3f6d4a0ca69c4ea912cc52acb75e3e6b69076d57b8d9d0ba"
+metafile = true
+
+[[files]]
+file = "resourcepacks/soundaria.pw.toml"
+hash = "0a95a1c1e9e3a253e1011d53eb356fabe892ba02bbaa1ea0b30239b63b088928"
 metafile = true
