@@ -1,0 +1,18 @@
+filename = 'uranus-3.0-beta.1.jar'
+name = 'Uranus'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'uranus-3.0-beta.1.jar'
+
+[download]
+hash = 'c87886ec34ba1282366801f84f6953dc42cb42b2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8682870
+project-id = 1010827

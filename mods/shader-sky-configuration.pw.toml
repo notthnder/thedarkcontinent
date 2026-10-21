@@ -1,0 +1,25 @@
+filename = 'shader_sky_configuration-1.0.jar'
+name = 'Shader Sky Configuration'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[NeoForge] 1.21.1-1.0 | Shader Sky Configuration'
+
+[download]
+hash = '07ae9a3301456667b3d186b2dbf3401a44baab6f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8745490
+project-id = 1670264
+
+[[x-prismlauncher-dependencies]]
+addonId = '394468'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '455508'
+type = 'REQUIRED'

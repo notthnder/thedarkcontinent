@@ -1,0 +1,18 @@
+filename = 'antarchy-2.2.6+1.21.1-neoforge.jar'
+name = 'Antarchy'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.2.6+1.21.1-neoforge'
+
+[download]
+hash = 'fab38575b6843ac2f14782845b41a0cfbbeb5c225986ca44d57de29928e969167298c3300b74064f6b4fc89eb51e6d4f59a53d7790c7d9a98e4d986cbb6272e4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bnrJEOg5/versions/v5nkDw9m/antarchy-2.2.6%2B1.21.1-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'bnrJEOg5'
+version = 'v5nkDw9m'

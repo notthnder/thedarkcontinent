@@ -1,0 +1,21 @@
+filename = 'configurablemobpotioneffects-1.21.1-4.0.jar'
+name = 'Configurable Mob Potion Effects'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-4.0-fabric+forge+neo'
+
+[download]
+hash = '147f0c39543d5664d21a262fbe78e2ba53eef9fd6bfb6bd24a2ff075e4dce60829b21681d087d742f4bb0c29ce529b2d7317afeef36e9935bcb7433bdcdd2310'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FspL3NLJ/versions/XMI89RDP/configurablemobpotioneffects-1.21.1-4.0.jar'
+
+[update.modrinth]
+mod-id = 'FspL3NLJ'
+version = 'XMI89RDP'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'e0M1UDsY'
+type = 'REQUIRED'

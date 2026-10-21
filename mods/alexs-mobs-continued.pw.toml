@@ -1,0 +1,21 @@
+filename = 'alexsmobs-2.2.4-neoforge+1.21.1.jar'
+name = "Alex's Mobs Continued"
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.2.4+1.21.1-neoforge'
+
+[download]
+hash = 'c2ed9670549ed6fc724b35e3c8eace4c7252e577a90d3a486122c8ed758eb5644a2f7709401d6e0b49a818a6687881cda22c2a72926aa3fb2697d5fa7d56eaf4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/kYIaHHfw/versions/9yycc4XZ/alexsmobs-2.2.4-neoforge%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'kYIaHHfw'
+version = '9yycc4XZ'
+
+[[x-prismlauncher-dependencies]]
+addonId = '6oyMM4yX'
+type = 'REQUIRED'

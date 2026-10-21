@@ -1,0 +1,18 @@
+filename = "Yudo's VC Interaction v1.jar"
+name = "Yudo's VC Interaction (Sculks and Warden)"
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.0.0'
+
+[download]
+hash = '848772fb582090cdfbde7dabd1791f450ae5d1a16bfa74e11c6965f8ec3dd6ae7af43fafe0c04008a88dc84b645c0a8317182516f65216dedb8997990783c066'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/b2rTkKue/versions/64JFkZGl/Yudo%27s VC Interaction v1.jar'
+
+[update.modrinth]
+mod-id = 'b2rTkKue'
+version = '64JFkZGl'

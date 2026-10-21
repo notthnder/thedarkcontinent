@@ -1,0 +1,21 @@
+filename = 'voicechatrecording-1.21.1-2.1.jar'
+name = 'Voice Chat Recording'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.1'
+
+[download]
+hash = '5a420cf7c955d63854e0b85b9d00011395e4a2a0d1588d7f9f7c90f61e91186ab6f242c6ca9be1c0b3f0781734d87c0a3472002bd75ca7c9557ac1e157f94069'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NdyEsNQU/versions/ShvWjC7k/voicechatrecording-1.21.1-2.1.jar'
+
+[update.modrinth]
+mod-id = 'NdyEsNQU'
+version = 'ShvWjC7k'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9eGKb6K1'
+type = 'REQUIRED'

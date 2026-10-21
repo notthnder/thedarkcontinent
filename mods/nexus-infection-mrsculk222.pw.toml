@@ -1,0 +1,21 @@
+filename = 'nexus_infection-1.6.4-neoforge-1.21.1.jar'
+name = 'Nexus Infection'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.6.4'
+
+[download]
+hash = '86ee8872a44239ef806fdd8bc918c31e6184e3d8126b210f510d22108a3fd0c0538606e4cc32278611f349321e3f319d98f7917eb4496a610f2ad913c383d586'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/iWhg8P1K/versions/whL5iJHg/nexus_infection-1.6.4-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'iWhg8P1K'
+version = 'whL5iJHg'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8BmcQJ2H'
+type = 'REQUIRED'

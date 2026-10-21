@@ -1,0 +1,21 @@
+filename = 'alexscaves-1.1.3-neoforge+1.21.1.jar'
+name = "Alex's Caves Continued"
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.3+neoforge-1.21.1'
+
+[download]
+hash = 'd090711aaaa6562f84288b82e0587521e6fb6d68162e68e6205a93f52c9ef0f406ab834d6e834e6c3f45f49f41efe209071ffb5a3621f8ed50bad256e1aeb0b9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/cO2CvXug/versions/ReYW4B9C/alexscaves-1.1.3-neoforge%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'cO2CvXug'
+version = 'ReYW4B9C'
+
+[[x-prismlauncher-dependencies]]
+addonId = '6oyMM4yX'
+type = 'REQUIRED'

@@ -1,0 +1,29 @@
+filename = 'emf_compat_better_combat_neoforge_1.21.1_2.1.1.jar'
+name = 'EMF Compat: Better Combat'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.1.1'
+
+[download]
+hash = '2f1c25748e799ca567756275a4eaa5fedf4c302aa335409d67b9bc0f2c4659ff635e9518bb403b16280f55a062072070da5b030450c501a3f5f5c762f18fc156'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Smytm33T/versions/XMKvaKv8/emf_compat_better_combat_neoforge_1.21.1_2.1.1.jar'
+
+[update.modrinth]
+mod-id = 'Smytm33T'
+version = 'XMKvaKv8'
+
+[[x-prismlauncher-dependencies]]
+addonId = '4I1XuqiY'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '5sy6g3kz'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'hbGct5uU'
+type = 'REQUIRED'

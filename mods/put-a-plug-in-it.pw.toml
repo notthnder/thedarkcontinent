@@ -1,0 +1,18 @@
+filename = 'papi-neoforge-1.21.1-1.3.0.jar'
+name = 'Put A Plug In it! (PAPI)'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'neoforge-1.21.1-1.3.0'
+
+[download]
+hash = 'c7a5ef9b7485cf622cb054273a95f8cbbf5be0577da0fc22b0adb2def9286ae5c5b8fa3f4a78e5bca266cba65b34b2ca4d3a4c144ad5a62584bc1effa0a564c4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xedaBnSm/versions/Fuex2ZXs/papi-neoforge-1.21.1-1.3.0.jar'
+
+[update.modrinth]
+mod-id = 'xedaBnSm'
+version = 'Fuex2ZXs'

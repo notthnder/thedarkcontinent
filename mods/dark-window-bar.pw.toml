@@ -1,0 +1,18 @@
+filename = 'darkwindowbar-neoforge-1.0.0-1.21.1.jar'
+name = 'Dark Window Bar'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'neoforge-1.21.1-1.0.0'
+
+[download]
+hash = 'c1c85e9d09754afa46c551e5af7d364749029dbf11edb1a3e0d12b7ad94af2912a6543289aa0335c4cc0064bd5bc980b5f5d09d6947754b9a3538f9b7c55fb5c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/H7ktFfSH/versions/W4Al2lHo/darkwindowbar-neoforge-1.0.0-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'H7ktFfSH'
+version = 'W4Al2lHo'

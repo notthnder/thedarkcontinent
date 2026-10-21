@@ -1,0 +1,25 @@
+filename = 'l2library-3.0.9.jar'
+name = 'L2Library'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '3.0.9'
+
+[download]
+hash = 'e13aaa2203b4b927ea946ef3d0f5d3fdb006179fd41e8cb6c1bd1e06421588aab8af6f6096150aa3f01d32e30a3dc3c546ceb71d97fdd6ffc7b476b54bbb6e74'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4Vh3BQ3F/versions/7GS7JBkX/l2library-3.0.9.jar'
+
+[update.modrinth]
+mod-id = '4Vh3BQ3F'
+version = '7GS7JBkX'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8BmcQJ2H'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'vvuO3ImH'
+type = 'OPTIONAL'

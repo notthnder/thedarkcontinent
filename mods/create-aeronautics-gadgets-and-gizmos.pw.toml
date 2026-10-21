@@ -1,0 +1,18 @@
+filename = 'gadgets-and-gizmos-bundled-2.0-pre-release-4.jar'
+name = 'Create Gadgets & Gizmos Bundled'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0-pre-release-4'
+
+[download]
+hash = 'c38d34a7a9094845480850c1e37d9ef5400e5325fb37089c3d444fff1016b4e5e8c64e4c4c4a59df23261750749d703ec4e637ad626ef0b2c26af7cc52761803'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Sza3GgEL/versions/wkJ6vtdp/gadgets-and-gizmos-bundled-2.0-pre-release-4.jar'
+
+[update.modrinth]
+mod-id = 'Sza3GgEL'
+version = 'wkJ6vtdp'

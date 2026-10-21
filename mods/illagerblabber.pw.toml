@@ -1,0 +1,18 @@
+filename = 'illagerblabber-1.21.1-NeoForge-1.1.0.jar'
+name = 'IllagerBlabber'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.0'
+
+[download]
+hash = '686d436de19f2d95ffaceff5ef1871d9e1a054225be5b752106c9b9c0300e88bdebf86b584d98425060f593c6b55838d5a16f78e124f06c026a1e867df2fe4ee'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WS4FswTq/versions/BA3WEJ0K/illagerblabber-1.21.1-NeoForge-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'WS4FswTq'
+version = 'BA3WEJ0K'

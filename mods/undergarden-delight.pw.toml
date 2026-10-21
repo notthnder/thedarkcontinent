@@ -1,0 +1,25 @@
+filename = 'undergardendelight-2.0.2-neoforge-1.21.1.jar'
+name = "[NoCube's] Undergarden Delight"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0.2'
+
+[download]
+hash = 'b2516ea3cb1ff8adae695d2870810eb8dd670200cf58a7719aa4c1551cfa8c5322f6a963cd7a25c819b696462921383cdac243a5d9122adcaa60230973d9fef9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/H340jsJv/versions/mGgpu6et/undergardendelight-2.0.2-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'H340jsJv'
+version = 'mGgpu6et'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'R2OftAxM'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Ejfl5qDL'
+type = 'REQUIRED'

@@ -1,0 +1,18 @@
+filename = 'eccentrictome-1.21.1-1.2.0.jar'
+name = 'Eccentric Tome'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'eccentrictome-1.21.1-1.2.0.jar'
+
+[download]
+hash = '9344ab666080747af9f5d8de0644e5815ca15866'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7042141
+project-id = 597522

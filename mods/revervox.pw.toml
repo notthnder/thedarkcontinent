@@ -1,0 +1,29 @@
+filename = 'revervox_mod-1.21.1-2.1.jar'
+name = 'Revervox'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.1'
+
+[download]
+hash = '8d007155046a9cd003c0644c45608f9635ca245d780bd9a8eca8f4b5f1ac898b7fb5d0e6ff439b237830fe0da206124b2392ba1dca0d7ff5fb58a755e71e16b7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4FxDHlKg/versions/uPaIda4z/revervox_mod-1.21.1-2.1.jar'
+
+[update.modrinth]
+mod-id = '4FxDHlKg'
+version = 'uPaIda4z'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8BmcQJ2H'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'NdyEsNQU'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9eGKb6K1'
+type = 'REQUIRED'

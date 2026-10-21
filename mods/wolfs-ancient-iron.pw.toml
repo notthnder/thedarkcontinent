@@ -1,0 +1,25 @@
+filename = 'wolfsancientiron-1.1.2-1.21.1.jar'
+name = 'Ancient Iron'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v1.1.2-1.21.1'
+
+[download]
+hash = '7ee3f70b78fa93958bb1854afd54366d9f86a764'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7161907
+project-id = 1368703
+
+[[x-prismlauncher-dependencies]]
+addonId = '1244863'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '985468'
+type = 'REQUIRED'

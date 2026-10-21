@@ -1,0 +1,69 @@
+filename = 'l2hostility-3.0.18.jar'
+name = 'L2 Hostility'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.0.18'
+
+[download]
+hash = 'd97219b0bfcaeb9da754afe5bd0c05852f46c6d240b4660631e929fdcb532ad1a7de56404c80519e0202b367d32ba242074fd2a3d8040942f7accb03dcf2203f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CbV689EN/versions/hsGoGiGk/l2hostility-3.0.18.jar'
+
+[update.modrinth]
+mod-id = 'CbV689EN'
+version = 'hsGoGiGk'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'vvuO3ImH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'derP0ten'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '4Vh3BQ3F'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '46KJle7n'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8BmcQJ2H'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'oPrh2Lz3'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'U6GY0xp0'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'hFUzfDsn'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'TKB6INcv'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nU0bVIaL'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LVnvHVBp'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nvQzSEkH'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'u6dRKJwZ'
+type = 'OPTIONAL'

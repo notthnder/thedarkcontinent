@@ -1,0 +1,18 @@
+filename = 'debugify-1.21.1+1.1.jar'
+name = 'Debugify Reforge'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'debugify-1.21.1+1.1.1.jar'
+
+[download]
+hash = '2263b6dea488cb54ce86aa34aa5c4dfee9f779a3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9203514
+project-id = 1668204

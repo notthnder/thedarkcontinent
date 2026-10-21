@@ -1,0 +1,21 @@
+filename = 'quark_backported-1.1-neoforge-1.21.1.jar'
+name = 'Quark Backported'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1'
+
+[download]
+hash = '8b1e857ce523e2c6b06a7105a8c3e1225bf77454b969452ec930a238d2160587c1198112298bef4ee83b0c9af0f3db3c4663c0ee8da53d7640dfee166ffd133b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/iRjR5p1d/versions/LZ7QJgKg/quark_backported-1.1-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'iRjR5p1d'
+version = 'LZ7QJgKg'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'qnQsVE2z'
+type = 'REQUIRED'

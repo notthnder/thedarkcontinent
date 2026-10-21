@@ -1,0 +1,18 @@
+filename = 'bettersparsestructures-1.4.0.2.jar'
+name = 'Better Sparse Structures'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'bettersparsestructures-1.4.0.2.jar'
+
+[download]
+hash = '57ea6220e728604fa53105979e7c945639134f7c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7852786
+project-id = 1499833

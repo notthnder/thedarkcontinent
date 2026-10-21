@@ -1,0 +1,93 @@
+filename = 'ThirstWasTaken2-1.10.0+1.21.1-neoforge.jar'
+name = 'ThirstWasTaken2'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.10.0+1.21.1-neoforge'
+
+[download]
+hash = 'de439c14e0ec1e381eaa9239ff50aa9373fe98bb9479d1590f632d85fd0b44ec290e980595f7295b414bc242361419bd58c5caa87dba4b1f84f9ddc911caa461'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/juge6qKH/versions/2uWfnxPW/ThirstWasTaken2-1.10.0%2B1.21.1-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'juge6qKH'
+version = '2uWfnxPW'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'R2OftAxM'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'hMlaZH8f'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'uXhSmPjd'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'fFEIiSDQ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'EsAfCjCV'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'qwbArkQk'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'e0bNACJD'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ra7o6Sl7'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'v17FatAc'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'TyCTlI4b'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'g6sbyCTu'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nvQzSEkH'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'YttyNOFA'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Eh11TaTm'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'HJetCzWo'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'hIu9KJTT'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'GyKzAh3l'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'e9V6wFcR'
+type = 'OPTIONAL'

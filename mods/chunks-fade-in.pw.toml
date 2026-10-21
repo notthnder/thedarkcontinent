@@ -1,0 +1,25 @@
+filename = 'chunksfadein-neoforge-3.0.26-1.21.jar'
+name = 'Chunks fade in'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v3.0.26-1.21 for NeoForge'
+
+[download]
+hash = '2544c305a682f29fe170564582a77121365833fd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8578813
+project-id = 720811
+
+[[x-prismlauncher-dependencies]]
+addonId = '455508'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '394468'
+type = 'REQUIRED'
