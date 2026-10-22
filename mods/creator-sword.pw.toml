@@ -1,22 +1,13 @@
-filename = 'creatorsword-1.0.0.jar'
-name = 'Create: Creator Sword'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.0.0'
+name = "Create: Creator Sword"
+filename = "creatorsword-1.0.0.jar"
+side = "both"
 
 [download]
-hash = '83d61bdea56bb47a17bb8bccbc25b4d1dafd56ef5da04bd26f2e4df43705771e902b5a6a3cc9988871a5d630f224908f15be0cd219434b81ab173359c6becb1d'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/98tjHawH/versions/rLr5zNDS/creatorsword-1.0.0.jar'
+hash-format = "sha1"
+hash = "4401948ba8b8e608cdeddef751d6a9ba87505021"
+mode = "metadata:curseforge"
 
-[update.modrinth]
-mod-id = '98tjHawH'
-version = 'rLr5zNDS'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'LNytGWDc'
-type = 'REQUIRED'
-version = 'n7NADxiG'
+[update]
+[update.curseforge]
+file-id = 8814845
+project-id = 1269043

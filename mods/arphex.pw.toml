@@ -1,37 +1,13 @@
-filename = 'ArPhEx-5.0.2-neoforge-1.21.1.jar'
-name = 'Arthropod Phobia Expansions + Horror Bosses / Arachnophobia'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '5.0.2'
+name = "Arthropod Phobia Expansions + Horror Bosses (Spiders, Arachnophobia)"
+filename = "ArPhEx-5.0.2-neoforge-1.21.1.jar"
+side = "both"
 
 [download]
-hash = '09a7e63a75ba0173ef6f60a71154a21cf6b5d07a2190d274fc9b75db23f4044ca829385b8931c698c3ed0ef48b06871c545537b2d31e1496b967e38d82922527'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/k0RPP4IO/versions/jawvD7YZ/ArPhEx-5.0.2-neoforge-1.21.1.jar'
+hash-format = "sha1"
+hash = "876e23454070ccb10852393fff046a57aa20f65d"
+mode = "metadata:curseforge"
 
-[update.modrinth]
-mod-id = 'k0RPP4IO'
-version = 'jawvD7YZ'
-
-[[x-prismlauncher-dependencies]]
-addonId = '3n8ZzJv0'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'A8rzsSSb'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '8BmcQJ2H'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'e2UrUTKG'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'dOGM7ccu'
-type = 'OPTIONAL'
+[update]
+[update.curseforge]
+file-id = 7466460
+project-id = 967672

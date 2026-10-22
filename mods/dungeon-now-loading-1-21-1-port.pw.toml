@@ -1,21 +1,13 @@
-filename = 'dungeonnowloading-neoforge-1.21.1-2.11.6.jar'
-name = 'Dungeon Now Loading'
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Dungeon Now Loading 2.11.6 (NeoForge)'
+name = "Dungeon Now Loading Tricky Trials Port"
+filename = "dungeonnowloading-neoforge-1.21.1-2.11.6.jar"
+side = "both"
 
 [download]
-hash = 'f03dc15759003ff741e7252c890fc511341d28c5'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "f03dc15759003ff741e7252c890fc511341d28c5"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 9208365
 project-id = 1585912
-
-[[x-prismlauncher-dependencies]]
-addonId = '1005450'
-type = 'REQUIRED'

@@ -1,21 +1,13 @@
-filename = 'better_mob_combat_reimagined-1.1.17.jar'
-name = 'Better Mob Combat - Reimagined'
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'better_mob_combat_reimagined-1.1.17'
+name = "Better Mob Combat - Reimagined"
+filename = "better_mob_combat_reimagined-1.1.17.jar"
+side = "both"
 
 [download]
-hash = '1a7fa22c2f9b3e00f6c2d3028ca938e1593a4b52'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "1a7fa22c2f9b3e00f6c2d3028ca938e1593a4b52"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 9042251
 project-id = 1606434
-
-[[x-prismlauncher-dependencies]]
-addonId = '639842'
-type = 'REQUIRED'

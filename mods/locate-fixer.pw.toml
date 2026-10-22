@@ -1,18 +1,13 @@
-filename = 'locatefixer-1.21.1-neoforge-4.0.0.jar'
-name = 'Locate Fixer'
-side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '4.0.0'
+name = "Locate Fixer"
+filename = "locatefixer-1.21.1-neoforge-4.0.0.jar"
+side = "both"
 
 [download]
-hash = '76e73a5de12a17e3b4a3c228f01c671cecd75305f6c2fb8dd5a660c77ddd8922178598d0e228f66ce9e2168430b1cf2a93b7d993f2d8fd520392f59f00dce10c'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/JdvOuRuL/versions/AHtD1XJB/locatefixer-1.21.1-neoforge-4.0.0.jar'
+hash-format = "sha1"
+hash = "f68dc64f93635f075a91bde0c0da22be8ca36b06"
+mode = "metadata:curseforge"
 
-[update.modrinth]
-mod-id = 'JdvOuRuL'
-version = 'AHtD1XJB'
+[update]
+[update.curseforge]
+file-id = 9125829
+project-id = 1301683

@@ -1,18 +1,13 @@
-filename = 'threateningly_mobs-1.1.1-neoforge-1.21.1.jar'
-name = 'Threateningly Mobs Continued'
-side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.1.1+neoforge.1.21.1'
+name = "Threateningly Mobs Continued"
+filename = "threateningly_mobs-1.1.1-neoforge-1.21.1.jar"
+side = "both"
 
 [download]
-hash = '714739e2984ba1df65528b47c59bc11a3c7a163520e0a6675d242fea9543cc927f1f7092af2f74dafaa3b6118c1df5ac4e9ae038b0debf4c5b3700a40322352d'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/JXjyo7k6/versions/6ZKBc8nS/threateningly_mobs-1.1.1-neoforge-1.21.1.jar'
+url = "https://cdn.modrinth.com/data/JXjyo7k6/versions/6ZKBc8nS/threateningly_mobs-1.1.1-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "714739e2984ba1df65528b47c59bc11a3c7a163520e0a6675d242fea9543cc927f1f7092af2f74dafaa3b6118c1df5ac4e9ae038b0debf4c5b3700a40322352d"
 
+[update]
 [update.modrinth]
-mod-id = 'JXjyo7k6'
-version = '6ZKBc8nS'
+mod-id = "JXjyo7k6"
+version = "6ZKBc8nS"

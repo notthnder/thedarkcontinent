@@ -1,18 +1,13 @@
-filename = 'create_continuum-1.0.0-1.21.1-neoforge.jar'
-name = 'Create: Continuum (Vanilla Backport Integration)'
-side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.0.0'
+name = "Create: Continuum (Vanilla Backport Integration)"
+filename = "create_continuum-1.0.0-1.21.1-neoforge.jar"
+side = "both"
 
 [download]
-hash = '0fa8561169103e728ef3fdbcc651e302b1242bf990c38031787c85cd4f72a815459d4dcbd0cb9a22760b8725d4301af15c832eea8c7735303e21ee9f652eef55'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/qGSCOjVE/versions/B6xXrx6O/create_continuum-1.0.0-1.21.1-neoforge.jar'
+hash-format = "sha1"
+hash = "3c8f673f522575295335767d021102dcf15f2f5f"
+mode = "metadata:curseforge"
 
-[update.modrinth]
-mod-id = 'qGSCOjVE'
-version = 'B6xXrx6O'
+[update]
+[update.curseforge]
+file-id = 8137708
+project-id = 1552396

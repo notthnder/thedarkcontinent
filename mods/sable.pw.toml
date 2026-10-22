@@ -1,29 +1,13 @@
-filename = 'sable-neoforge-1.21.1-2.0.5.jar'
-name = 'Sable'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '2.0.5+mc1.21.1'
+name = "Sable"
+filename = "sable-neoforge-1.21.1-2.0.5.jar"
+side = "both"
 
 [download]
-hash = 'bf3d8c87bcc5efb99afffd50305fc978086ed48a63e106816e3a8a3901f8052f4480ea527dbd7d4003f7775ed4d020529098034f4e307aefac9cc42df2b4c19a'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/T9PomCSv/versions/U678xqle/sable-neoforge-1.21.1-2.0.5.jar'
+hash-format = "sha1"
+hash = "05f666e973d32baaaf405acb9bbed6615b909971"
+mode = "metadata:curseforge"
 
-[update.modrinth]
-mod-id = 'T9PomCSv'
-version = 'U678xqle'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'qy8EtCnG'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'LNytGWDc'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '3KUWeVhG'
-type = 'EMBEDDED'
+[update]
+[update.curseforge]
+file-id = 8673825
+project-id = 1312371

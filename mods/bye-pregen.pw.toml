@@ -1,18 +1,13 @@
-filename = 'byepregen-1.21.1-1.1.3.3.jar'
-name = 'ByePregen'
-side = 'server'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'byepregen-1.21.1-1.1.3.3.jar'
+name = "Bye?Pregen!"
+filename = "byepregen-1.21.1-1.1.3.3.jar"
+side = "both"
 
 [download]
-hash = 'ff4cd1785e30852af76ee7fe4948a00de3042ba1'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "ff4cd1785e30852af76ee7fe4948a00de3042ba1"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 9206739
 project-id = 1567378

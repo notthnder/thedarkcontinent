@@ -1,18 +1,13 @@
-filename = 'citadel-2.7.1-1.21.1.jar'
-name = 'Citadel'
-side = 'server'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'citadel-2.7.1-1.21.1'
+name = "Citadel"
+filename = "citadel-2.7.1-1.21.1.jar"
+side = "both"
 
 [download]
-hash = '9d7873f74b418f4f83adf2ae41af75d2e8217cd6'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "9d7873f74b418f4f83adf2ae41af75d2e8217cd6"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 8458935
 project-id = 331936

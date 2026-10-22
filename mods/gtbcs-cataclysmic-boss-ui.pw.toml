@@ -1,21 +1,13 @@
-filename = 'gtbcs_cataclysmic_uis-1.0.3+1.21.1.jar'
 name = "GTBC's Cataclysmic Boss UI"
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.0.3+1.21.1'
+filename = "gtbcs_cataclysmic_uis-1.0.3+1.21.1.jar"
+side = "both"
 
 [download]
-hash = '854422098fd6a4e42ab0d061d536dfdaf472002837eb7c85ce7845984f90cecfa2e767b0583e8db9c7af3a8ad2a4486085d571a6c7cecb6ca869c2f1762e60c8'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/ScjLhji2/versions/k7TCCKym/gtbcs_cataclysmic_uis-1.0.3%2B1.21.1.jar'
+hash-format = "sha1"
+hash = "b5f665dbe83105092c7731ae9f53d1f3a9359549"
+mode = "metadata:curseforge"
 
-[update.modrinth]
-mod-id = 'ScjLhji2'
-version = 'k7TCCKym'
-
-[[x-prismlauncher-dependencies]]
-addonId = '46KJle7n'
-type = 'REQUIRED'
+[update]
+[update.curseforge]
+file-id = 8634932
+project-id = 1637570

@@ -1,33 +1,13 @@
-filename = 'emf_compat_quark_1.21.1_1.1.0.jar'
-name = 'EMF Compat: Quark'
-side = 'client'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.1.0'
+name = "EMF Compat: Quark"
+filename = "emf_compat_quark_1.21.1_1.1.0.jar"
+side = "both"
 
 [download]
-hash = '192f8125545aa0d5c3203c96a8530d2060077647b503b6993d654e59066971a6198be46a6f333736de91f5de4c805b3afbb44c1fcece7df8e74c6b89d712a65b'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/UvuFGp0l/versions/iuCwulgK/emf_compat_quark_1.21.1_1.1.0.jar'
+hash-format = "sha1"
+hash = "1fe36f166af0a718663304379d2d5e506b02db90"
+mode = "metadata:curseforge"
 
-[update.modrinth]
-mod-id = 'UvuFGp0l'
-version = 'iuCwulgK'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'hbGct5uU'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'BVzZfTc1'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'qnQsVE2z'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '4I1XuqiY'
-type = 'REQUIRED'
+[update]
+[update.curseforge]
+file-id = 8540672
+project-id = 1605187

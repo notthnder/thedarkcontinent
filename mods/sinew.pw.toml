@@ -1,18 +1,13 @@
-filename = 'Sinew-1.21.1-1.3.0.jar'
-name = 'Sinew'
-side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.3.0'
+name = "Sinew"
+filename = "Sinew-1.21.1-1.3.0.jar"
+side = "both"
 
 [download]
-hash = 'a275a7a319b8286264848cf53d23f043a7f984a6729529173d431672c4ca1fca46bb98100fb06d0b3fe8f0f2fc4e36ed92505a627ff3fbf49fe664509a2554e8'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/iBgzSrdT/versions/6X5MONzE/Sinew-1.21.1-1.3.0.jar'
+hash-format = "sha1"
+hash = "00653193606c2ed3e47ffa72817c0db55e312ffc"
+mode = "metadata:curseforge"
 
-[update.modrinth]
-mod-id = 'iBgzSrdT'
-version = '6X5MONzE'
+[update]
+[update.curseforge]
+file-id = 9169418
+project-id = 1686754

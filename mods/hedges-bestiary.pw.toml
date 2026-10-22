@@ -1,21 +1,13 @@
-filename = 'hedges_bestiary_1.1.2-neo.jar'
 name = "Hedge's Bestiary"
-side = ''
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.1.2'
+filename = "hedges_bestiary_1.1.2-neo.jar"
+side = "both"
 
 [download]
-hash = 'b61f6f849b9dcd51f8a89d4864c8d9be4a09f1111c0f6b1a4df1dcf54f3337b9a7fab489f1fd3ce01ba34431b08d3b9258113adcded46b51fbddaf7abf0aa241'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/CnMFlEHI/versions/9aAlPLPW/hedges_bestiary_1.1.2-neo.jar'
+hash-format = "sha1"
+hash = "41c950a66032759f59d6328c2a7298c4424956bb"
+mode = "metadata:curseforge"
 
-[update.modrinth]
-mod-id = 'CnMFlEHI'
-version = '9aAlPLPW'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'nU0bVIaL'
-type = 'REQUIRED'
+[update]
+[update.curseforge]
+file-id = 9271585
+project-id = 1689358

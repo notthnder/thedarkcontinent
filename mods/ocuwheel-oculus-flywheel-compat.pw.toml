@@ -1,0 +1,13 @@
+name = "Ocuwheel - Iris & Oculus Flywheel Compat for Create"
+filename = "ocuwheel-neoforge-1.21.1-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "10f1b22bf32caaa4772f451b30acc72b24d0b915"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8989721
+project-id = 1655478

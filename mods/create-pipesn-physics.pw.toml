@@ -1,0 +1,13 @@
+name = "Create: Pipes'n Physics"
+filename = "pipesnphysics-3.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bfcee82abd51ede6f7bf3e7705e166abb982a70f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8849438
+project-id = 1526086

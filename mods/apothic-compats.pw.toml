@@ -1,29 +1,13 @@
-filename = 'apothic_compats-0.2.6.jar'
-name = 'Apothic Compats'
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'apothic_compats-0.2.6.jar'
+name = "Apothic Compats"
+filename = "apothic_compats-0.2.6.jar"
+side = "both"
 
 [download]
-hash = '7d6717790869f7ff003a17bbdbf7f4b415c9d86a'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "7d6717790869f7ff003a17bbdbf7f4b415c9d86a"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 9244917
 project-id = 1188699
-
-[[x-prismlauncher-dependencies]]
-addonId = '898963'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '313970'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '283644'
-type = 'REQUIRED'

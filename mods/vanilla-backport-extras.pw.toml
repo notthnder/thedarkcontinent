@@ -1,21 +1,13 @@
-filename = 'vbextras-neoforge-1.0.3.jar'
-name = 'Vanilla Backport Extras'
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Vanilla Backport Extras 1.0.3 (NeoForge)'
+name = "Vanilla Backport Extras"
+filename = "vbextras-neoforge-1.0.3.jar"
+side = "both"
 
 [download]
-hash = '80a4e8037c2dde30459b53638c6e3112e002d20a'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "80a4e8037c2dde30459b53638c6e3112e002d20a"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 9250523
 project-id = 1737765
-
-[[x-prismlauncher-dependencies]]
-addonId = '417430'
-type = 'REQUIRED'

@@ -1,29 +1,13 @@
-filename = 'legionary-1.21.1-1.2.2.jar'
-name = 'Legionary'
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Legionary 1.2.2'
+name = "Legionary"
+filename = "legionary-1.21.1-1.2.2.jar"
+side = "both"
 
 [download]
-hash = '356b3c58f9dea72e3fed07dc15c21ec55c400f92'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "356b3c58f9dea72e3fed07dc15c21ec55c400f92"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 9146328
 project-id = 1173228
-
-[[x-prismlauncher-dependencies]]
-addonId = '1470590'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '382216'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '438005'
-type = 'OPTIONAL'

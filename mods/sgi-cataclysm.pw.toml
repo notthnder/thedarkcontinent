@@ -1,18 +1,13 @@
-filename = 'Cataclysm_SGI-0.2.1-NeoForge-1.21.1.jar'
-name = 'SGI-Cataclysm'
-side = 'server'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Cataclysm_SGI-0.2.1-NeoForge-1.21.1.jar'
+name = "SGI-Cataclysm"
+filename = "Cataclysm_SGI-0.2.1-NeoForge-1.21.1.jar"
+side = "both"
 
 [download]
-hash = '3e1011c0d428df4df13c2d5c16ae506ef5eef33e'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "3e1011c0d428df4df13c2d5c16ae506ef5eef33e"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 8939752
 project-id = 1703239

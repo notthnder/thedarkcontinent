@@ -1,25 +1,13 @@
-filename = 'create_aeronautics_ftb_chunks-1.21.1-NeoForge-1.2.0.jar'
-name = 'Create Aeronautics: FTB Chunks'
-side = 'server'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'create_aeronautics_ftb_chunks-1.21.1-NeoForge-1.2.0.jar'
+name = "Create Aeronautics: FTB Chunks"
+filename = "create_aeronautics_ftb_chunks-1.21.1-NeoForge-1.2.0.jar"
+side = "both"
 
 [download]
-hash = 'd505c3675adb535a23b2abc794e034bc809098d4'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "d505c3675adb535a23b2abc794e034bc809098d4"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 8888976
 project-id = 1530014
-
-[[x-prismlauncher-dependencies]]
-addonId = '676721'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '314906'
-type = 'REQUIRED'

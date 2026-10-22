@@ -1,18 +1,13 @@
-filename = 'lisa-fabric-2.0.6.jar'
-name = 'Lisa'
-side = 'server'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Lisa - 2.0.6'
+name = "Lisa (Inspired by the interactive teaser \"P.T.\")"
+filename = "lisa-fabric-2.0.6.jar"
+side = "both"
 
 [download]
-hash = '3d6f2d704b241cbcc79426bbb3a9eaab08a95ba8'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "3d6f2d704b241cbcc79426bbb3a9eaab08a95ba8"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 8950698
 project-id = 1499943
