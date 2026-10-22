@@ -1,0 +1,13 @@
+name = "Create Sable NoDupeFix"
+filename = "nodupefix-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6d6ba50c0d64b550ecf4e2efe0fc8e9bae54b029"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8437613
+project-id = 1611355

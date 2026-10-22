@@ -520,6 +520,11 @@ hash = "9da32bd760715dde3d9aa5f9435c09733f73d76130676f13223ec77e9c23ecff"
 metafile = true
 
 [[files]]
+file = "mods/create-sable-nodupefix.pw.toml"
+hash = "1eb828b83974182eaebc6f93d593717a0a1729be2ac33c34af945926ffa4237d"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails-1.21.1.pw.toml"
 hash = "80332cead695f1e3c27e99133a48709767d1106f836792bb2fc4d594b88f1a68"
 metafile = true
@@ -1336,7 +1341,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "9c7ec9729fc88332922d3c1e2210c36d1af0ed5c370ca68eaf87330fbd8ef954"
+hash = "78cf82fda4c8a7ea9556cf4481b43f38762151bcac0a09fd412f82d5f0883cc7"
 metafile = true
 
 [[files]]
@@ -1557,11 +1562,6 @@ metafile = true
 [[files]]
 file = "mods/runiclib.pw.toml"
 hash = "50247b958259e240e9892ce22158f651f7b569c8ea51f345532451f07db810eb"
-metafile = true
-
-[[files]]
-file = "mods/sable-fix-mod.pw.toml"
-hash = "4f7d0f2d5e6e7d81603d6c36c37ee155c37863ed40616f81b6896021ac90a4e6"
 metafile = true
 
 [[files]]
