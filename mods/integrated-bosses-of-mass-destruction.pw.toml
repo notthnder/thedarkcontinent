@@ -3,11 +3,11 @@ filename = "IBOMD v1.0.0-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "eb279322e3e7937b190974aa096f28de4e1b7fa8"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/N5Xy3ON4/versions/AVGpVnI8/IBOMD%20v1.0.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "ce158483a62a6369c5558f7988cd6b8ec11880f17ef1a2b7f3a111556d5ebf124b8fe9ba8e5df1e241322a58c704b498428996686e0eb39b642e1b6fbcb86332"
 
 [update]
-[update.curseforge]
-file-id = 8895453
-project-id = 1612974
+[update.modrinth]
+mod-id = "N5Xy3ON4"
+version = "AVGpVnI8"

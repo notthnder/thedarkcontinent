@@ -3,11 +3,11 @@ filename = "SubtleEffects-neoforge-1.21.1-1.15.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e8ab4df7ac4bf3d88fa389a1cf97ad2449c3206d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/4q8UOK1d/versions/ReUDmzrA/SubtleEffects-neoforge-1.21.1-1.15.1.jar"
+hash-format = "sha512"
+hash = "4bc61c3cb3df0d774f623eb9177c0ec3d74617c044d3a80a5b564094d2b14c9ebc98b79893a01bb5461d92141787bb814dd869101a293a840dade027bd0a56a1"
 
 [update]
-[update.curseforge]
-file-id = 9150589
-project-id = 1023913
+[update.modrinth]
+mod-id = "4q8UOK1d"
+version = "ReUDmzrA"

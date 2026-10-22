@@ -3,11 +3,11 @@ filename = "holyhell-2.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "33c927b315ce5b03e757f33b306e5fa2d3fac3b8"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/XaEPr11D/versions/gsLoZcI8/holyhell-2.0.2.jar"
+hash-format = "sha512"
+hash = "e7887a24bc09449b04edb7d67e74580bf011d03ae954151ac6c1d7c5241fe6f25ffcd24c42747b066cce60c4346685e2e1de9108fa5aec476e202c0ea6757616"
 
 [update]
-[update.curseforge]
-file-id = 8890481
-project-id = 1285833
+[update.modrinth]
+mod-id = "XaEPr11D"
+version = "gsLoZcI8"
