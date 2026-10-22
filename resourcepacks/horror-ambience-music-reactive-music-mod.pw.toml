@@ -1,0 +1,13 @@
+name = "Horror Ambience Music (For Reactive Music)"
+filename = "Reactive_Horror_Ambiance.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "78b7582569918413bfae9adce937ace4e2759c89"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6282510
+project-id = 1216526

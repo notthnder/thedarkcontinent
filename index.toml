@@ -1940,13 +1940,8 @@ hash = "4652700ee06b6435101176e2b633dfdddb46fc16cbdc376417e4e00ad26468f6"
 metafile = true
 
 [[files]]
-file = "resourcepacks/horror-ambience-music-2-forgotten-tunes.pw.toml"
-hash = "99415f40627b44cf2fd3269fa8ddaa5d54ebf71133e377ee0ba887f9085476b7"
-metafile = true
-
-[[files]]
-file = "resourcepacks/horror-ambience-music-echoes.pw.toml"
-hash = "e4791925e7f9ed2c6efabd7566fe7efb146996b443eee96f50a4a23782b36c13"
+file = "resourcepacks/horror-ambience-music-reactive-music-mod.pw.toml"
+hash = "d691b9ba32a99fc366d9c0f9239e8b1b1f9c0611c8fdf1128859e0852e9be4d1"
 metafile = true
 
 [[files]]
