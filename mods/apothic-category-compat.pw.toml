@@ -3,11 +3,11 @@ filename = "apothic_category_compat-2.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "da85ef9f6e9d7caf9da4b66eda4bc443e75ee3c7"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Uonyc6M4/versions/sTeXh64S/apothic_category_compat-2.1.0.jar"
+hash-format = "sha512"
+hash = "96552e2a75422100a67ebc8d49293451d8107a2e14e0bb778fd03a715895a7109751fdfa932643501005c49566eaf8f5886c7ac4883279656d7b5d5da4c0592d"
 
 [update]
-[update.curseforge]
-file-id = 8264124
-project-id = 1516278
+[update.modrinth]
+mod-id = "Uonyc6M4"
+version = "sTeXh64S"

@@ -1,13 +1,13 @@
 name = "Enhanced Boss Bars (Fabric/Forge/NeoForge)"
-filename = "enhancedbossbars-1.0.0.jar"
+filename = "enhanced_boss_bars-1.1.3-1.21.1-neoforge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "812fa35e45f015661e8348c96d2ccc360723583b"
+hash = "b901772e44652991855e3cfd68052d261f4ea7dc"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7547171
+file-id = 9292243
 project-id = 1063296
