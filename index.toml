@@ -1431,6 +1431,11 @@ hash = "3718e8a37d0dc2939cc350cce74bcb9c36b59f48baf4560e62804f7ca6478185"
 metafile = true
 
 [[files]]
+file = "mods/paxi-extra.pw.toml"
+hash = "b39f40453ae33d533601fb7d9942903e41276523aa9dae8aa952300467ffdf01"
+metafile = true
+
+[[files]]
 file = "mods/paxi-neoforge.pw.toml"
 hash = "b195d17d8138d83647b6abb853e25b3b2d6d8defdc76bb345eb93f40c2232019"
 metafile = true

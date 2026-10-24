@@ -1,0 +1,13 @@
+name = "Paxi Extra"
+filename = "PaxiExtra-1.2.1+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/r4xphMN8/versions/wj1v8beY/PaxiExtra-1.2.1%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "d1ddf2242bb2dd41cae84f7d0288dbb427905d3a952fb889b06d97f3886a5390e5718f0b79dd40839e79ab4a0a9834b3d2e9dad82048d90b4933cecf00e0d3c1"
+
+[update]
+[update.modrinth]
+mod-id = "r4xphMN8"
+version = "wj1v8beY"
