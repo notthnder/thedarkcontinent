@@ -1,13 +1,19 @@
+side = "server"
+filename = "presence-fabric-2.4.1.jar"
+pin = true
+x-prismlauncher-dependencies = []
 name = "Presence (An Ambient Horror Mod)"
-filename = "presence-2.4.1.jar"
-side = "both"
+x-prismlauncher-loaders = ["fabric"]
+x-prismlauncher-version-number = "Presence - 2.4.1"
+x-prismlauncher-mc-versions = ["1.21.1"]
+x-prismlauncher-release-type = "release"
 
 [download]
-hash-format = "sha1"
-hash = "926a8b457fad59ebe996442cc78a3add5be1c542"
 mode = "metadata:curseforge"
+hash-format = "sha1"
+hash = "a64b5e4c8a9a6e32364341591f8e96510a714018"
+url = ""
 
-[update]
 [update.curseforge]
-file-id = 9300052
+file-id = 9300054
 project-id = 1517861

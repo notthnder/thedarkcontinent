@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/click-inspired-by-the-film-hereditary.pw.toml"
-hash = "d3c10bdaa77e20a79a36364aa38c7c71c22ca5b39ed208f70d2447453481d741"
+hash = "bdc19cde335614cd943d23aed6d7293ba4aecc7b1248b95ac301fb3ffe71d92d"
 metafile = true
 
 [[files]]
@@ -1192,7 +1192,7 @@ metafile = true
 
 [[files]]
 file = "mods/lisa-inspired-by-p-t.pw.toml"
-hash = "15be4e941deeab0cf42b67eb507448e900e1189a6d32ce7d637179ea33e6aabf"
+hash = "8969ed869d13f2a1292465b4bdec187bce07748657e5ea0864c10f45a54bd43d"
 metafile = true
 
 [[files]]
@@ -1492,7 +1492,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-an-ambient-horror-mod.pw.toml"
-hash = "d4c5e818730cc8f4eef29a56ba75372fb8d30abf8632fc98e5b826c0d63601f1"
+hash = "e1f4349b3f3577d785c6af34701fdcb0e38c44792efea5b6aa9c8fb538366ee1"
 metafile = true
 
 [[files]]
