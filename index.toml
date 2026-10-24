@@ -1552,7 +1552,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-emi.pw.toml"
-hash = "c47ac54306ccf1ccae4f7253149380db2bffa819d303d13d89659a3f282c09ac"
+hash = "c44bda958eaf4e1ff3636ba53fb60ceb2c85dcfb14b1623183322a34456fe12f"
 metafile = true
 
 [[files]]
@@ -1647,7 +1647,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "9e324cddedb5c8a25b577a4fcf23cb27e96ae4cb638b57854fac68dda294c20f"
+hash = "852ba399cf42709a5a22cf946e6a20c0d5e77d2990d98478e3e826a69154ff24"
 metafile = true
 
 [[files]]
