@@ -361,6 +361,11 @@ hash = "badc999f45c82bc6d41accfd5bd2c53af1c45f358df240ea4ae0bdbcbc4c1be5"
 metafile = true
 
 [[files]]
+file = "mods/click-inspired-by-the-film-hereditary.pw.toml"
+hash = "8d9b932ef01ad000e9a9a94a597219266be9d844cc1e2ffcefa47bdfeb1c2acf"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
@@ -1151,6 +1156,11 @@ hash = "9b93e0ced7fb0398ee2db3166966c12987554b88c5efd1d76d4cd82b0e4a2d3f"
 metafile = true
 
 [[files]]
+file = "mods/l_enders-cataclysm-delight.pw.toml"
+hash = "637e5b445b28d460884ce868948328ef512eb10ab2af60a86bd3e2c37ac49697"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a18e3ccdf71e346bcd5f772c235ad9244aec9dfc128402486e91bffc807832a9"
 metafile = true
@@ -1183,6 +1193,11 @@ metafile = true
 [[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "c27c2b642deba3609c6e5741ee6360cb8d760e5bf5b2595fd4fa01c01dc5f074"
+metafile = true
+
+[[files]]
+file = "mods/lisa-inspired-by-the-interactive-teaser-p.t..pw.toml"
+hash = "ab7534104e37ff1449f6ce14c05cf6578459dfdb163999805dfb0fa0dbc00024"
 metafile = true
 
 [[files]]
@@ -1483,6 +1498,11 @@ metafile = true
 [[files]]
 file = "mods/power-grid.pw.toml"
 hash = "acddd9bca673bbf549ad07ae4ab47617ac1dcb7a5235acab74c5ab4e53e96293"
+metafile = true
+
+[[files]]
+file = "mods/presence-an-ambient-horror-mod.pw.toml"
+hash = "edd3235c5984e7b3685545aef217807bb18ddc95f3d6eaa25daa3d9a4e4c132d"
 metafile = true
 
 [[files]]
