@@ -1,0 +1,56 @@
+#Lisa Mod Configuration
+[general]
+
+	#Spawn Settings
+	[general.spawn]
+		#Chance per check (every 100 ticks) that Lisa will spawn near a qualifying player. Range: 0.0 to 1.0 (Default: 0.01)
+		#Range: 0.0 ~ 1.0
+		spawnChance = 0.01
+		#Minimum ticks between Lisa spawn events per player. 48000 ticks = ~40 in-game minutes at 20 TPS (Default: 48000)
+		#Range: 0 ~ 2147483647
+		spawnCooldownTicks = 72000
+		#Allow Lisa to spawn at night (world time 13000-23000). (Default: true)
+		enableNightSpawn = true
+		#Allow Lisa to spawn underground (sky light level 0). (Default: true)
+		enableCaveSpawn = true
+
+	#Behavior Settings
+	[general.behavior]
+		#Ticks Lisa spends lurking before rolling to appear behind the player. 200 ticks = 10 seconds (Default: 200)
+		#Range: 0 ~ 2147483647
+		phase2DelayTicks = 100
+		#Chance that Lisa teleports behind the player after the lurk delay. Range: 0.0 to 1.0 (Default: 0.1)
+		#Range: 0.0 ~ 1.0
+		phase2Chance = 0.05
+		#Ticks Lisa stays directly behind the player before despawning if never spotted. 100 ticks = 5 seconds (Default: 100)
+		#Range: 0 ~ 2147483647
+		phase2LingerTicks = 60
+		#When true, Lisa kills the player when the grab sequence completes. When false, she disappears in a cloud of smoke instead. The BEHIND_PLAYER phase (Look Behind You encounter) always kills regardless of this setting. (Default: true)
+		enableInstakill = false
+		#Chance that Lisa enters ambient-stalk mode when she spawns (instead of normal lurking). She silently tracks the player from behind, plays one ambient sound, then vanishes. Range: 0.0 to 1.0 (Default: 0.1)
+		#Range: 0.0 ~ 1.0
+		ambientStalkChance = 0.05
+		#Ticks Lisa stays behind the player during an ambient stalk before despawning. 130 ticks = 6.5 seconds (Default: 130)
+		#Range: 1 ~ 2147483647
+		ambientStalkDurationTicks = 60
+		#Chance that Lisa appears in front of the player when they break a qualifying block in a cave (1x2 space with solid walls on three sides, at player foot level). Range: 0.0 to 1.0 (Default: 0.05)
+		#Range: 0.0 ~ 1.0
+		miningPeekChance = 0.05
+		#Minimum ticks between Mining Peek spawn events per player. 12000 ticks = ~10 in-game minutes at 20 TPS (Default: 12000)
+		#Range: 0 ~ 2147483647
+		miningPeekCooldownTicks = 36000
+
+	#Effects Settings
+	[general.effects]
+		#Apply the Darkness effect to the player while Lisa is within darknessRange. (Default: true)
+		enableDarknessEffect = true
+		#Block radius within which the Darkness effect activates. Amplifier scales with proximity. Range: 0.0 to 256.0 (Default: 30.0)
+		#Range: 0.0 ~ 256.0
+		darknessRange = 30.0
+		#Lisa erratically skips rendering on ~70% of frames when enabled, producing a rapid random blink effect. (Default: true)
+		enableFlicker = true
+
+	#Logging Settings
+	[general.logging]
+		#Enable detailed debug logging for Lisa events. (Default: false)
+		enableLogging = false

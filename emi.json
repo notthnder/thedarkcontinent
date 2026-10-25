@@ -1,0 +1,47 @@
+{
+  "favorites": [
+    {
+      "stack": "item:eccentrictome:tome{\"eccentrictome:tome_data\":{books:{alexscaves:[{count:1,id:\"alexscaves:cave_book\"}],alexsmobs:[{count:1,id:\"alexsmobs:animal_dictionary\"}],apotheosis:[{components:{\"patchouli:book\":\"apotheosis:apoth_chronicle\"},count:1,id:\"patchouli:guide_book\"}],butchery:[{components:{\"patchouli:book\":\"butchery:butchers_guide\"},count:1,id:\"patchouli:guide_book\"}],fdbosses:[{count:1,id:\"fdbosses:qliphothic_codex\"}],grotesque_steve:[{count:1,id:\"grotesque_steve:manualbook\"}],hedges_bestiary:[{components:{\"patchouli:book\":\"hedges_bestiary:hedges_bestiary\"},count:1,id:\"patchouli:guide_book\"}],iceandfire:[{count:1,id:\"iceandfire:bestiary\"}],irons_spellbooks:[{components:{\"patchouli:book\":\"irons_spellbooks:iss_guide_book\"},count:1,id:\"patchouli:guide_book\"}],kingsandmonsters:[{components:{\"patchouli:book\":\"kingsandmonsters:compendium\"},count:1,id:\"patchouli:guide_book\"}],l2hostility:[{components:{\"patchouli:book\":\"l2hostility:hostility_guide\"},count:1,id:\"patchouli:guide_book\"}],luminousworld:[{count:1,id:\"luminousworld:beastiary\"}],netherman:[{count:1,id:\"netherman:azazel_guide_book\"}],villagernewsjavafied:[{count:1,id:\"villagernewsjavafied:handbook\"}]},tome_id:\"bde90a14-059f-473c-9a63-964e55ae05e0\"}}",
+      "recipe": "eccentrictome:tome"
+    },
+    {
+      "stack": "item:naturescompass:naturescompass",
+      "recipe": "naturescompass:natures_compass"
+    },
+    {
+      "stack": "item:explorerscompass:explorerscompass",
+      "recipe": "explorerscompass:explorers_compass"
+    }
+  ],
+  "lookup_history": [
+    "item:minecraft:crafting_table",
+    "item:eccentrictome:tome{\"eccentrictome:tome_data\":{books:{alexscaves:[{count:1,id:\"alexscaves:cave_book\"}],alexsmobs:[{count:1,id:\"alexsmobs:animal_dictionary\"}],apotheosis:[{components:{\"patchouli:book\":\"apotheosis:apoth_chronicle\"},count:1,id:\"patchouli:guide_book\"}],butchery:[{components:{\"patchouli:book\":\"butchery:butchers_guide\"},count:1,id:\"patchouli:guide_book\"}],fdbosses:[{count:1,id:\"fdbosses:qliphothic_codex\"}],grotesque_steve:[{count:1,id:\"grotesque_steve:manualbook\"}],hedges_bestiary:[{components:{\"patchouli:book\":\"hedges_bestiary:hedges_bestiary\"},count:1,id:\"patchouli:guide_book\"}],iceandfire:[{count:1,id:\"iceandfire:bestiary\"}],irons_spellbooks:[{components:{\"patchouli:book\":\"irons_spellbooks:iss_guide_book\"},count:1,id:\"patchouli:guide_book\"}],kingsandmonsters:[{components:{\"patchouli:book\":\"kingsandmonsters:compendium\"},count:1,id:\"patchouli:guide_book\"}],l2hostility:[{components:{\"patchouli:book\":\"l2hostility:hostility_guide\"},count:1,id:\"patchouli:guide_book\"}],luminousworld:[{count:1,id:\"luminousworld:beastiary\"}],netherman:[{count:1,id:\"netherman:azazel_guide_book\"}],villagernewsjavafied:[{count:1,id:\"villagernewsjavafied:handbook\"}]},tome_id:\"bde90a14-059f-473c-9a63-964e55ae05e0\"}}",
+    "item:dimdoors:rift_signature",
+    "item:dimdoors:rift_pearl",
+    "item:dimdoors:rift_remover",
+    "item:dimdoors:stable_fabric",
+    "item:dimdoors:fabric_of_finality",
+    "item:dimdoors:fuzzy_fireball",
+    "item:dimdoors:liminal_lint",
+    "item:dimdoors:frayed_filament",
+    "item:dimdoors:world_thread",
+    "item:dimdoors:stabilized_rift_signature",
+    "item:places:error_item",
+    "item:dimdoors:rift_stabilizer",
+    "item:nexus_crusade:nexium_ingot",
+    "item:kingsandmonsters:bog_iron",
+    "item:born_in_chaos_v1:dark_metal_ingot",
+    "item:born_in_chaos_v1:dark_metal_nugget",
+    "item:cataclysm:ignitium_helmet",
+    "item:cataclysm:cursium_helmet",
+    "item:cataclysm:desert_eye"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

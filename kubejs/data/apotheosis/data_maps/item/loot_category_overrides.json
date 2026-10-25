@@ -1,0 +1,118 @@
+{
+  "values": {
+    "antarchy:ultimate_axe": "apotheosis:breaker",
+    "antarchy:battle_axe": "apotheosis:melee_weapon",
+    "antarchy:water_cannon": "apotheosis:bow",
+    "antarchy:royal_assailant_battleaxe": "apotheosis:melee_weapon",
+
+    "arphex:black_widow_bow": "apotheosis:bow",
+    "arphex:ethereal_staff": "apotheosis:none",
+    "arphex:formic_fireblaster": "apotheosis:bow",
+    "arphex:abyssal_annihilator": "apotheosis:bow", 
+    "arphex:hypnotic_hellblaster": "apotheosis:bow", 
+    "arphex:vengeful_voidseeker": "apotheosis:bow",
+    "arphex:judgement_blaster": "apotheosis:bow",
+    "arphex:chrono_cannon": "apotheosis:bow",
+    "arphex:genesis_rifle": "apotheosis:bow", 
+    "arphex:tormented_wrath": "apotheosis:bow", 
+
+    "macabre:soaked_axe": "apotheosis:melee_weapon",
+    "macabre:brittle_axe": "apotheosis:melee_weapon",
+    "macabre:teething_axe": "apotheosis:melee_weapon",
+    "macabre:dried_axe": "apotheosis:melee_weapon",
+    "macabre:wasted_axe": "apotheosis:melee_weapon",
+    "macabre:drenched_axe": "apotheosis:melee_weapon",
+    "macabre:blood_clot_hoe": "apotheosis:none",
+    "macabre:blaster": "apotheosis:bow", 
+    "macabre:pump": "apotheosis:bow", 
+    "macabre:grossbow": "apotheosis:bow",
+    "macabre:shorgan": "apotheosis:bow",
+
+    "sons_of_sins:osseous_hoe": "apotheosis:none",
+    "sons_of_sins:sinful_hoe": "apotheosis:none",
+    "sons_of_sins:shape_shifting_tool": "apotheosis:breaker",
+  
+    "threateningly_mobs:riptooth_axe": "apotheosis:melee_weapon",
+    "threateningly_mobs:bionics_axe": "apotheosis:melee_weapon",
+    "threateningly_mobs:copasmetal_axe": "apotheosis:melee_weapon",
+    "threateningly_mobs:night_axe": "apotheosis:melee_weapon",
+    "threateningly_mobs:bionics_hoe": "apotheosis:none",
+  
+    "block_factorys_bosses:sandworm_gauntlet": "apotheosis:bow",
+
+    "bosses_of_mass_destruction:earthdive_spear": "apotheosis:melee_weapon",
+
+    "dungeonnowloading:scorcher": "apotheosis:bow",
+    "dungeonnowloading:soul_scorcher": "apotheosis:bow",
+
+    "legendary_monsters:fiery_jaw": "apotheosis:melee_weapon",
+    "legendary_monsters:axe_of_lightning": "apotheosis:melee_weapon",
+    "legendary_monsters:golden_halbert": "apotheosis:melee_weapon",
+    "legendary_monsters:mossy_hammer": "apotheosis:melee_weapon",
+    "legendary_monsters:enderitium_hoe": "apotheosis:none",
+    "legendary_monsters:withered_scythe": "apotheosis:melee_weapon",
+    "legendary_monsters:wand_of_clouds": "apotheosis:melee_weapon",
+    "legendary_monsters:resurrected_javelin": "apotheosis:trident",
+
+    "l2complements:shulkerate_hoe": "apotheosis:breaker",
+    "l2complements:sculkium_hoe": "apotheosis:breaker",
+
+    "archaion:echos_grace": "apotheosis:bow",
+    
+    "aquamirae:maze_rose": "apotheosis:bow",
+    "aquamirae:terrible_chakram": "apotheosis:bow",
+
+    "butchery:bone_hacksaw": "apotheosis:breaker",
+    "butchery:copper_hacksaw": "apotheosis:breaker",
+    "butchery:iron_hacksaw": "apotheosis:breaker",
+    "butchery:gold_hacksaw": "apotheosis:breaker",
+    "butchery:diamond_hacksaw": "apotheosis:breaker",
+    "butchery:netherite_hacksaw": "apotheosis:breaker",
+
+    "hybrid_aquatic:coral_axe": "apotheosis:melee_weapon",
+    "hybrid_aquatic:coral_hoe": "apotheosis:none",
+
+    "undergarden:utherium_hoe": "apotheosis:none",
+
+    "infernalexp:blindsight_tongue_whip": "apotheosis:melee_weapon",
+
+    "luminousworld:ironhammer": "apotheosis:melee_weapon",
+
+    "alexsmobs:skelewag_sword": "apotheosis:melee_weapon",
+    "alexscaves:limestone_spear": "apotheosis:melee_weapon",
+    "alexscaves:extinction_spear": "apotheosis:melee_weapon",
+    "alexscaves:ortholance": "apotheosis:melee_weapon",
+    "alexscaves:primitive_club": "apotheosis:melee_weapon",
+    "alexscaves:sea_staff": "apotheosis:bow",
+    "alexscaves:sharpened_candy_cane": "apotheosis:melee_weapon",
+    "alexscaves:frostmint_spear": "apotheosis:trident",
+    
+    "tfmg:aluminum_hoe": "apotheosis:none",
+    "tfmg:steel_hoe": "apotheosis:none",
+    "tfmg:lead_hoe": "apotheosis:none",
+
+    "netherexp:shotgun_fist": "apotheosis:bow",
+    "netherexp:pump_charge_shotgun": "apotheosis:bow",
+
+    "grotesque_steve:protein": "apotheosis:melee_weapon",
+
+    "opposing_force:emerald_hoe": "apotheosis:none",
+    "opposing_force:lapis_lazuli_hoe": "apotheosis:none",
+    "opposing_force:blaster": "apotheosis:bow",
+    "opposing_force:tri_blaster": "apotheosis:bow",
+    "opposing_force:scatter_blaster": "apotheosis:bow",
+    "opposing_force:jaeger": "apotheosis:bow",
+    "opposing_force:boomstick": "apotheosis:bow",
+    "opposing_force:gorloff": "apotheosis:bow",
+    "opposing_force:crackshot": "apotheosis:bow",
+
+    "nexus_crusade:blaster_crossbow": "apotheosis:bow",
+    "nexus_crusade:ice_wand": "apotheosis:bow",
+
+    "kingsandmonsters:hunters_spear": "apotheosis:trident",
+    "kingsandmonsters:bog_iron_hoe": "apotheosis:none",
+
+    "hedges_bestiary:endgelic_judgement": "apotheosis:bow"
+
+  }
+}

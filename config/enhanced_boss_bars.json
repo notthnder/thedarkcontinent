@@ -1,0 +1,228 @@
+{
+  "general": {
+    "enhanced_boss_bars_enabled": true,
+    "override_all_boss_bars": false,
+    "horizontal_alignment": "Center",
+    "vertical_direction": "Down",
+    "position_x": 50,
+    "position_y": 1,
+    "scale": 2,
+    "bar_preview": false,
+    "max_boss_bars": 3,
+    "max_boss_bars_preview": false
+  },
+  "boss_bars": {
+    "entity.block_factorys_bosses.underworld_knight": {
+      "enabled": true,
+      "selected_author": "Bosses\u0027 Rise (Fancy)"
+    },
+    "entity.legendary_monsters.posessed_paladin": {
+      "enabled": true,
+      "selected_author": "Legendary Monsters"
+    },
+    "entity.antarchy.toreterror": {
+      "enabled": true,
+      "selected_author": "Antarchy"
+    },
+    "entity.cataclysm.netherite_monstrosity": {
+      "enabled": true,
+      "selected_author": "Naku"
+    },
+    "entity.mowziesmobs.ferrous_wroughtnaut": {
+      "enabled": true,
+      "selected_author": "Naku"
+    },
+    "entity.block_factorys_bosses.sandworm": {
+      "enabled": true,
+      "selected_author": "Bosses\u0027 Rise (Fancy)"
+    },
+    "entity.mowziesmobs.frostmaw": {
+      "enabled": true,
+      "selected_author": "Naku"
+    },
+    "entity.aquamirae.captain_cornelia": {
+      "enabled": true,
+      "selected_author": "Aquamirae"
+    },
+    "entity.antarchy.kraken": {
+      "enabled": true,
+      "selected_author": "Antarchy"
+    },
+    "entity.bosses_of_mass_destruction.lich": {
+      "enabled": true,
+      "selected_author": "Naku"
+    },
+    "entity.antarchy.emperor_scorpion": {
+      "enabled": true,
+      "selected_author": "Antarchy"
+    },
+    "entity.alexsmobs.void_worm": {
+      "enabled": true,
+      "selected_author": "Naku"
+    },
+    "entity.mowziesmobs.umvuthi": {
+      "enabled": true,
+      "selected_author": "Naku"
+    },
+    "entity.antarchy.hercules_beetle": {
+      "enabled": true,
+      "selected_author": "Antarchy"
+    },
+    "entity.antarchy.alpha_mantis": {
+      "enabled": true,
+      "selected_author": "Antarchy"
+    },
+    "entity.block_factorys_bosses.yeti": {
+      "enabled": true,
+      "selected_author": "Bosses\u0027 Rise (Fancy)"
+    },
+    "entity.bosses_of_mass_destruction.void_blossom": {
+      "enabled": true,
+      "selected_author": "Naku"
+    },
+    "entity.cataclysm.ender_guardian": {
+      "enabled": true,
+      "selected_author": "Naku"
+    },
+    "entity.bosses_of_mass_destruction.obsidilith": {
+      "enabled": true,
+      "selected_author": "Naku"
+    },
+    "entity.minecraft.ender_dragon": {
+      "enabled": false,
+      "selected_author": "Naku"
+    },
+    "entity.antarchy.queen": {
+      "enabled": true,
+      "selected_author": "Antarchy"
+    },
+    "entity.antarchy.king": {
+      "enabled": true,
+      "selected_author": "Antarchy"
+    },
+    "entity.minecraft.wither": {
+      "enabled": true,
+      "selected_author": "Naku"
+    },
+    "entity.cataclysm.ignis": {
+      "enabled": true,
+      "selected_author": "Naku"
+    },
+    "entity.block_factorys_bosses.infernal_dragon": {
+      "enabled": true,
+      "selected_author": "Bosses\u0027 Rise (Fancy)"
+    },
+    "entity.bosses_of_mass_destruction.gauntlet": {
+      "enabled": true,
+      "selected_author": "Naku"
+    },
+    "entity.legendary_monsters.the_obliterator": {
+      "enabled": true,
+      "selected_author": "Legendary Monsters"
+    },
+    "entity.antarchy.brutalfly": {
+      "enabled": true,
+      "selected_author": "Antarchy"
+    },
+    "entity.cataclysm.the_leviathan": {
+      "enabled": true,
+      "selected_author": "Naku"
+    },
+    "entity.block_factorys_bosses.kraken": {
+      "enabled": true,
+      "selected_author": "Bosses\u0027 Rise (Fancy)"
+    },
+    "entity.cataclysm.the_harbinger": {
+      "enabled": true,
+      "selected_author": "Naku"
+    },
+    "entity.legendary_monsters.cloud_golem": {
+      "enabled": true,
+      "selected_author": "Legendary Monsters"
+    },
+    "Void Worm": {
+      "enabled": true,
+      "selected_author": "Naku"
+    },
+    "Alpha Mantis": {
+      "enabled": true,
+      "selected_author": "Antarchy"
+    },
+    "Brutalfly": {
+      "enabled": true,
+      "selected_author": "Antarchy"
+    },
+    "Emperor Scorpion": {
+      "enabled": true,
+      "selected_author": "Antarchy"
+    },
+    "Hercules Beetle": {
+      "enabled": true,
+      "selected_author": "Antarchy"
+    },
+    "The Kraken": {
+      "enabled": true,
+      "selected_author": "Antarchy"
+    },
+    "Toreterror": {
+      "enabled": true,
+      "selected_author": "Antarchy"
+    },
+    "Nether Gauntlet": {
+      "enabled": true,
+      "selected_author": "Naku"
+    },
+    "Night Lich": {
+      "enabled": true,
+      "selected_author": "Naku"
+    },
+    "Obsidilith": {
+      "enabled": true,
+      "selected_author": "Naku"
+    },
+    "Void Blossom": {
+      "enabled": true,
+      "selected_author": "Naku"
+    },
+    "Ender Guardian": {
+      "enabled": true,
+      "selected_author": "Naku"
+    },
+    "The Harbinger": {
+      "enabled": true,
+      "selected_author": "Naku"
+    },
+    "Ignis": {
+      "enabled": true,
+      "selected_author": "Naku"
+    },
+    "The Leviathan": {
+      "enabled": true,
+      "selected_author": "Naku"
+    },
+    "Netherite Monstrosity": {
+      "enabled": true,
+      "selected_author": "Naku"
+    },
+    "Ender Dragon": {
+      "enabled": true,
+      "selected_author": "Naku"
+    },
+    "Wither": {
+      "enabled": true,
+      "selected_author": "Naku"
+    },
+    "Ferrous Wroughtnaut": {
+      "enabled": true,
+      "selected_author": "Naku"
+    },
+    "Frostmaw": {
+      "enabled": true,
+      "selected_author": "Naku"
+    },
+    "Umvuthi, the Sunbird": {
+      "enabled": true,
+      "selected_author": "Naku"
+    }
+  }
+}

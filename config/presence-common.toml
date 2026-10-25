@@ -1,0 +1,91 @@
+#Presence Mod Configuration
+[general]
+
+	#Event Settings
+	[general.event]
+		#Minimum seconds to wait before rolling for the presence to occur (Default: 600 seconds = 10 minutes)
+		#Range: 10 ~ 2147483647
+		minTimeSeconds = 3600
+		#How long the presence event lasts in seconds (Default: 60 seconds)
+		#Range: 5 ~ 2147483647
+		eventDurationSeconds = 30
+		#Chance (0.0 to 1.0) for the presence to occur each check after the minimum time (Default: 0.1 = 10%)
+		#Range: 0.0 ~ 1.0
+		rollChance = 0.05
+		#Trigger mode: 1 = activate regardless of surroundings, 2 = activate only if at least minVisibleMobs entities are within line of sight of a player (Default: 2)
+		#Range: 1 ~ 2
+		triggerMode = 2
+		#Minimum number of mobs within a player's line of sight for the event to trigger (only used when triggerMode = 2) (Default: 3)
+		#Range: 1 ~ 50
+		minVisibleMobs = 3
+
+	#Behavior Settings
+	[general.behavior]
+		#How long mobs freeze in place before slowly turning toward the player (seconds, 0 to disable) (Default: 1 second)
+		#Range: 0 ~ 10
+		freezeDurationSeconds = 1
+		#If true, mobs with the presence goal will slowly pathfind toward the nearest player during the event (Default: true)
+		mobsApproachPlayer = true
+		#Speed modifier for mob approach pathfinding (fraction of each mob's base movement speed). Only used when mobsApproachPlayer is true. (Default: 0.3)
+		#Range: 0.01 ~ 3.0
+		mobApproachSpeed = 0.4
+		#If true, wolves, cats, endermen, spiders, pandas, and foxes within 12 blocks will play threatening sounds during the event (Default: true)
+		enableProximityGrowls = true
+		#How much to narrow the FOV during the presence event (0.0 to disable, default 0.30 = 30% reduction)
+		#Range: 0.0 ~ 1.0
+		narrowFovBy = 0.2
+
+	#Sound Settings
+	[general.sounds]
+		#Sound muting during the presence event: 0 = no changes, 1 = mute ambient category, 2 = mute everything except whispers (Default: 2)
+		#Range: 0 ~ 2
+		soundMode = 2
+
+	#Mob Spawning Settings
+	[general.spawning]
+		#If true, threat mobs (zombies, skeletons, endermen, etc.) will be spawned near players at event start if fewer than mobSpawnLimit are present nearby (Default: true)
+		spawnMobsNearPlayer = true
+		#Spawn mode: 0 = default (spawn from mob pool), 1 = killer (spawn a Killer entity instead of pool mobs) (Default: 1)
+		#Range: 0 ~ 1
+		mobSpawnMode = 1
+		#Minimum number of threat mobs that must exist near the player; more will be spawned up to this count (Default: 3)
+		#Range: 1 ~ 20
+		mobSpawnLimit = 3
+		#Maximum distance from the player in blocks at which event mobs can spawn (Default: 20)
+		#Range: 8 ~ 128
+		mobSpawnRange = 10
+		#If true, when a player gets within 2 blocks of a mob with the presence goal, that mob is replaced by a humanoid killer entity (Default: true)
+		replaceMobWithKiller = false
+		#How many seconds after the presence event ends before killer entities despawn (Default: 30)
+		#Range: 5 ~ 300
+		despawnKillerAfter = 10
+		#Movement speed of the killer entity when pursuing the player. Higher = faster. Player sprint is roughly 0.26; values above that will outrun a sprinting player. (Default: 0.40)
+		#Range: 0.05 ~ 2.0
+		killerSpeed = 0.3
+		#If true, tamed mobs (wolves, cats, parrots, horses, llamas, etc.) are never replaced by the killer. They still stare. (Default: true)
+		protectTamedMobs = true
+		#If true, mobs with a custom name (e.g. from a name tag) are never replaced by the killer. They still stare. (Default: true)
+		protectNamedMobs = true
+		#If true, mobs on a lead are never replaced by the killer. They still stare. (Default: true)
+		protectLeashedMobs = true
+		#If true, there is a configurable chance for a difficult mob to spawn near the player during a presence event (Default: false)
+		difficultMobSpawnPossible = false
+		#If difficult mob spawning is enabled, this is the chance (0.0 to 1.0) for a difficult mob (Warden, Ravager, Evoker, Vex, Witch, Vindicator) to spawn instead of a normal pool mob (Default: 0.01 = 1%)
+		#Range: 0.0 ~ 1.0
+		difficultMobSpawnChance = 0.01
+
+	#Performance Settings
+	[general.performance]
+		#When false (default), goals are injected into all mobs within 256 blocks that have a direct line of sight to any player - the most thorough option. When true, the maxInjectionRange and maxYDelta settings act as a cheap pre-filter (no LOS check), which is faster but less precise.
+		useMaxInjectionRangeLimits = false
+		#Maximum XZ distance (blocks) from any player a mob must be within to receive the presence goal. Mobs beyond this range are skipped. (Default: 64)
+		#Range: 16 ~ 512
+		maxInjectionRange = 64
+		#Maximum vertical distance (blocks) between a mob and the nearest player for goal injection. Filters underground mobs when the player is on the surface, and vice versa. (Default: 32)
+		#Range: 8 ~ 256
+		maxYDelta = 32
+
+	#Logging Settings
+	[general.logging]
+		#Enable debug logging for Presence (Default: false)
+		enableLogging = false

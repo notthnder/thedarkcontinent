@@ -1,0 +1,11 @@
+{
+  "musicDelayLength2": "SONGPACK_DEFAULT",
+  "musicSwitchSpeed2": "SONGPACK_DEFAULT",
+  "debugModeEnabled": false,
+  "loadedUserSongpack": "Reactive Horror 1.0",
+  "blacklistedDimensions": [],
+  "savedHomePositions": {},
+  "soundsMuteMusic": [],
+  "soundsMuteMusicIgnoreDistance": [],
+  "hasForcedInitialVolume": true
+}

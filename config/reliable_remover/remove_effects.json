@@ -1,0 +1,8 @@
+ {
+    "action": "remove_potion",
+    "effects": [
+        "apothic_attributes:flying",
+        "apothic_attributes:long_flying",
+        "apothic_attributes:extra_long_flying"
+    ]
+}

@@ -1,0 +1,14 @@
+ {
+    "action": "remove_interactions",
+    "items": [
+        "arphex:crawling_container"
+    ],
+    "not": {
+        "dimensions": [
+            "minecraft:overworld",
+            "minecraft:the_nether",
+            "minecraft:the_end",
+            "arphex:the_crawling"
+        ]
+    }
+}

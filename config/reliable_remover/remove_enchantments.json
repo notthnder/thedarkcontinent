@@ -1,0 +1,14 @@
+ {
+    "action": "remove_enchantments",
+    "enchantments": [
+        "l2complements:soul_bound",
+        "l2complements:life_mending",
+        "l2complements:life_sync",
+        "l2complements:cubic_chunk_eater",
+        "l2complements:planar_chunk_eater",
+        "l2complements:echo_mining",
+        "l2complements:void_touch",
+        "l2complements:drilling",
+        "minecraft:lunge"
+    ]
+}

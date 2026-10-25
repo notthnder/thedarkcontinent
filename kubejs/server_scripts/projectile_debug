@@ -1,0 +1,13 @@
+EntityEvents.spawned(event => {
+    const entity = event.entity
+    
+    if (entity.isPlayer()) return
+    
+    if (!entity.isLiving() || entity.nbt?.contains('Owner')) {
+        const shooter = entity.owner
+        
+        if (shooter || shooter.isPlayer()) {
+            shooter.tell(`Fired Projectile ID: ${entity.type}`)
+        }
+    }
+})
