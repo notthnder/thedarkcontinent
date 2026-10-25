@@ -1,7 +1,0 @@
-{
-  "creatureNaturalSpawnCheckTicks": -1,
-  "monsterSpawnInterval": 1.0,
-  "sparseMobRange": -1,
-  "sparseMobAffectMonsters": true,
-  "sparseMobAffectAnimals": true
-}

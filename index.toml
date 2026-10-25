@@ -106,11 +106,11 @@ hash = "1e2a33695959fae7ff8d7f9bc13ba8a46a8831444f6f7f903f2fa0c4e5b8c4d4"
 
 [[files]]
 file = "config/amendments-client.toml"
-hash = "558ca516cb378a8da8df45ccdfc59cee823f8c405eb679469e919410e9aa12f5"
+hash = "0e0f65eceaab2e22bcdd9def3d3aff4a489dce815f861313286f71a986374246"
 
 [[files]]
 file = "config/antarchy/antarchy_tools.toml"
-hash = "8c511dd140467a0de53d7371965059a016b7b293493f3d9b711dec2e26638592"
+hash = "23e72eb10d28346a93bc36d1ff69cec6c111e125d6591c6c874561c3adbcbac0"
 
 [[files]]
 file = "config/apotheosis/apothic_enchanting.cfg"
