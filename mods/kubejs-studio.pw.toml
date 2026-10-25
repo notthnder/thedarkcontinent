@@ -3,11 +3,11 @@ filename = "kubejsstudio-neoforge-1.21.1-1.3.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d10b4b645fbb7b260de8a898a36637b6a89daa20"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Hg4Bm0qD/versions/LEDg1K1f/kubejsstudio-neoforge-1.21.1-1.3.0.jar"
+hash-format = "sha512"
+hash = "0ab121522d111076e9ca333819500665f5adec3c1e104ee2aa00f7d3091244e3136db839ccc6a70dfda81808618be032ac8a221481b295be0f3c1687d0e685d9"
 
 [update]
-[update.curseforge]
-file-id = 9011849
-project-id = 1597398
+[update.modrinth]
+mod-id = "Hg4Bm0qD"
+version = "LEDg1K1f"

@@ -941,7 +941,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "a5790fe79f19f2dce6e338ff1816de732be5a941186da6f59659b2eb09f0b384"
+hash = "68f660848e4585c145d5e8714c4544002162d0210b807845a3146d6c4d6e67cb"
 metafile = true
 
 [[files]]
@@ -956,7 +956,7 @@ metafile = true
 
 [[files]]
 file = "mods/antarchy.pw.toml"
-hash = "05879ab812addcd951d3fe942d36d256559545ac4eb5c14da3dbeb397a055501"
+hash = "2b899e9b1d3f5fecded4a5c51ce15d52004c257ba0ae8874cd978ec39d5d1dd5"
 metafile = true
 
 [[files]]
@@ -971,7 +971,7 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis-balance-configurator.pw.toml"
-hash = "757e305fb55face8e535b17d8cdccd3f19b7438b6fc42f13eb96e549d00d6dce"
+hash = "4534c14c02e72d991a978aa7c92489eae55a883788b4c2317f869317b873ef8d"
 metafile = true
 
 [[files]]
@@ -981,7 +981,7 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis.pw.toml"
-hash = "b2e1d98c6778c0c4fcbff4afad1a5c944478d56b24326c8c549b0e484f89a803"
+hash = "e154d7fb16dc7eb6ace7b88b3896955bb66f58c2daafe93c7ae3327ee418a509"
 metafile = true
 
 [[files]]
@@ -991,7 +991,7 @@ metafile = true
 
 [[files]]
 file = "mods/apothic-attributes.pw.toml"
-hash = "39c77ded3382f9ccd9c93e3953f7426c27cd9f16e93224125f061ea7b519e087"
+hash = "8f5f05a72596ecc0dd11be483785c8a521e987dc2fe6d2fef212c2a382a0c779"
 metafile = true
 
 [[files]]
@@ -1016,12 +1016,12 @@ metafile = true
 
 [[files]]
 file = "mods/apothic-enchanting.pw.toml"
-hash = "47573d3f6e2392e8a720aacfd9b48f4a7be9c5e24f3200eff25de021aac75cc3"
+hash = "0d3ca07f510b7674932be8e109f394ab23aa4cd1aee04020ea0d509a0d1dd619"
 metafile = true
 
 [[files]]
 file = "mods/apothic-spawners.pw.toml"
-hash = "781fe924f8038f4b54d326b6d90104e56b4639e6d7439ea361165c8d22c97113"
+hash = "e3cf8a1207e85580723e384bf59688be26b80373b49c1d64972528cdc0dcac6d"
 metafile = true
 
 [[files]]
@@ -1046,7 +1046,7 @@ metafile = true
 
 [[files]]
 file = "mods/arphex.pw.toml"
-hash = "0ec8dc18a477e312d3675816b11f80d0050ca66b769459e5d8bbae0bc6e401f3"
+hash = "c8c4a22ac6593f4a430842069b6d1736beff6a6d279e71b5c7797201808f1020"
 metafile = true
 
 [[files]]
@@ -1056,7 +1056,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "f5474b8d81610dcb750159e1f70f7bc8b358adac6595f11b99d2aa4204ab5afa"
+hash = "0159f715f2245a23d4688c4be1c2c432317ab4897ce5ccede6b2976e7ab4721d"
 metafile = true
 
 [[files]]
@@ -1151,7 +1151,7 @@ metafile = true
 
 [[files]]
 file = "mods/bossesrise.pw.toml"
-hash = "41679608577cd9aadf512999bdeb4690bce62393bdab682ec9c5cc306650c947"
+hash = "d20e603af6e9156021a1b8db31edd187a089b2b21cd7f70fa7eb7507bf81dbf9"
 metafile = true
 
 [[files]]
@@ -1161,7 +1161,7 @@ metafile = true
 
 [[files]]
 file = "mods/butchery.pw.toml"
-hash = "7bdd2dc209b31c2b13c6d17ecf9b7eb26e67698b12dfbf47d2ca91b41e70660d"
+hash = "de3c34709df12663c3a92ec7dbdcaff390c1b3ddf36fb793e4e9e60cdd731bde"
 metafile = true
 
 [[files]]
@@ -1336,7 +1336,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse.pw.toml"
-hash = "40fc9e871f9d9b2d327ca708a4881b682ca5fa1b9cfea53e2f67478b64783609"
+hash = "50f0fe22bec82ed6336a259931394271a1ebb71bb77e682ee233d96134305ccd"
 metafile = true
 
 [[files]]
@@ -1656,7 +1656,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityjs.pw.toml"
-hash = "f9aa994b7d684a6eb086e5832744863eb783d974cf2212cfacc2181697cc60c7"
+hash = "a2c0cbdab0b6faeb345637eb69201c0f35a090347152e54d7b5098322a4a4dd5"
 metafile = true
 
 [[files]]
@@ -1771,7 +1771,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "4cf7eb494f48576e28895ee5f362878f95c6bad65372666106140fdae82d0c4c"
+hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
 metafile = true
 
 [[files]]
@@ -1781,7 +1781,7 @@ metafile = true
 
 [[files]]
 file = "mods/gensokyo-delight-youkais-feasts.pw.toml"
-hash = "554de25c47d8bcf77f2fdbe1c7be80e16c6013a67fd1c5ec94f058612ce52163"
+hash = "8b22d418fde92610cfef36d8fafb9a68f83814381f7d235f99df286425d3138e"
 metafile = true
 
 [[files]]
@@ -2016,7 +2016,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-studio.pw.toml"
-hash = "98f9ffa05646eaa06635c6a60139ea8bf10b13395c035422abefa6d29fc96165"
+hash = "38af6839345c93757af3f0555b094dea05e3eb96386e72a0e172dcccfc687ed6"
 metafile = true
 
 [[files]]
@@ -2331,7 +2331,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "3718e8a37d0dc2939cc350cce74bcb9c36b59f48baf4560e62804f7ca6478185"
+hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
 metafile = true
 
 [[files]]
@@ -2361,7 +2361,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "1762970777e293ba6d7a6a7b43dde2ac87604820e0fd90dd712beb744d068266"
+hash = "d94791108548d174758d587440c656f1a56884083fa3151bf90b515126482435"
 metafile = true
 
 [[files]]
@@ -2868,11 +2868,6 @@ metafile = true
 file = "mods/zfastnoise.pw.toml"
 hash = "4652700ee06b6435101176e2b633dfdddb46fc16cbdc376417e4e00ad26468f6"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "a577b8291e6fcc156aed7787b180ac95f286dbd6958657d16abd40ee3de47c69"
-preserve = true
 
 [[files]]
 file = "resourcepacks/horror-ambience-music-reactive-music-mod.pw.toml"

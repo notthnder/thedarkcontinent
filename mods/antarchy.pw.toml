@@ -3,11 +3,11 @@ filename = "antarchy-2.2.8+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bd46cd5000615c5931f09d6579fa107e6a8a6dc4"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/bnrJEOg5/versions/R3CsWW2h/antarchy-2.2.8%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "c17b5d36ff69a2e4ba3d7bffbf8881c46a2a2d67b8daadcf90bb0b17050507264208557a34d9b2f21e9903cf2f8e17973e04ff872cbf4b9c89f6a520021ea7cb"
 
 [update]
-[update.curseforge]
-file-id = 9300766
-project-id = 1504802
+[update.modrinth]
+mod-id = "bnrJEOg5"
+version = "R3CsWW2h"

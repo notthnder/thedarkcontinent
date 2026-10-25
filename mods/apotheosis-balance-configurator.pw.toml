@@ -3,11 +3,11 @@ filename = "apotheosis_balance-1.21.1-2.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bd0a85827d1a23b80bf08f0f280fad94f32601dc"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/nDQt0Hbn/versions/sjEjwU9E/apotheosis_balance-1.21.1-2.1.0.jar"
+hash-format = "sha512"
+hash = "ff63906c6a0dba6ad103d2707cd67eee79f97ca54689570cd525454853479467d7d2d9bb466d8e4f1ec43af0d35ae4a0179ff134c01a95986d864e70e9f7f9e9"
 
 [update]
-[update.curseforge]
-file-id = 8210944
-project-id = 1379530
+[update.modrinth]
+mod-id = "nDQt0Hbn"
+version = "sjEjwU9E"
