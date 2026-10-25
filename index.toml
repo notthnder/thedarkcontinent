@@ -2881,10 +2881,6 @@ file = "options.txt"
 hash = "a577b8291e6fcc156aed7787b180ac95f286dbd6958657d16abd40ee3de47c69"
 
 [[files]]
-file = "packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
 file = "resourcepacks/horror-ambience-music-reactive-music-mod.pw.toml"
 hash = "d691b9ba32a99fc366d9c0f9239e8b1b1f9c0611c8fdf1128859e0852e9be4d1"
 metafile = true
