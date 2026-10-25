@@ -258,7 +258,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "69e5da5eb00dff02d79f7755b3018160aed0c8c92c98a8bc90d4fc288f0041e2"
+hash = "f9798e0578a44cfd46b49e89a8e0a080ae9ca2c9408d6b6660c80aaf8a8b5326"
 
 [[files]]
 file = "config/fancymenu/panoramas/thedarkcontinent/panorama/panorama_0.png"
@@ -779,6 +779,7 @@ hash = "fe0ecc239176108a6592290b2db9a283d4a57688ecac24a156097e10eea8b8da"
 [[files]]
 file = "emi.json"
 hash = "047a1e7c6754ac3ef7a9e4f943c9883c2ffaf5f225721b2dffff1e96220b7010"
+preserve = true
 
 [[files]]
 file = "kubejs/README.txt"
@@ -838,10 +839,6 @@ hash = "d22b4fc46db834b3ed936f20c0576d51b68a186006bea01dec99dfaedf57bde1"
 
 [[files]]
 file = "kubejs/server_scripts/falling_block_overrides"
-hash = "1e968b44e74687f3a53d7929cd321647c92769dbcdd4f25061feaebb65857c67"
-
-[[files]]
-file = "kubejs/server_scripts/falling_block_overrides.js"
 hash = "1e968b44e74687f3a53d7929cd321647c92769dbcdd4f25061feaebb65857c67"
 
 [[files]]
@@ -2875,6 +2872,7 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "a577b8291e6fcc156aed7787b180ac95f286dbd6958657d16abd40ee3de47c69"
+preserve = true
 
 [[files]]
 file = "resourcepacks/horror-ambience-music-reactive-music-mod.pw.toml"
@@ -2889,3 +2887,4 @@ metafile = true
 [[files]]
 file = "servers.dat"
 hash = "20dc79d452290825490efd7eb7cee51885dde2f27019f15a475022122829a4e9"
+preserve = true
