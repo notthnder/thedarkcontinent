@@ -2172,8 +2172,8 @@ hash = "a692868b54ee47b91ffe26c6e2cef902901692c9a9b7bba3a6abdab5b5c198f2"
 metafile = true
 
 [[files]]
-file = "mods/tmrv.pw.toml"
-hash = "d323a56389acaff215e3dc54e9db35141e8398d111644b45a970b114a29299df"
+file = "mods/tmrv-updated.pw.toml"
+hash = "1aec99056a11873f51e46d9ca7b80771746234cf1f34e157508642a756acf9b1"
 metafile = true
 
 [[files]]
