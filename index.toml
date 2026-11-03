@@ -2,7 +2,27 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/amendments-common.toml"
-hash = "73cf9b4f970bd75949f2d01ec40bdd20a80313fbbe054517e106d6ceb42d0063"
+hash = "b9c28f5d9f9271f0e992f5d7f94f555cbcc3e54267ceaa17dfa9eefb04244322"
+
+[[files]]
+file = "config/click-common.toml"
+hash = "618547fc2abcae19fe88e2009298a5d8d026ecb2243a5dd82fe5dfc6038be0f1"
+
+[[files]]
+file = "config/emi-accelerator/emi-accelerator.txt"
+hash = "05ac56a15eeceb4e0412a15580ed3e39d337392a158aa4d6034bba06a7b67000"
+
+[[files]]
+file = "config/enhancedai/server.toml"
+hash = "9b8dbf86b9641b107e83bfcc2b17be922dec5c4092cb02cb41d876c95456140b"
+
+[[files]]
+file = "config/lisa-common.toml"
+hash = "d738f10e31101e5845f36db37a4235f553d9006e77fb5287d19c9cd7b7d86cdb"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "1a7b29c97cb57233ef51892271d1a9ef0295b142e329e6b561a9b78ca6210d31"
 
 [[files]]
 file = "config/obe.json"
@@ -58,7 +78,7 @@ hash = "4747e7c38891a7bf14973c242b91040ef71dca8f704b1d6d357ea8424876574b"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "db0925c886b07c8cccbd26335dcc0cc68c8c30f2bc16915431a5585f553f1325"
+hash = "8eac28020172284961f01eb92df513f3644d8e8c0b2cb089b6236439f3c76d2a"
 
 [[files]]
 file = "config/paxi/resourcepacks/Arid's Dimensional Resprites.zip"
@@ -121,8 +141,8 @@ file = "config/paxi/resourcepacks/FA+Player-v1.1.zip"
 hash = "9ee3ae5b2fe5cd980e4041429dc66d88243f5f2420e2814e5361c746ad937f33"
 
 [[files]]
-file = "config/paxi/resourcepacks/FA-Player-Compats-1.3-mc1.21.1.zip"
-hash = "4ae4c42734d46b36ffdb2113b39818c75bb56f499f6dd5e331c79e1938ef9bb8"
+file = "config/paxi/resourcepacks/FA-Player-Compats-1.3.1-mc1.21.1.zip"
+hash = "bff13be0a058ef94ebbe40431c920c34c11ddedff253446cf42f1d453038ddcf"
 
 [[files]]
 file = "config/paxi/resourcepacks/Fitting XP Mana Bar for Iron's Spells 'n Spellbooks from 1.20.1 and above.zip"
@@ -133,8 +153,12 @@ file = "config/paxi/resourcepacks/Fresh mowzie mobs v. 1.2.1.zip"
 hash = "159c7ff8fb2202c211cfc16160ab6b0dbf03a4bbdc4558873356439fb165e951"
 
 [[files]]
-file = "config/paxi/resourcepacks/FreshAnimations_v1.11.1_1.20+.zip"
-hash = "b6118ad51a43321ffc083d86de9e5e2ba84250ef0c5890e48ae9ee2964bd1a9d"
+file = "config/paxi/resourcepacks/FreshAnimations_v1.10.4.zip"
+hash = "8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2"
+
+[[files]]
+file = "config/paxi/resourcepacks/FreshAnimations_v1.11.2_1.20+.zip"
+hash = "3a36e09638aa72f3b6e36fcfbcb4f9a3ba31a03b09e777466034bf75827c157e"
 
 [[files]]
 file = "config/paxi/resourcepacks/FreshCompats_v1.6.zip"
@@ -189,6 +213,14 @@ file = "config/paxi/resourcepacks/True Dovah.zip"
 hash = "133502f64724ce61bff080e97bc4e92ec789ba0f195710004f6bcdcd28a12ed1"
 
 [[files]]
+file = "config/presence-common.toml"
+hash = "340fbdca6bbde6527b76aa968938150b671afae6cf3813f22708d571cda9c99b"
+
+[[files]]
+file = "config/serilum/configurablemobpotioneffects/permanenteffects.txt"
+hash = "77712af565cbc73144ea85c1ff2d78c815612d61f8fe9a3036b5da9934f45136"
+
+[[files]]
 file = "config/taxes-common.toml"
 hash = "f8c7c00b01057a3edc0b59ac7ac0b78c25f4d368f1d463c8049705c34c5881af"
 
@@ -202,8 +234,112 @@ hash = "5c0e43a01f9e689d3b307de2cf80a602fdf5b0e0152086ee83f6927423a92cb0"
 preserve = true
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/collision_arrow.json"
+hash = "75d2e6e3f7ef497978fde406dc19718cf66bc88d396db49f6997bb0ab2040a71"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/transparent_item.png"
+hash = "f3c27ba9a560e8c31f3813bb1dddaa136efa4c1fb4e30def4fedd08fc3e00d73"
+
+[[files]]
+file = "kubejs/client_scripts/main.js"
+hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
+
+[[files]]
+file = "kubejs/config/client.json"
+hash = "0aeb4cb329b896e33a0777a1683b0b813a6f2f0adc5bc2cf3e6d10e18e442fef"
+
+[[files]]
+file = "kubejs/config/common.json"
+hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
+
+[[files]]
+file = "kubejs/config/probe-settings.json"
+hash = "735599ec2db216a8fd145d32b565d990936fbb9bcc1aa10225cc065280f5611b"
+
+[[files]]
+file = "kubejs/config/web_server.json"
+hash = "133af9fb68d4e9974123830fb039475bf880715f530d1302916bd2a8af70b767"
+
+[[files]]
+file = "kubejs/data/apotheosis/data_maps/item/loot_category_overrides.json"
+hash = "ebfff0cb54072d5917022d777133167b630bc1610a5d316d503cb81b1616d677"
+
+[[files]]
+file = "kubejs/data/irons_spellbooks/irons_spellbooks_spell_config/pocket_dimension.json"
+hash = "ee20e049fbbaa8ed7dd61fd5d0e989513667b9e2595bc7e2c010afe2f4a532a7"
+
+[[files]]
+file = "kubejs/kubejsstudio/appearance.json"
+hash = "8a414fba19452c8692287b1936aa2f12bb20a5573098cfee545adfe59b944f98"
+
+[[files]]
+file = "kubejs/server_scripts/carrier_arrow_bows.js"
+hash = "a4616559cf9595bcd3799fbfae4f5ce3d820fb006840e13f1bfee4e5319af268"
+
+[[files]]
+file = "kubejs/server_scripts/falling_block_overrides"
+hash = "1e968b44e74687f3a53d7929cd321647c92769dbcdd4f25061feaebb65857c67"
+
+[[files]]
+file = "kubejs/server_scripts/kubejsstudio/kubejsstudio.js"
+hash = "6c46e16b4dae5199510741fe5cbdb2284b120deb6b26791eafbc05210a28b467"
+
+[[files]]
+file = "kubejs/server_scripts/kubejsstudio/kubejsstudio.js.bak"
+hash = "78a4e1c052535a98e4d4d15576d1a9ebac0e605a0b980452139d6b81abcd88cc"
+
+[[files]]
 file = "kubejs/server_scripts/kubejsstudio/recipes.js"
 hash = "ae0fc9d48a8f64eef87192de83392d1bc6e0cf6d9008c4cda107a3b08a6c39ed"
+
+[[files]]
+file = "kubejs/server_scripts/kubejsstudio/recipes.js.bak"
+hash = "9d7e26e54c63328eef18b401ff463629a9725a1c69be3da887e67777432dfbd0"
+
+[[files]]
+file = "kubejs/server_scripts/kubejsstudio/tags/item.js"
+hash = "ab0be08a31e51c70340d2a38ee18ba4b32642923d4041b73af02cd4d5369666b"
+
+[[files]]
+file = "kubejs/server_scripts/kubejsstudio/tags/item.js.bak"
+hash = "b223550c84e8dcc31408b5e84734f838d0c87a960cf07497017fccead8dda626"
+
+[[files]]
+file = "kubejs/server_scripts/main.js"
+hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
+
+[[files]]
+file = "kubejs/server_scripts/projectile_debug"
+hash = "89efa65cee405e473eccc0c244e9e64051f46c2bf96ac823e9cd956d7fcd327d"
+
+[[files]]
+file = "kubejs/startup_scripts/carrier_arrow.js"
+hash = "6f686f0b7a63bfbc381f74b81cba826bc512251671e37a05eecdbbd02acc162e"
+
+[[files]]
+file = "kubejs/startup_scripts/kubejsstudio/item_properties.js"
+hash = "1f01342eb190a112ba8392eeed0934d0c72e39652cb77ae6f688d6e65c46146d"
+
+[[files]]
+file = "kubejs/startup_scripts/kubejsstudio/item_properties.js.bak"
+hash = "917a6af7a65a14467c73c75d638eaf2f7c5f3345245014a8277a22db9735a718"
+
+[[files]]
+file = "kubejs/startup_scripts/main.js"
+hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
