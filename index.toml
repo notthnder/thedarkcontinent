@@ -783,7 +783,7 @@ metafile = true
 
 [[files]]
 file = "mods/contraption-lights.pw.toml"
-hash = "96293caef851fe52d78e09bc6e33a8b3820ae9402fb852f675125da155924f69"
+hash = "d3a1a41d199d1acd6e0be3eca6334d28eb203f584966f6caf3c0171f7ea7f09c"
 metafile = true
 
 [[files]]
@@ -2148,7 +2148,7 @@ metafile = true
 
 [[files]]
 file = "mods/tfmg-community-edition.pw.toml"
-hash = "bf5f39820df498c7631fa699aeb2b6f7b1ba1ae5055a33f92878f187fde25dc4"
+hash = "da716036cd54fbec1ee5bc0aec896f2ab5741349a74aaa7c6863e465511b8879"
 metafile = true
 
 [[files]]
