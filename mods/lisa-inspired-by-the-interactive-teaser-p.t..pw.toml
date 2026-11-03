@@ -1,0 +1,13 @@
+name = "Lisa (Inspired by the interactive teaser \"P.T.\")"
+filename = "lisa-fabric-2.0.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g063piCq/versions/lNewkouk/lisa-fabric-2.0.11.jar"
+hash-format = "sha512"
+hash = "d5f3a84c31dbba150f8932762f56da0d5f2823daf918ea7bddac47b19deab0661b137b77d2cde65b66dda85cbeb7affe69829ba908de3cc087b27ae34f38e6e5"
+
+[update]
+[update.modrinth]
+mod-id = "g063piCq"
+version = "lNewkouk"

@@ -1,0 +1,13 @@
+name = "Click. (Inspired by the film \"Hereditary\")"
+filename = "click-fabric-2.0.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hXSqBQyi/versions/eEyQeXv6/click-fabric-2.0.10.jar"
+hash-format = "sha512"
+hash = "727ad8579650456d55bd8cafe542230c67d5465e67be6e40012cbb172272397f6c83f06f1f931431e2c4bc3fdeadb96d89518563589dd4d4a1a63d8bb4f1a179"
+
+[update]
+[update.modrinth]
+mod-id = "hXSqBQyi"
+version = "eEyQeXv6"
