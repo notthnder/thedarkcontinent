@@ -1,0 +1,13 @@
+name = "Irons Spell N FTB Teams"
+filename = "ironsspellsnftbteams-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "264b17ba3d5a000150f417466a4969b1812f5ab7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8435267
+project-id = 1610802

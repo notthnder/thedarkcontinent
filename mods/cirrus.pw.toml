@@ -1,13 +1,13 @@
 name = "Cirrus"
-filename = "cirrus-neoforge-1.21.1-1.4.1.jar"
+filename = "cirrus-neoforge-1.21.1-1.4.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b34bb9e8698306778f927341ccc57f3101b13145"
+hash = "508e123146c7d953739334def6e8200d2c10a2e8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8996611
+file-id = 9396939
 project-id = 1572354

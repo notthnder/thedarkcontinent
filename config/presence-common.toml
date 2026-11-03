@@ -1,0 +1,130 @@
+#Presence Mod Configuration
+[general]
+
+	#When events roll and how long they last.
+	[general.event]
+		#Wait between event rolls (10+ seconds, higher
+		#= rarer).
+		#Range: 10 ~ 2147483647
+		minTimeSeconds = 3600
+		#How long an event lasts (5+ seconds, higher =
+		#longer).
+		#Range: 5 ~ 2147483647
+		eventDurationSeconds = 30
+		#Chance an event starts each roll (0-1, 1 =
+		#every roll).
+		#Range: 0.0 ~ 1.0
+		rollChance = 0.05
+		#When a won roll starts the event: 1 = right
+		#away, 2 = once you can see enough mobs.
+		#Range: 1 ~ 2
+		triggerMode = 2
+		#Mobs you must see before the event starts
+		#(1-50, higher = needs more).
+		#Trigger Mode 2 only.
+		#Range: 1 ~ 50
+		minVisibleMobs = 3
+
+	#What mobs and the Killer do during an event.
+	[general.behavior]
+		#How long mobs freeze before turning to stare
+		#(0-10 seconds, 0 = no freeze).
+		#Range: 0 ~ 10
+		freezeDurationSeconds = 1
+		#Staring mobs slowly creep toward you.
+		mobsApproachPlayer = true
+		#How fast mobs creep in (0.01-3, 1 = normal
+		#walking speed).
+		#Range: 0.01 ~ 3.0
+		mobApproachSpeed = 0.4
+		#Nearby wolves, cats, endermen, spiders,
+		#pandas and foxes growl or hiss at you.
+		enableProximityGrowls = true
+		#How much your view closes in (0-1, 0.3 = 30%
+		#narrower, 0 = off).
+		#Range: 0.0 ~ 1.0
+		narrowFovBy = 0.2
+
+	#What goes quiet during an event.
+	[general.sounds]
+		#What goes quiet: 0 = nothing, 1 = ambient and
+		#animals, 2 = everything but the whispers, the
+		#Killer and your own sounds.
+		#Range: 0 ~ 2
+		soundMode = 2
+
+	#Extra mobs, the Killer, and which mobs are
+	#safe from it.
+	[general.spawning]
+		#Spawns extra mobs or the Killer near you
+		#during events.
+		spawnMobsNearPlayer = true
+		#What spawns: 0 = random hostile mobs, 1 = the
+		#Killer.
+		#Range: 0 ~ 1
+		mobSpawnMode = 1
+		#Mobs spawned per event (1-20, higher = more).
+		#Range: 1 ~ 20
+		mobSpawnLimit = 3
+		#How far away they spawn (8-128 blocks, higher
+		#= farther).
+		#Range: 8 ~ 128
+		mobSpawnRange = 10
+		#A staring mob turns into the Killer when you
+		#get too close.
+		replaceMobWithKiller = false
+		#How long the Killer hunts after the event
+		#(5-300 seconds, higher = longer).
+		#Range: 5 ~ 300
+		despawnKillerAfter = 10
+		#How fast the Killer chases you (0.05-2,
+		#higher = faster).
+		#Sprinting is about 0.26, so higher outruns
+		#you.
+		#Range: 0.05 ~ 2.0
+		killerSpeed = 0.3
+		#The Killer can't be hurt. It still vanishes
+		#on its own.
+		killerInvincible = true
+		#Pets still stare but never turn into the
+		#Killer.
+		protectTamedMobs = true
+		#Name-tagged mobs still stare but never turn
+		#into the Killer.
+		protectNamedMobs = true
+		#Leashed mobs still stare but never turn into
+		#the Killer.
+		protectLeashedMobs = true
+		#Sometimes spawns a nasty mob instead, like a
+		#Warden or Ravager.
+		#Mob Spawn Mode 0 only.
+		difficultMobSpawnPossible = false
+		#Chance a spawn is a nasty one (0-1, 0.01 = 1
+		#in 100).
+		#Range: 0.0 ~ 1.0
+		difficultMobSpawnChance = 0.01
+
+	#Which mobs join an event, traded against
+	#server load.
+	[general.performance]
+		#Skips the line-of-sight check and use the two
+		#ranges below. Cheaper.
+		#Mobs behind walls join in too.
+		useMaxInjectionRangeLimits = false
+		#How far sideways a mob can be and still join
+		#(16-512 blocks, higher = more mobs).
+		#Needs range limits on.
+		#Range: 16 ~ 512
+		maxInjectionRange = 64
+		#How far up or down a mob can be and still
+		#join (8-256 blocks, higher = more mobs).
+		#Needs range limits on.
+		#Range: 8 ~ 256
+		maxYDelta = 32
+
+	#Debug info and test commands for tracking
+	#down bugs.
+	[general.logging]
+		#Prints debug info to the log and unlocks
+		#/presence test commands (ops only).
+		enableLogging = false

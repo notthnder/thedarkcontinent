@@ -1,0 +1,70 @@
+#Lisa Mod Configuration
+[general]
+
+	#When and how often Lisa shows up.
+	[general.spawn]
+		#Chance she spawns near you on each roll,
+		#every 5 seconds (0-1, 1 = every roll).
+		#Range: 0.0 ~ 1.0
+		spawnChance = 0.01
+		#Shortest wait between visits (0+ ticks, 20 =
+		#1 second, 24000 = 1 day).
+		#Range: 0 ~ 2147483647
+		spawnCooldownTicks = 72000
+		#Lets her spawn at night.
+		enableNightSpawn = true
+		#Lets her spawn underground, out of the sky.
+		enableCaveSpawn = true
+
+	#How Lisa stalks you once she's here.
+	[general.behavior]
+		#How long she lurks before trying to get
+		#behind you (0+ ticks, 20 = 1 second).
+		#Range: 0 ~ 2147483647
+		phase2DelayTicks = 100
+		#Chance she ends up right behind you after
+		#lurking (0-1, 1 = always).
+		#Range: 0.0 ~ 1.0
+		phase2Chance = 0.05
+		#How long she waits behind you before
+		#vanishing (0+ ticks, 20 = 1 second).
+		#Range: 0 ~ 2147483647
+		phase2LingerTicks = 60
+		#Her grab kills you. Off = she vanishes in
+		#smoke instead.
+		#Covers every grab: turning to look, getting
+		#close, or hitting her.
+		enableInstakill = false
+		#Chance she just follows you, makes one sound
+		#and leaves (0-1, 1 = always).
+		#Range: 0.0 ~ 1.0
+		ambientStalkChance = 0.05
+		#How long a quiet stalk lasts (1+ ticks, 20 =
+		#1 second).
+		#Range: 1 ~ 2147483647
+		ambientStalkDurationTicks = 60
+		#Chance she peeks out of a fresh 1x2 cave gap
+		#you just mined (0-1, 1 = always).
+		#Range: 0.0 ~ 1.0
+		miningPeekChance = 0.05
+		#Shortest wait between mining peeks (0+ ticks,
+		#20 = 1 second).
+		#Range: 0 ~ 2147483647
+		miningPeekCooldownTicks = 36000
+
+	#What being near Lisa does to you.
+	[general.effects]
+		#Gives you Darkness while she's close.
+		enableDarknessEffect = true
+		#How close she has to be for Darkness (0-256
+		#blocks, higher = from farther away).
+		#Range: 0.0 ~ 256.0
+		darknessRange = 30.0
+		#She flickers in and out of sight.
+		enableFlicker = true
+
+	#Debug info for tracking down bugs.
+	[general.logging]
+		#Prints debug info to the log. For tracking
+		#down bugs.
+		enableLogging = false

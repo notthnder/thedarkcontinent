@@ -1,0 +1,75 @@
+#Click Mod Configuration
+[general]
+
+	#How Paimon and his followers hit and show up.
+	[general.stats]
+		#Paimon and his followers can hurt you when
+		#they reach you.
+		entityCausesDamage = true
+		#How hard they hit (1-20, 2 = one heart).
+		#Range: 1.0 ~ 20.0
+		attackDamage = 1.0
+		#They flicker in and out of sight.
+		flicker = true
+
+	#When the clicks play and the demon shows up.
+	[general.spawn]
+		#Chance of a click on each roll (0.01-1, 1 =
+		#every roll).
+		#Mostly at night or underground.
+		#Range: 0.01 ~ 1.0
+		spawnChance = 0.01
+		#How often to roll for a click (1-12000 ticks,
+		#20 = 1 second).
+		#Very low values with a high Spawn Chance can
+		#lag the game.
+		#Range: 1 ~ 12000
+		spawnTickInterval = 1200
+		#How long they stick around (20-800 ticks,
+		#higher = longer).
+		#Range: 20 ~ 800
+		entityLifetimeTicks = 200
+		#Clicks you hear before they show up (1-20,
+		#higher = longer wait).
+		#Used when Random Clicks is off.
+		#Range: 1 ~ 20
+		clicksBeforeSpawn = 12
+		#Picks a random number of clicks between Min
+		#and Max each time.
+		randomClicks = false
+		#Fewest clicks before they show up (1-20,
+		#higher = longer wait).
+		#Needs Random Clicks on.
+		#Range: 1 ~ 20
+		clicksMin = 2
+		#Most clicks before they show up (1-20, higher
+		#= longer wait).
+		#Needs Random Clicks on.
+		#Range: 1 ~ 20
+		clicksMax = 6
+
+	#A lone follower that wanders in on its own.
+	[general.stray]
+		#A lone follower sometimes turns up near you,
+		#day or night.
+		enabled = true
+		#Chance of a stray on each roll (0-1, 1 =
+		#every roll).
+		#Only one near you at a time.
+		#Range: 0.0 ~ 1.0
+		chance = 0.01
+		#How often to roll for a stray (20-24000
+		#ticks, 20 = 1 second).
+		#Range: 20 ~ 24000
+		checkInterval = 600
+
+	#The demon's sounds.
+	[general.sounds]
+		#Plays a creepy sound when they arrive.
+		playAmbientSound = true
+
+	#Debug info for tracking down bugs.
+	[general.logging]
+		#Prints debug info to the log. For tracking
+		#down bugs.
+		enableLogging = false

@@ -1,0 +1,13 @@
+name = "Create: Apokinetics"
+filename = "apokinetics-1.0.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jRFvnLpf/versions/1W7DvoMk/apokinetics-1.0.12.jar"
+hash-format = "sha512"
+hash = "729fe5595fa195b076f60a3d18193330e94a21396857b4b60f49b8ee183ab610ad0e2db34d7343473df07bf458443f3adf5e9af838d42ac5fd736b5f4aed6327"
+
+[update]
+[update.modrinth]
+mod-id = "jRFvnLpf"
+version = "1W7DvoMk"

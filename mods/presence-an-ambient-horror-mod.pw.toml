@@ -1,13 +1,13 @@
 name = "Presence (An Ambient Horror Mod)"
-filename = "presence-fabric-2.4.1.jar"
+filename = "presence-2.4.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Bv1JdNUA/versions/Z6pevrIy/presence-fabric-2.4.1.jar"
+url = "https://cdn.modrinth.com/data/Bv1JdNUA/versions/Hn4yJPoK/presence-2.4.4.jar"
 hash-format = "sha512"
-hash = "f03eb8e1a3d504c110d7ed730e61d82a877cec31f5d12b407d8378e5d3d980e4f864e8b8329e7f0bbddcb50bd490f4f172d1b2b7abd9b274fec96d8dad93acef"
+hash = "94cd70f2b06ec3d8279b31ffd10d7909639a4761d83dd5a5848bf72a1d4098a682379f324ad3996f28382d1c23328019072c9e3a44cf1c027a028a9e4d50d759"
 
 [update]
 [update.modrinth]
 mod-id = "Bv1JdNUA"
-version = "Z6pevrIy"
+version = "Hn4yJPoK"

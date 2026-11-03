@@ -1,0 +1,14 @@
+#The minimum tax rate (has to be smaller than maximum)
+# Default: 10
+# Range: 0 ~ 100
+minTaxRate = 10
+#The maximum tax rate (has to be bigger than minimum)
+# Default: 42
+# Range: 0 ~ 100
+maxTaxRate = 20
+#The amount of days for a payout
+# Default: 30
+# Range: > 1
+taxPayoutDays = 60
+#Spawn IRS if taxes are not paid
+spawnIRS = true

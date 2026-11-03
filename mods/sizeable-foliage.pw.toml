@@ -1,13 +1,13 @@
 name = "Sizeable Foliage"
-filename = "sizeable_foliage-neoforge-1.21.1-1.2.1.jar"
+filename = "sizeable_foliage-neoforge-1.21.1-1.3.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fbaec299a3106d1099899a741680d22fd6509c5d"
+hash = "681e82a16bb66ad65e82c7dd5c819535d10982f8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8555066
+file-id = 9339775
 project-id = 1601832
