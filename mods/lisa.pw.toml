@@ -1,0 +1,8 @@
+name = "Lisa"
+filename = "lNewkouk"
+side = "both"
+
+[download]
+url = "https://modrinth.com/mod/lisa-inspired-by-the-interactive-teaser-p.t./version/lNewkouk"
+hash-format = "sha256"
+hash = "788ca00409fa6a5a4c9c48b8fa8d900c6b4f2e30802e9b4f4ff2aa9efd8de3b2"

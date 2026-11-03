@@ -712,8 +712,8 @@ hash = "badc999f45c82bc6d41accfd5bd2c53af1c45f358df240ea4ae0bdbcbc4c1be5"
 metafile = true
 
 [[files]]
-file = "mods/click-inspired-by-the-film-hereditary.pw.toml"
-hash = "773f5190ef379f8ab9ee27d3cc0d9f14f4fcf2fb56f4caf2063f8d70a49b563d"
+file = "mods/click.pw.toml"
+hash = "52de8c27401629df3d476296c6e5149380804c34936ea868a28b0c25eaf96a81"
 metafile = true
 
 [[files]]
@@ -1562,8 +1562,8 @@ hash = "c27c2b642deba3609c6e5741ee6360cb8d760e5bf5b2595fd4fa01c01dc5f074"
 metafile = true
 
 [[files]]
-file = "mods/lisa-inspired-by-the-interactive-teaser-p.t..pw.toml"
-hash = "c7e0bbdd305b757eaadbc86d0e3ad3117e55c9d5338326e8f03fd672de7846ab"
+file = "mods/lisa.pw.toml"
+hash = "892921d795f1b023d386bd748bb257ead8857a0946b9bf477f4aa83a8a30b74e"
 metafile = true
 
 [[files]]
@@ -1867,13 +1867,13 @@ hash = "acddd9bca673bbf549ad07ae4ab47617ac1dcb7a5235acab74c5ab4e53e96293"
 metafile = true
 
 [[files]]
-file = "mods/presence-an-ambient-horror-mod.pw.toml"
-hash = "24ed89bb89bcf67c5f55b0a2d71cd0aa0299fb84ab362064905c68e609fbe296"
+file = "mods/presence-footsteps-x-sable-aeronautics-compat.pw.toml"
+hash = "d3f344379f2a13cb839384c213a1c9836f8a305e83c696154c732d59aef03c2b"
 metafile = true
 
 [[files]]
-file = "mods/presence-footsteps-x-sable-aeronautics-compat.pw.toml"
-hash = "d3f344379f2a13cb839384c213a1c9836f8a305e83c696154c732d59aef03c2b"
+file = "mods/presence.pw.toml"
+hash = "a42d23493d8d7331ae1e8210ee4f1e806ea8fee628c6c064ce5dc6d01c41ff97"
 metafile = true
 
 [[files]]

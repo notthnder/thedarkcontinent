@@ -1,0 +1,8 @@
+name = "Presence"
+filename = "jhjMowt1"
+side = "both"
+
+[download]
+url = "https://modrinth.com/mod/presence-an-ambient-horror-mod/version/jhjMowt1"
+hash-format = "sha256"
+hash = "c48ab1872ad7244279b39899a50ab9cd46babb09bc51fbc36d5cc38df502daf6"
