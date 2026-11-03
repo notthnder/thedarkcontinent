@@ -82,10 +82,10 @@
 		#Sprinting is about 0.26, so higher outruns
 		#you.
 		#Range: 0.05 ~ 2.0
-		killerSpeed = 0.3
+		killerSpeed = 0.4
 		#The Killer can't be hurt. It still vanishes
 		#on its own.
-		killerInvincible = true
+		killerInvincible = false
 		#Pets still stare but never turn into the
 		#Killer.
 		protectTamedMobs = true

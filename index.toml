@@ -214,7 +214,7 @@ hash = "133502f64724ce61bff080e97bc4e92ec789ba0f195710004f6bcdcd28a12ed1"
 
 [[files]]
 file = "config/presence-common.toml"
-hash = "340fbdca6bbde6527b76aa968938150b671afae6cf3813f22708d571cda9c99b"
+hash = "fbbceaab958f9f260cd40a3d4c35f9674248fad94926a49812bd12ee3582079c"
 
 [[files]]
 file = "config/serilum/configurablemobpotioneffects/permanenteffects.txt"
