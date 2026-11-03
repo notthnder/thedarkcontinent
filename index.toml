@@ -6,7 +6,7 @@ hash = "b9c28f5d9f9271f0e992f5d7f94f555cbcc3e54267ceaa17dfa9eefb04244322"
 
 [[files]]
 file = "config/click-common.toml"
-hash = "618547fc2abcae19fe88e2009298a5d8d026ecb2243a5dd82fe5dfc6038be0f1"
+hash = "e7b84636e0c5911bfbe66856c405b1e8fa99a4b1260e19f945d5320b227f59c5"
 
 [[files]]
 file = "config/emi-accelerator/emi-accelerator.txt"
