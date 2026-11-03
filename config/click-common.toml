@@ -61,7 +61,7 @@
 		#How often to roll for a stray (20-24000
 		#ticks, 20 = 1 second).
 		#Range: 20 ~ 24000
-		checkInterval = 600
+		checkInterval = 24000
 
 	#The demon's sounds.
 	[general.sounds]
