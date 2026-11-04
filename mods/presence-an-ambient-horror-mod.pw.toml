@@ -3,11 +3,11 @@ filename = "presence-fabric-2.4.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Bv1JdNUA/versions/jhjMowt1/presence-fabric-2.4.4.jar"
-hash-format = "sha512"
-hash = "f8c3637c6e91ffd2dfe98ff9dc5d57e9d2da0f36a5eeff1f25a672fb8765d3730cfe55edd655a1db987db7a2d5f99499b05692b536be5165e8a0fabfc4741fa0"
+hash-format = "sha1"
+hash = "722fb3d3697053b6c1568d7ec778f3937c3cca29"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "Bv1JdNUA"
-version = "jhjMowt1"
+[update.curseforge]
+file-id = 9369226
+project-id = 1517861

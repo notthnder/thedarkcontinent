@@ -1,0 +1,13 @@
+name = "Lisa (Inspired by the interactive teaser \"P.T.\")"
+filename = "lisa-fabric-2.0.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "50869d334688b4736e71e6bcc2cbe315cd996ff1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9436704
+project-id = 1499943

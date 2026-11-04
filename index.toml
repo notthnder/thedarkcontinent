@@ -717,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/click-inspired-by-the-film-hereditary.pw.toml"
-hash = "7d7d41637b924aa33df3a338c6fee52f81e0af4f2fe083f6c5131578c9d46aab"
+hash = "07ccb2abf64dd1b6512646d1ea0805ef7fdddb960ee19c42647cc52331b93d4d"
 metafile = true
 
 [[files]]
@@ -742,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "aa16623b10feb39cc25132a0cc46edb4a56da6b0120fd507a96074170b2fa452"
+hash = "f9ce84412bc3ba7be4648d372d2a6f3a9842d42e4a9fce2c855a7ed3b8835d89"
 metafile = true
 
 [[files]]
@@ -1571,8 +1571,8 @@ hash = "c27c2b642deba3609c6e5741ee6360cb8d760e5bf5b2595fd4fa01c01dc5f074"
 metafile = true
 
 [[files]]
-file = "mods/lisa-inspired-by-the-interactive-teaser-p.t..pw.toml"
-hash = "2b9f489943dbee0d60095abe782cba22a19f6907a1dbb56f8c887fe77f17fa14"
+file = "mods/lisa-inspired-by-p-t.pw.toml"
+hash = "d9b7bfa7b65cbd7846270f5d7367db37c9db7b4d0dd73a4ac11610f4ccd58b80"
 metafile = true
 
 [[files]]
@@ -1882,7 +1882,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-an-ambient-horror-mod.pw.toml"
-hash = "e6c1f995c27f7763a41c0eeadcd54a2c847b9ddbe9dd890ecf9311cfa5853031"
+hash = "9bee7ae80fd15dfcac4a67ade068fda2727dc8c333ad68ab4642edb24f38b8c4"
 metafile = true
 
 [[files]]
