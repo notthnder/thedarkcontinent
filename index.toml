@@ -2036,11 +2036,6 @@ hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
 metafile = true
 
 [[files]]
-file = "mods/selene.pw.toml"
-hash = "434fbe116618b5b950edcefd05e33f33831b8fa40f47a0970e394f81c3c4c197"
-metafile = true
-
-[[files]]
 file = "mods/sgi-cataclysm.pw.toml"
 hash = "a8336318fbb73272f4b4168f09463cef0302207500243d87a63903de0f3bf3aa"
 metafile = true
