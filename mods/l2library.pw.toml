@@ -1,13 +1,13 @@
 name = "L2 Library"
-filename = "l2library-3.0.9.jar"
+filename = "l2library-3.0.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4Vh3BQ3F/versions/7GS7JBkX/l2library-3.0.9.jar"
+url = "https://cdn.modrinth.com/data/4Vh3BQ3F/versions/tmLrL542/l2library-3.0.10.jar"
 hash-format = "sha512"
-hash = "e13aaa2203b4b927ea946ef3d0f5d3fdb006179fd41e8cb6c1bd1e06421588aab8af6f6096150aa3f01d32e30a3dc3c546ceb71d97fdd6ffc7b476b54bbb6e74"
+hash = "8cf6dd51de031644182e945f60596e14b64eb8158cf74b3415acb01b3017f1c3a574a97a3306dd63eca1c0738dfa011ac530f7d7dba18d8d29b5da5f42c396f2"
 
 [update]
 [update.modrinth]
 mod-id = "4Vh3BQ3F"
-version = "7GS7JBkX"
+version = "tmLrL542"

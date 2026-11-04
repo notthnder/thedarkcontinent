@@ -73,6 +73,10 @@ file = "config/paxi/datapacks/VB-MobVariantCompat1.4.1.zip"
 hash = "e6e783eb48399941a23ac899bd370f5224d8ce311643202ee9910316a3a330e0"
 
 [[files]]
+file = "config/paxi/datapacks/enderman-grief-26.3-1.0.5.zip"
+hash = "34859dad91c16d72a421f9e52f57bdc2c4e313651e91453b65b4d188553d6b88"
+
+[[files]]
 file = "config/paxi/datapacks/idasalexsmobs-1.13-1.21.1.zip"
 hash = "4747e7c38891a7bf14973c242b91040ef71dca8f704b1d6d357ea8424876574b"
 
@@ -503,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/arms-n-artifice-heavy-artillery.pw.toml"
-hash = "09365cdd63c182dd26d2e032088c76338cb9786e62ae1f3d648a46ceb6744bfd"
+hash = "6eb73c3dd4f000284d66be0d247b2c75a917267ce2c35b9aa80cbe7558fb3ce5"
 metafile = true
 
 [[files]]
@@ -538,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "0e0649a74b3e2160ebf3800cfc2b8fde702faec7efa5968b00f81e02bdbf8ed5"
+hash = "13f8a6e3c0af01e8914503c6323c3bce301352b36fe281c41a85a7ddf4ba9f67"
 metafile = true
 
 [[files]]
@@ -683,7 +687,7 @@ metafile = true
 
 [[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
-hash = "000217304bbb5971cb9dde9081fcb5ea92cc7edcae83321effdcd92b36e2f490"
+hash = "f57e49c9f51ad7cc781f912f27c59a8d8cb165088c67ae832c87b40344d76445"
 metafile = true
 
 [[files]]
@@ -738,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "452dbeb3135e1fa05742dca9b71d98fcd390f18d6527a957eefaba06d065e712"
+hash = "aa16623b10feb39cc25132a0cc46edb4a56da6b0120fd507a96074170b2fa452"
 metafile = true
 
 [[files]]
@@ -987,8 +991,13 @@ hash = "e2a3aca8101a179153b92e99000a10d06e4b5d285d358fbe457a53690d12dab5"
 metafile = true
 
 [[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "9f511e824978b45d8d90244e921dafcbb9bc01d1e4aced66afac71740ffa5ff6"
+metafile = true
+
+[[files]]
 file = "mods/easy-mob-spawn-control.pw.toml"
-hash = "d74eafb41f15e90e42158cc01b77d2535bdc471d4b6f9d870ba7cbfeba4dd24d"
+hash = "02db47a86d6009f8026b5f1b7c96d2ebc1da13e9d59a1a4e106bec2e91730e7b"
 metafile = true
 
 [[files]]
@@ -1043,7 +1052,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "2bfe1523d89098c72c7072531f60eb24c6b41fea2ee294bfcb86c3c385464c08"
+hash = "35758c0b3e04476d1ff8fb30a46d5beb2ad0634c062f753cfb02531c684c9134"
 metafile = true
 
 [[files]]
@@ -1113,7 +1122,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "046203bd6d64b3545af0b191c90492d9bce13c788aacdded3e6d062667cf77e2"
+hash = "eae10750ed0a056674afed95c354d75da1e9213eaacaa0201d25bdcbe315a1cc"
 metafile = true
 
 [[files]]
@@ -1223,7 +1232,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-teams-forge.pw.toml"
-hash = "c21c2308684a75cda7dd9d557d129c9f89f49be527da3d5aa675fff444c11f5e"
+hash = "d1665d3000a0857df2d4ea5d3b3a6c5e2b0a60b0c83f8c0f30f05b5305b1878f"
 metafile = true
 
 [[files]]
@@ -1513,7 +1522,7 @@ metafile = true
 
 [[files]]
 file = "mods/l2library.pw.toml"
-hash = "9b93e0ced7fb0398ee2db3166966c12987554b88c5efd1d76d4cd82b0e4a2d3f"
+hash = "2b8d7b374452719fd2590becfeed14004c5567dddf1561bccb00be096f6184de"
 metafile = true
 
 [[files]]
@@ -1658,7 +1667,7 @@ metafile = true
 
 [[files]]
 file = "mods/macabre.pw.toml"
-hash = "1d5f6c1f40049f02fb092d36fc02f4b46f4c553fa2fb75fabad15e46e1bc2dff"
+hash = "65d0dfbb8303faea9f93691c6d8549d8dc7557b3ea4b0ab322c5ab99d43c06a1"
 metafile = true
 
 [[files]]
@@ -1704,6 +1713,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "1fae139080953d4ac5c894d72b7a8b205cd998dd347963c8ca295762995b32b8"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "368d2e5c2facad617995d85e71f136ef676e21067e8cfaf748d0943cb1ebf049"
 metafile = true
 
 [[files]]
@@ -1798,7 +1812,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "0cc2ba6987eb66d607ccca421807d9d598c5ccf89ecc91cf850048f2e4d16214"
+hash = "d83322021e707ff0de1d4465632838516a3014ad77d2aba7486c63c7702c6b47"
 metafile = true
 
 [[files]]
@@ -2053,7 +2067,7 @@ metafile = true
 
 [[files]]
 file = "mods/sleep-tight.pw.toml"
-hash = "5879f4397d0c6c7fbc2ca0b3b2425da402ac8da3ad703f011de861ec04588582"
+hash = "ac06b99f578761b985a4596e961f71ca43c1952ba5531a740edf6d1c745ad9a4"
 metafile = true
 
 [[files]]
@@ -2088,12 +2102,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "9a86c1c3deb9d3cdc4610d0adaa8d2e57fb1def2770a4a9bbdabf006291080a0"
+hash = "09ffd118babd4e9114f0c4bf9b0a1478f84a2470ebffec0104715c8bd66c9180"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "0bfca3aec886bd460a612127d14a8c2c1d64aea096fab5ef0643b16199a1231f"
+hash = "cd3a11d638221005133f2341427a43bc0b19b24825fe4ab5641379c461dba915"
 metafile = true
 
 [[files]]
