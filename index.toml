@@ -1046,11 +1046,6 @@ hash = "ef392a22f51ae3e83bca4c76757d8d415131dc50ed4ba57f3532acc61992e687"
 metafile = true
 
 [[files]]
-file = "mods/emi-enchanting.pw.toml"
-hash = "9237b88b063c87c5f4b5a79c5ff8a7c287537f3deabe04027efee8298ac380dd"
-metafile = true
-
-[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "35758c0b3e04476d1ff8fb30a46d5beb2ad0634c062f753cfb02531c684c9134"
 metafile = true
@@ -1711,6 +1706,11 @@ hash = "834a8d6b138137a40c7d65963a0d6bdf232f4040c418eb56108367491beee5c4"
 metafile = true
 
 [[files]]
+file = "mods/moderately-enough-effect-descriptions-meed.pw.toml"
+hash = "fd35032201ffa81fc5329894c2fd14883f1c124ec67c8e7452c0a31c23878780"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "1fae139080953d4ac5c894d72b7a8b205cd998dd347963c8ca295762995b32b8"
 metafile = true
@@ -2213,6 +2213,11 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "7d7deb14e956b71fe2f9c999acefdb5edbfc264d9c66e5e2fce7c90ee704d05a"
+metafile = true
+
+[[files]]
+file = "mods/uei.pw.toml"
+hash = "cc1eaab22bdaf1704ceb7a15f2c9b236e57268e3ba3babfb9237651289e1f56b"
 metafile = true
 
 [[files]]
