@@ -5,6 +5,22 @@ file = "config/click-common.toml"
 hash = "e7b84636e0c5911bfbe66856c405b1e8fa99a4b1260e19f945d5320b227f59c5"
 
 [[files]]
+file = "config/create_submarine-client.toml"
+hash = "193248a1ca99dae4aba139011638e42e8c6ce473b66e643e7c8b1c7ede669fec"
+
+[[files]]
+file = "config/create_submarine-common.toml"
+hash = "8f711294365919087ef9eedbcc6974a64a2ba69a4b4a8e79590cb9ff21efe57e"
+
+[[files]]
+file = "config/fancymenu/customization/pause_screen_layout.txt"
+hash = "c8fb736baa5ba5e58653f4adf9604b3ac53c783b16216457ac07604c86812991"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "29a4649ecadfc720119e77cc57c4423dcaef9f09ab698f1e6dfc8163da2bb051"
+
+[[files]]
 file = "config/lisa-common.toml"
 hash = "9ab55bf2babbaf4a21f334093652430f9948f97cda3dab8356038ae3f42dd13f"
 
