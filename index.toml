@@ -274,14 +274,6 @@ file = "kubejs/kubejsstudio/appearance.json"
 hash = "8a414fba19452c8692287b1936aa2f12bb20a5573098cfee545adfe59b944f98"
 
 [[files]]
-file = "kubejs/server_scripts/carrier_arrow_bows"
-hash = "a4616559cf9595bcd3799fbfae4f5ce3d820fb006840e13f1bfee4e5319af268"
-
-[[files]]
-file = "kubejs/server_scripts/falling_block_overrides"
-hash = "1e968b44e74687f3a53d7929cd321647c92769dbcdd4f25061feaebb65857c67"
-
-[[files]]
 file = "kubejs/server_scripts/kubejsstudio/kubejsstudio.js"
 hash = "79d068df69441d3c3647a4d9eafc86cdc9a2f4de10a6557bc80536f62c679b2a"
 
@@ -308,10 +300,6 @@ hash = "b223550c84e8dcc31408b5e84734f838d0c87a960cf07497017fccead8dda626"
 [[files]]
 file = "kubejs/server_scripts/main.js"
 hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
-
-[[files]]
-file = "kubejs/server_scripts/projectile_debug"
-hash = "89efa65cee405e473eccc0c244e9e64051f46c2bf96ac823e9cd956d7fcd327d"
 
 [[files]]
 file = "kubejs/startup_scripts/carrier_arrow.js"
