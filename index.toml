@@ -828,6 +828,16 @@ hash = "260e812ad408325b33ce5f1834ee1a07bd76e9189a21dac094463de1bb24c19c"
 metafile = true
 
 [[files]]
+file = "mods/create-deep-seas-lava-fix.pw.toml"
+hash = "cdee1d0e7cdd515fd5f9171ab4f553a127850d5a584685d125495712db0e94e9"
+metafile = true
+
+[[files]]
+file = "mods/create-deep-seas.pw.toml"
+hash = "d3c38c6b0b70e84f136e33d5f2070ce5bad299c3478a99fb840b2bd72901ec7f"
+metafile = true
+
+[[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "e05bc0c3ee97da0dfcf9dabd3c3eaee0e90819091ead3f500ddc3b1caf77fe54"
 metafile = true
@@ -925,6 +935,11 @@ metafile = true
 [[files]]
 file = "mods/did-you-pay-your-taxes.pw.toml"
 hash = "39c82427ed0f0891bb57af11cb50cb9afd117a51443a30a62ca37c762a45e532"
+metafile = true
+
+[[files]]
+file = "mods/diegesis.pw.toml"
+hash = "cf25480b6f6207fff8b1d60b041ff8b7a03717a39fcce734a7c4139fac861a75"
 metafile = true
 
 [[files]]
@@ -1094,7 +1109,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "426238488c9ffd843f661f8bc74aa8e585fa6b4d342c43c4ba4cb8451298b725"
+hash = "08612b6318bc0d73c67557a3edf2d8999341eacd7f628fd249f267d1811a5f8b"
 metafile = true
 
 [[files]]
@@ -1245,6 +1260,16 @@ metafile = true
 [[files]]
 file = "mods/gtbcs-cataclysmic-boss-ui.pw.toml"
 hash = "5937d1946e46487beec341600e673d1223a5b489ec74094b55dae24160e833b6"
+metafile = true
+
+[[files]]
+file = "mods/hands-on-delight-addition.pw.toml"
+hash = "8c530d4f68fa4cabd70fd741057e2b1910a3695c94684b27dcf7ea899ab1667c"
+metafile = true
+
+[[files]]
+file = "mods/hands-on-delight.pw.toml"
+hash = "6d13bcb7c696ab85c5dd29d1de7d75f922416f47b949d017e67dcf300d3d0541"
 metafile = true
 
 [[files]]
@@ -1939,7 +1964,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "670ec7beb927b6023a905794f211bb64ba8eff590d4746267adf899643d3bd0b"
+hash = "3051ccaa1e0f986692025b39cabac77f24156f0aa1561a1a41aa0dbdbd7194a2"
 metafile = true
 
 [[files]]
@@ -2010,6 +2035,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "860d3b3e2c407980ece69e51896fb5e2e1ffcdb63b6956d440f331cf73777c83"
 metafile = true
 
 [[files]]
@@ -2220,11 +2250,6 @@ metafile = true
 [[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "aac4880f75c2a2c157cce6d23df69c04235c84e672e0c8d3d63b0e03608bb1fa"
-metafile = true
-
-[[files]]
-file = "mods/vanillin.pw.toml"
-hash = "978e2092174bba920c4b80db81ddb08578cdaace57d650b11b19e94de0295a5c"
 metafile = true
 
 [[files]]
