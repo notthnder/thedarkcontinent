@@ -414,3 +414,27 @@ ServerEvents.generateData('after_mods', event => {
       }
     )
 })
+// kubejsstudio custom: sophisticatedbackpacks:inception_upgrade
+ServerEvents.generateData('after_mods', event => {
+    event.json(
+      'sophisticatedbackpacks:recipe/inception_upgrade',
+      {
+        "neoforge:conditions": [
+          {
+            "type": "sophisticatedcore:item_enabled",
+            "itemRegistryName": "sophisticatedbackpacks:inception_upgrade"
+          }
+        ],
+        "type": "minecraft:crafting_shaped",
+        "category": "misc",
+        "key": {
+          "B": {"item":"sophisticatedbackpacks:upgrade_base"},
+          "D": {"tag":"c:gems/diamond"},
+          "E": {"item":"l2complements:void_eye"},
+          "S": {"tag":"c:nether_stars"}
+        },
+        "pattern": ["ESE","DBD","EDE"],
+        "result": {"count":1,"id":"sophisticatedbackpacks:inception_upgrade"}
+      }
+    )
+})

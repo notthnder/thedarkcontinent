@@ -1,13 +1,13 @@
 name = "Presence (An Ambient Horror Mod)"
-filename = "presence-fabric-2.4.4.jar"
+filename = "presence-fabric-2.4.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "722fb3d3697053b6c1568d7ec778f3937c3cca29"
+hash = "7b76e72c44772442cd3a334f168adce04d410f0a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9369226
+file-id = 9536131
 project-id = 1517861

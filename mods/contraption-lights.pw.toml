@@ -1,13 +1,13 @@
 name = "Contraption Lights (Bi-directional Coloured Dynamic Lights)"
-filename = "contraption-lights-neoforge-1.21.1-1.5.6.jar"
+filename = "contraption-lights-neoforge-1.21.1-1.6.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c00a8703f2ac3ace8c27d7e30484d00835961069"
+hash = "a35021d7aeca1fb241a78ec562a6fdaf09630d54"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9411423
+file-id = 9546377
 project-id = 1599108

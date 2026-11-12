@@ -1,13 +1,13 @@
 name = "Hedge's Bestiary"
-filename = "hedges_bestiary-1.1.3-neo.jar"
+filename = "hedges_bestiary-1.1.4-neo.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f1f7a02f888ea61cfed32b07aafda92b8e041c6a"
+hash = "d25800f1fbab2c57d24d6360a07c0459d863e309"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9284634
+file-id = 9486013
 project-id = 1689358

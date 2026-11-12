@@ -1,13 +1,13 @@
 name = "EMF Compat: Exposure"
-filename = "emf_compat_exposure_1.21.1_1.0.0.jar"
+filename = "emf_compat_exposure_neoforge_1.21.1_1.0.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/mHqWFw6Z/versions/U71mw0ra/emf_compat_exposure_1.21.1_1.0.0.jar"
+url = "https://cdn.modrinth.com/data/mHqWFw6Z/versions/nEKhsjXJ/emf_compat_exposure_neoforge_1.21.1_1.0.1.jar"
 hash-format = "sha512"
-hash = "827016c665d8fa08d6a7db8f793c987811ce32a2fb4f288e132e29b28f58eda436421adbc9876b003464d3aa07059233132b82308cd919d8d1585c6747f414a8"
+hash = "779b8e646d74bae0b8784ffd72fd146f0f3e8168c2e52a16062a96cad430da329db82ecaa46c1e882761d6a17965913d5ca01c94ed630451feaf45dc20c5d348"
 
 [update]
 [update.modrinth]
 mod-id = "mHqWFw6Z"
-version = "U71mw0ra"
+version = "nEKhsjXJ"

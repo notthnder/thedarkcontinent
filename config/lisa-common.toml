@@ -28,6 +28,8 @@
 		phase2Chance = 0.05
 		#How long she waits behind you before
 		#vanishing (0+ ticks, 20 = 1 second).
+		#She always stays until her whisper ends, so
+		#anything under 270 acts like 270.
 		#Range: 0 ~ 2147483647
 		phase2LingerTicks = 60
 		#Her grab kills you. Off = she vanishes in
@@ -62,6 +64,30 @@
 		darknessRange = 30.0
 		#She flickers in and out of sight.
 		enableFlicker = true
+
+	#Little things that go bump in the night.
+	[general.ambience]
+		#Chance a door near your bed bangs or creaks
+		#open as you fall asleep at night (0-1, 1 =
+		#every night).
+		#0 = off.
+		#Range: 0.0 ~ 1.0
+		doorScareChance = 0.2
+		#Chance, every 5 seconds you spend near a
+		#jukebox (day or night), that it cuts out
+		#whatever it was playing and tunes into
+		#something else (0-1, 1 = as soon as the
+		#cooldown allows).
+		#0 = off.
+		#Range: 0.0 ~ 1.0
+		radioScareChance = 0.05
+		#Ticks after a radio scare before the next one
+		#can happen near you (0+, 20 = 1 second, 12000
+		#= 10 minutes).
+		#Never shorter than the longest radio clip, so
+		#they can't overlap.
+		#Range: 0 ~ 2147483647
+		radioScareCooldownTicks = 36000
 
 	#Debug info for tracking down bugs.
 	[general.logging]

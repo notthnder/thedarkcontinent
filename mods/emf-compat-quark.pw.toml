@@ -1,13 +1,13 @@
 name = "EMF Compat: Quark"
-filename = "emf_compat_quark_1.21.1_1.1.0.jar"
+filename = "emf_compat_quark_neoforge_1.21.1_1.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1fe36f166af0a718663304379d2d5e506b02db90"
+hash = "22c133d2ec67d912c624a7f01bc7bfeefe7a72df"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8540672
+file-id = 9524714
 project-id = 1605187

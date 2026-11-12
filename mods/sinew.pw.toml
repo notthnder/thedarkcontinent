@@ -1,13 +1,13 @@
 name = "Sinew"
-filename = "Sinew-1.21.1-1.4.0.jar"
+filename = "Sinew-1.21.1-1.5.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "12a18df4aaec10116b9db3b77acd84d5ab35020c"
+hash = "1fd83ef636339d5b3699a3a51826429ed24f48b2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9292651
+file-id = 9535277
 project-id = 1686754

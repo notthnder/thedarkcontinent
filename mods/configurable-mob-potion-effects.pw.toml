@@ -1,13 +1,13 @@
 name = "Configurable Mob Potion Effects"
-filename = "configurablemobpotioneffects-1.21.1-4.0.jar"
+filename = "configurablemobpotioneffects-1.21.1-4.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "529e73383b3c047c6f5d4b4f9dbeb0f5f58db718"
+hash = "afac8ebdbaa42df06956377cc022771f2d4ff885"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9034622
+file-id = 9515436
 project-id = 414486

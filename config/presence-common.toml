@@ -6,15 +6,15 @@
 		#Wait between event rolls (10+ seconds, higher
 		#= rarer).
 		#Range: 10 ~ 2147483647
-		minTimeSeconds = 3600
+		minTimeSeconds = 600
 		#How long an event lasts (5+ seconds, higher =
 		#longer).
 		#Range: 5 ~ 2147483647
-		eventDurationSeconds = 30
+		eventDurationSeconds = 60
 		#Chance an event starts each roll (0-1, 1 =
 		#every roll).
 		#Range: 0.0 ~ 1.0
-		rollChance = 0.05
+		rollChance = 0.1
 		#When a won roll starts the event: 1 = right
 		#away, 2 = once you can see enough mobs.
 		#Range: 1 ~ 2
@@ -43,7 +43,7 @@
 		#How much your view closes in (0-1, 0.3 = 30%
 		#narrower, 0 = off).
 		#Range: 0.0 ~ 1.0
-		narrowFovBy = 0.2
+		narrowFovBy = 0.3
 
 	#What goes quiet during an event.
 	[general.sounds]
@@ -72,7 +72,7 @@
 		mobSpawnRange = 10
 		#A staring mob turns into the Killer when you
 		#get too close.
-		replaceMobWithKiller = false
+		replaceMobWithKiller = true
 		#How long the Killer hunts after the event
 		#(5-300 seconds, higher = longer).
 		#Range: 5 ~ 300
@@ -85,7 +85,7 @@
 		killerSpeed = 0.4
 		#The Killer can't be hurt. It still vanishes
 		#on its own.
-		killerInvincible = false
+		killerInvincible = true
 		#Pets still stare but never turn into the
 		#Killer.
 		protectTamedMobs = true

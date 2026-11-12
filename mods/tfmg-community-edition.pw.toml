@@ -1,13 +1,13 @@
 name = "Create: TFMG Community Edition"
-filename = "tfmg-1.21.1-1.3.3-community.jar"
+filename = "tfmg-1.21.1-1.3.3a-community.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2428d224db5773137136dafd79630e59a3aeee22"
+hash = "05869fc36732f40c1a23770208b0b7cb649373a6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9413167
+file-id = 9482161
 project-id = 1653026

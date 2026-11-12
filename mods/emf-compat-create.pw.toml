@@ -1,13 +1,13 @@
 name = "EMF Compat: Create"
-filename = "emf_compat_create_neoforge_1.21.1_2.1.0.jar"
+filename = "emf_compat_create_neoforge_1.21.1_2.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "aea909266b5d11c93b30ad7ed8fbe7c49bfd577e"
+hash = "53d602150942c5c2460892795fae04b70927028f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9103410
+file-id = 9524683
 project-id = 1605167

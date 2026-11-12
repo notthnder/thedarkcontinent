@@ -1,13 +1,13 @@
 name = "Arms 'n Artifice: Heavy Artillery"
-filename = "artifice_heavy_artillery-1.21.1-0.2.0.jar"
+filename = "artifice_heavy_artillery-1.21.1-0.2.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "baa770a09befda50abf48f0609d0b0c06228f680"
+hash = "241b49e2037f830a8ef3ccc32cdb7da78e563051"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9426082
+file-id = 9534528
 project-id = 1777174

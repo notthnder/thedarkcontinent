@@ -1,13 +1,13 @@
 name = "Places"
-filename = "places-0.5.2-neoforge-1.21.1.jar"
+filename = "places-0.5.4-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Ic0nDh2h/versions/9pJMs7Qf/places-0.5.2-neoforge-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/Ic0nDh2h/versions/QScrePLR/places-0.5.4-neoforge-1.21.1.jar"
 hash-format = "sha512"
-hash = "6425a4aebc42e141d6bd5d8b930a3b433bb1c00a40d7a364f960244b7f1de326d2189f4593b8c229f6f3ec3ffcc9d02bed41fca4215c2707e62c1bbd559b7cd3"
+hash = "553ba7b4d4da1d431806d03b06fcdc580b12aff622b7615ba9ffebaf2aed546f671b510c3694ecc032e47e2f77dbe3b8577126b4b1833ef42f2e56a4802a0737"
 
 [update]
 [update.modrinth]
 mod-id = "Ic0nDh2h"
-version = "9pJMs7Qf"
+version = "QScrePLR"

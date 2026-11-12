@@ -1,13 +1,13 @@
 name = "Cocktails Delight"
-filename = "Cocktails-Delight-1.21.1-NeoForge-1.1.11.jar"
+filename = "Cocktails-Delight-1.21.1-NeoForge-1.1.12.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3d1ef17e00175bb698f2ee304931426944d3344a"
+hash = "82dac0277825f7224cd3f74fbad266766aac9249"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8801627
+file-id = 9482953
 project-id = 1198178
