@@ -1,13 +1,13 @@
 name = "Antarchy"
-filename = "antarchy-2.4.1+1.21.1-neoforge.jar"
+filename = "antarchy-2.4.2+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bnrJEOg5/versions/8yvDST06/antarchy-2.4.1%2B1.21.1-neoforge.jar"
+url = "https://cdn.modrinth.com/data/bnrJEOg5/versions/FF2FkD5S/antarchy-2.4.2%2B1.21.1-neoforge.jar"
 hash-format = "sha512"
-hash = "f850ac7622c3deb66b99f449ca0939532060443cc7eca74415216624b7b90ef00e8264260f5779c011eb05531aad6c7595d84f7e632d7cee39687a50b332a02a"
+hash = "8e790990194e11467fe3b44f090ca6134eaddc7a4a09df1a5156373e7fab9f071974cdd6199523a853e66c0edcc9415e4cf1dec27916d70063ccb5e4026554bf"
 
 [update]
 [update.modrinth]
 mod-id = "bnrJEOg5"
-version = "8yvDST06"
+version = "FF2FkD5S"

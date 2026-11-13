@@ -5,14 +5,6 @@ file = "config/click-common.toml"
 hash = "e7b84636e0c5911bfbe66856c405b1e8fa99a4b1260e19f945d5320b227f59c5"
 
 [[files]]
-file = "config/create_submarine-client.toml"
-hash = "193248a1ca99dae4aba139011638e42e8c6ce473b66e643e7c8b1c7ede669fec"
-
-[[files]]
-file = "config/create_submarine-common.toml"
-hash = "8f711294365919087ef9eedbcc6974a64a2ba69a4b4a8e79590cb9ff21efe57e"
-
-[[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
 hash = "29a4649ecadfc720119e77cc57c4423dcaef9f09ab698f1e6dfc8163da2bb051"
 
@@ -396,7 +388,7 @@ metafile = true
 
 [[files]]
 file = "mods/antarchy.pw.toml"
-hash = "94a37d764a8c1da1e4d7a21cb5a3ef3300d0806d6fa3248ee56844d771dab2b2"
+hash = "7076f2bc81ed8721b0228b11ada4be1f7ac06eac31156bf20f1eca04b61a9081"
 metafile = true
 
 [[files]]
@@ -422,6 +414,11 @@ metafile = true
 [[files]]
 file = "mods/apotheosis-balance-configurator.pw.toml"
 hash = "4534c14c02e72d991a978aa7c92489eae55a883788b4c2317f869317b873ef8d"
+metafile = true
+
+[[files]]
+file = "mods/apotheosis-no-flight.pw.toml"
+hash = "7225f7bd10915a0935afabef6776261d6ed7c30a29c54592313a940c050ea5a7"
 metafile = true
 
 [[files]]
@@ -951,7 +948,7 @@ metafile = true
 
 [[files]]
 file = "mods/diegesis.pw.toml"
-hash = "cf25480b6f6207fff8b1d60b041ff8b7a03717a39fcce734a7c4139fac861a75"
+hash = "7a86643d2e2e99da951ff051b4103dc3bd445b7c21f7f003531f0243cd76bb1c"
 metafile = true
 
 [[files]]
@@ -986,7 +983,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-delight.pw.toml"
-hash = "7e9348805777595c514f2079a5b75a3b2cccbe5ce2b090e4d423d30c5b75a724"
+hash = "6c4aa4206b5d201fded0ba197543353e50542bf3c33c6ef45b1b90cebde1d6f6"
 metafile = true
 
 [[files]]
@@ -1001,7 +998,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-mob-spawn-control.pw.toml"
-hash = "09c0f256d9a44eeba2f777dfe8d06c5c7b48167dd2775ff5275f046e3cac1fea"
+hash = "4080b33f9d88cd33728bf46ab90ccdf6db2c2111e0ce71f7f4481b4819bab42d"
 metafile = true
 
 [[files]]
@@ -1275,13 +1272,8 @@ hash = "5937d1946e46487beec341600e673d1223a5b489ec74094b55dae24160e833b6"
 metafile = true
 
 [[files]]
-file = "mods/hands-on-delight-addition.pw.toml"
-hash = "8c530d4f68fa4cabd70fd741057e2b1910a3695c94684b27dcf7ea899ab1667c"
-metafile = true
-
-[[files]]
 file = "mods/hands-on-delight.pw.toml"
-hash = "6d13bcb7c696ab85c5dd29d1de7d75f922416f47b949d017e67dcf300d3d0541"
+hash = "2a4406e52782bb0a5f086c28b86cb88ab6c1aa03dd0e251392f18c52f8012fc5"
 metafile = true
 
 [[files]]
@@ -1476,7 +1468,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
-hash = "fe1354d34df356e42dbea734d30c44b46a4484dcd68a23045927277dafefab9d"
+hash = "e869a63e93994ff0254ab63c7e5c14a713a0249fb06ed7c0ad35824ec31c8efc"
 metafile = true
 
 [[files]]
@@ -1506,7 +1498,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-studio.pw.toml"
-hash = "38af6839345c93757af3f0555b094dea05e3eb96386e72a0e172dcccfc687ed6"
+hash = "ef589c4cc3d3a31061ef25c321f9af37f9fc5336f5837fbf3fd34cd4228c7095"
 metafile = true
 
 [[files]]
@@ -1871,7 +1863,7 @@ metafile = true
 
 [[files]]
 file = "mods/places.pw.toml"
-hash = "d28a11b05a829a77b2f16d8db46974167c3affdab02992fd113ff375e5a385e1"
+hash = "3718835ac5baa249bb6446944227898d1f7252e90aa27ce4865afdbb0558cf10"
 metafile = true
 
 [[files]]
@@ -1966,7 +1958,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-emi.pw.toml"
-hash = "d62b5de151986f8cd2510f07d58b02f74396aed8b0557624f88516a7148242a3"
+hash = "91a7b3ea2cc225d9bd4138ab7d47eec4b2e77254bb872fe43de5bdec9de2257f"
 metafile = true
 
 [[files]]
@@ -2121,7 +2113,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "4263d5bcf02a39213e93949287119aeb17e59d3432bb4b4597d963fd4f8dcc12"
+hash = "37d7f4f675745426675aca481229e26706c4d9196db009070e27ce5c2db3563c"
 metafile = true
 
 [[files]]
@@ -2191,7 +2183,7 @@ metafile = true
 
 [[files]]
 file = "mods/thirst-was-taken-2.pw.toml"
-hash = "d9254a557d8ee562107d79eb5f913f395bfea4f489a7a2bb1b6d75e3db7f6f38"
+hash = "439ee757df404c6aab34b6ad4026f20b7857c1b1c0ae5ffe8117592471e5aaa6"
 metafile = true
 
 [[files]]
@@ -2201,7 +2193,7 @@ metafile = true
 
 [[files]]
 file = "mods/tmrv-updated.pw.toml"
-hash = "1aec99056a11873f51e46d9ca7b80771746234cf1f34e157508642a756acf9b1"
+hash = "bed417c107b8e2fc5bc11cb9b9153cbf4d6e0ac2249924f233ee5e8eca6cc4a6"
 metafile = true
 
 [[files]]
