@@ -912,6 +912,11 @@ hash = "feb49efc9902e8c33be37d508c6e117d0962b3aa579638aec255761318271c6f"
 metafile = true
 
 [[files]]
+file = "mods/cult-of-azazel-wrath-of-paimon.pw.toml"
+hash = "d4ecf9e6167a423f2d405864d562aa3242dbf8292655b71f2fbc4b8abcf78f7a"
+metafile = true
+
+[[files]]
 file = "mods/cult-of-azazel.pw.toml"
 hash = "bb1c71b132a3ade87947ed2447a6ab59a54feb40ea45b42e1d22c51c3d92088a"
 metafile = true
@@ -1118,12 +1123,17 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "08612b6318bc0d73c67557a3edf2d8999341eacd7f628fd249f267d1811a5f8b"
+hash = "d518db51c2502b5b04d6ca4add6a2b3e862a0af15e7a65f0ab83180778adb604"
 metafile = true
 
 [[files]]
 file = "mods/entityjs.pw.toml"
 hash = "a2c0cbdab0b6faeb345637eb69201c0f35a090347152e54d7b5098322a4a4dd5"
+metafile = true
+
+[[files]]
+file = "mods/entropy-lib.pw.toml"
+hash = "d7f09c36d538285d6c178c494a02d7bb9d9c70505bf7d0b4fa51c0d278658773"
 metafile = true
 
 [[files]]
@@ -1213,7 +1223,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
-hash = "90d8290ba2c103b55eacba92ed0f08c77a3832795b99fb03e77f9dc3885c7fd9"
+hash = "fe87173e15a7e2a7543c553708cc3f49a346bcb686cec4977fce6c3efafe4521"
 metafile = true
 
 [[files]]
@@ -1823,7 +1833,7 @@ metafile = true
 
 [[files]]
 file = "mods/particular-reforged.pw.toml"
-hash = "7d65de9455bb6c263f1e8df1a13a9ba9704e346fa949a1986b88de4ef210ff22"
+hash = "a9ee5071c4cdc303e9630dda11b13969ce22b43f84676c08b50a259c131e1a5f"
 metafile = true
 
 [[files]]
