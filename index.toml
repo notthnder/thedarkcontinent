@@ -6,7 +6,7 @@ hash = "e7b84636e0c5911bfbe66856c405b1e8fa99a4b1260e19f945d5320b227f59c5"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "29a4649ecadfc720119e77cc57c4423dcaef9f09ab698f1e6dfc8163da2bb051"
+hash = "d7802215d6a4b38125b789b127bad7bcde732ae1d3c8af531853e083fb73d3ac"
 
 [[files]]
 file = "config/lisa-common.toml"
@@ -74,7 +74,7 @@ hash = "4747e7c38891a7bf14973c242b91040ef71dca8f704b1d6d357ea8424876574b"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "8eac28020172284961f01eb92df513f3644d8e8c0b2cb089b6236439f3c76d2a"
+hash = "8338df8053f32dde83561eb15455f6bc734b0ee55815e3f81cfae3f6f57b654a"
 
 [[files]]
 file = "config/paxi/resourcepacks/Arid's Dimensional Resprites.zip"
@@ -129,8 +129,8 @@ file = "config/paxi/resourcepacks/Enhanced Audio r7.zip"
 hash = "77baaeb8469acf33c6f852aa70336d09cda781322dd32cb599eb6089ab4f323c"
 
 [[files]]
-file = "config/paxi/resourcepacks/FA+All_Extensions-v1.8.1.zip"
-hash = "420ad586300bb4164ff441460ae0d1b2be68933cfd9321746fcef173c0437015"
+file = "config/paxi/resourcepacks/FA+All_Extensions-v1.10.1.zip"
+hash = "10bcd8cfec9c70694ceaf37ec52e4b69f3a9b2fcab2ba67f202d6cbfcb7a38c9"
 
 [[files]]
 file = "config/paxi/resourcepacks/FA+Player-v1.1.zip"
