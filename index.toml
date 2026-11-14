@@ -488,7 +488,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
+hash = "9412ae80a3b8633c4b8507402610c4d8ad3e27809a27a9a76263d16fa7347b2e"
 metafile = true
 
 [[files]]
@@ -563,7 +563,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-mob-combat-reimagined.pw.toml"
-hash = "2a6b5c78187312675e82d9f0955781459a304ac015eec85623e751b8f0729821"
+hash = "6514bac09256a5fd974e780f3de889bee4e1c531fa1960f7511597d054e1d69c"
 metafile = true
 
 [[files]]
@@ -703,7 +703,7 @@ metafile = true
 
 [[files]]
 file = "mods/click-inspired-by-the-film-hereditary.pw.toml"
-hash = "5b8d19fcfd0e835813ab9337d5969a0944c2101722c98027f53375e7cc4db44c"
+hash = "08705076a8e7fa2d4631684429ed81638c849e8337b587178009c35ccffc4780"
 metafile = true
 
 [[files]]
@@ -803,7 +803,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-gadgets-and-gizmos.pw.toml"
-hash = "d3b46d63d6861f9e23a46475db79e7665779cfe99ab90de2756abfca5e325490"
+hash = "4e4bb32e791138bc1e32354e062af294d6cf86ba7170eedf4631c831a58c3a8c"
 metafile = true
 
 [[files]]
@@ -843,7 +843,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-deep-seas.pw.toml"
-hash = "d3c38c6b0b70e84f136e33d5f2070ce5bad299c3478a99fb840b2bd72901ec7f"
+hash = "2e66c6b8dfb44b6e011076265ffa7bbb334da429ab889af7e0e0e8558108b129"
 metafile = true
 
 [[files]]
@@ -913,7 +913,7 @@ metafile = true
 
 [[files]]
 file = "mods/cult-of-azazel-wrath-of-paimon.pw.toml"
-hash = "d4ecf9e6167a423f2d405864d562aa3242dbf8292655b71f2fbc4b8abcf78f7a"
+hash = "94f187835a371fbbc76f753abd8b0775912aa0923066c889b46b29be7046f3fc"
 metafile = true
 
 [[files]]
@@ -933,7 +933,7 @@ metafile = true
 
 [[files]]
 file = "mods/dark-doppelganger.pw.toml"
-hash = "1e19051ac882bb2e56d3a39eb13ee1240e07e240efe1159ddcc693d4e096909f"
+hash = "af9ed245ce36b55d387d6e328ec468dacbfaacb18d1cb00ff3439013ab6299b2"
 metafile = true
 
 [[files]]
@@ -953,7 +953,7 @@ metafile = true
 
 [[files]]
 file = "mods/diegesis.pw.toml"
-hash = "7a86643d2e2e99da951ff051b4103dc3bd445b7c21f7f003531f0243cd76bb1c"
+hash = "b9b68e5fab947d47f8deadd754dc22d2c278b2910282eee422f3630321587150"
 metafile = true
 
 [[files]]
@@ -988,7 +988,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-delight.pw.toml"
-hash = "6c4aa4206b5d201fded0ba197543353e50542bf3c33c6ef45b1b90cebde1d6f6"
+hash = "d73dcbba96b24cd49be6583d6212c06eac86f5e53019c7e5e22cf2873a74806d"
 metafile = true
 
 [[files]]
@@ -1653,7 +1653,7 @@ metafile = true
 
 [[files]]
 file = "mods/loot-integrations.pw.toml"
-hash = "543b8a8ff5796648146f3102dea686e806f793052d329d0fa3efee8194d4df52"
+hash = "bb7fdcba7059fac083d4b8f74cfc2f6d5893a19465709424b545cc5982f995b6"
 metafile = true
 
 [[files]]
@@ -1968,7 +1968,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-emi.pw.toml"
-hash = "91a7b3ea2cc225d9bd4138ab7d47eec4b2e77254bb872fe43de5bdec9de2257f"
+hash = "eebd19a6487e211cbec47292d7c49e2e7fa66c84cbe14ccbc6d4c321d6d32578"
 metafile = true
 
 [[files]]
@@ -2158,12 +2158,12 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "8fa75a87e3b90e25fb8a298c2250144607ff3b2d2052d0246f660719ea709195"
+hash = "712b0b5289a61d43661f1fe5c527cb70d79a9d886dd7c37d60abd90c482c7942"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "ac16a3b327930527b268695816a0be285bdb0a384480b231c6fd2ccbe87f401f"
+hash = "7b9ebfbbba00bdaf96fa822a2d009b1a02f6ea1e090ad32f5420649bdfec7da1"
 metafile = true
 
 [[files]]
@@ -2203,7 +2203,7 @@ metafile = true
 
 [[files]]
 file = "mods/tmrv-updated.pw.toml"
-hash = "bed417c107b8e2fc5bc11cb9b9153cbf4d6e0ac2249924f233ee5e8eca6cc4a6"
+hash = "925f66c4a11e59a86cd61c99d388a5655f57be74a3be95d33080514a3ff308db"
 metafile = true
 
 [[files]]

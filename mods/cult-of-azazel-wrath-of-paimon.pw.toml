@@ -1,13 +1,13 @@
 name = "Cult of Azazel: Wrath of Paimon"
-filename = "wrathofpaimon-neoforge-1.21.1-0.0.3neoforge.jar"
+filename = "wrathofpaimon-neoforge-1.21.1-0.0.4neoforge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5f601c1c82c8aac4d3f929b6be1c597402a75517"
+hash = "1944e701110f136b6b6bb8ab19b3d0d8e8d358fd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9345130
+file-id = 9609509
 project-id = 1748042

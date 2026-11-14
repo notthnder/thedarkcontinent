@@ -1,13 +1,13 @@
 name = "Click. (Inspired by the film \"Hereditary\")"
-filename = "click-fabric-2.0.12.jar"
+filename = "click-fabric-2.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7ac5ea99ce2f48be593577fc0058d877655a3fe0"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/hXSqBQyi/versions/iZg3mffw/click-fabric-2.1.0.jar"
+hash-format = "sha512"
+hash = "ecfb6d1711930abe3d6e34c2335ce86558595d61ef8c1460179c898602e8ea31f57098f16e12b61df18958689533251309b9f3cb9bfc0624ac8b4317cc479750"
 
 [update]
-[update.curseforge]
-file-id = 9460653
-project-id = 1357723
+[update.modrinth]
+mod-id = "hXSqBQyi"
+version = "iZg3mffw"

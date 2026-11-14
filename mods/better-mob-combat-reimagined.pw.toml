@@ -1,13 +1,13 @@
 name = "Better Mob Combat - Reimagined"
-filename = "better_mob_combat_reimagined-1.1.19.jar"
+filename = "better_mob_combat_reimagined-1.1.21.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f90825150fedf49d2ef977d420f274fd1aaeb796"
+hash = "4ef0bc2217daf01f35a4ea0fb8a842323aaa4b06"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9521052
+file-id = 9605100
 project-id = 1606434

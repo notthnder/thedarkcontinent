@@ -1,13 +1,13 @@
 name = "Reliable EMI (REMI)"
-filename = "remi-neoforge-1.21.1-4.8.2.jar"
+filename = "remi-neoforge-1.21.1-4.8.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "be7c921693fb0f384eb1ab69d61ae395ac2ad98d"
+hash = "1b2a354e19b288a6309bbbe5b86d1e41a76e7df7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9586984
+file-id = 9598666
 project-id = 1411826

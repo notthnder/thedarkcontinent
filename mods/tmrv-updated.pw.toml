@@ -1,13 +1,13 @@
 name = "TMRV Updated"
-filename = "toomanyrecipeviewers-0.9.3-mc.21.1.jar"
+filename = "toomanyrecipeviewers-0.9.4-mc.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e8f2b1b2b735432d964d785364845de5eb25bf6c"
+hash = "b0f5b0a8defeb63528f048c9071d1e8e628acdc0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9583884
+file-id = 9600357
 project-id = 1727144
