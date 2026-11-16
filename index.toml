@@ -509,12 +509,12 @@ metafile = true
 
 [[files]]
 file = "mods/anthology.pw.toml"
-hash = "22372da8ca64c62ba80560e91d10a11a60a8fd3e80185838db3ac2a1e911e3ce"
+hash = "c3f7c5c5a77cb320cdc542c9540756b868cc99afc80b0bb5753b691a89d78400"
 metafile = true
 
 [[files]]
 file = "mods/antos.pw.toml"
-hash = "03fa7b817355b9030efa201422ac0fe6d0c91f186909fcd6a90e7b96141db8a4"
+hash = "c73f59b63824fa53f30863d7ba81f383ebca4c670e9ab8c783717479363f80c8"
 metafile = true
 
 [[files]]
@@ -1044,7 +1044,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "6b6683fd8ec53d10d4fbef3b3d53922a1aaa8ef4d2e4b52bb819dc451f5d6b3d"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
@@ -1070,6 +1070,11 @@ metafile = true
 [[files]]
 file = "mods/diegesis-api.pw.toml"
 hash = "d46814600770d9774e2f1dd905359f204c9955f540c93ac4b708bdbb6c60ac0a"
+metafile = true
+
+[[files]]
+file = "mods/diegesis.pw.toml"
+hash = "137ae6c7250fc93d89c5e138accea146d46506dc086560aee9696502080657cc"
 metafile = true
 
 [[files]]
@@ -1479,7 +1484,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-api.pw.toml"
-hash = "f3b17c2dbcc3618721dab2718ce0890a112bc06ff66d03049636f1659dbad636"
+hash = "2006d93b750930a88d26709981818a3b8b14dfa3b0e8d0f05d0532d3475ee80b"
 metafile = true
 
 [[files]]
@@ -1554,7 +1559,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "88f5ff58c639f8ad512ee12f04c41fdbc53bbfb137b977485c203067f7dbec77"
+hash = "3ce90635273fb1111b038524c91c25c5d734c3cbd0fe1af1c081b0afbca04175"
 metafile = true
 
 [[files]]
@@ -1658,6 +1663,11 @@ hash = "bfd9184f71cc1b76ecd421fdfde7dac179be909383777bfe0891010a495c5645"
 metafile = true
 
 [[files]]
+file = "mods/l_enders-cataclysm.pw.toml"
+hash = "f262b49b1038ef9f67704e0629da6aafa84cf4f760273589f5d73530ca5d74b5"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a18e3ccdf71e346bcd5f772c235ad9244aec9dfc128402486e91bffc807832a9"
 metafile = true
@@ -1683,18 +1693,13 @@ hash = "d59b2119114e3e6e8c9bbf60ea8fdcf26c2f83cf51fb9b9c04a8ba0222b6f618"
 metafile = true
 
 [[files]]
-file = "mods/lendercataclysm.pw.toml"
-hash = "0f04f325e69159d49ef7ad0593d9fa2caaca3825bc519b3d54c253bfcb0ae435"
-metafile = true
-
-[[files]]
 file = "mods/lionfish-api.pw.toml"
-hash = "c27c2b642deba3609c6e5741ee6360cb8d760e5bf5b2595fd4fa01c01dc5f074"
+hash = "64acab1580ca6edd8b1dd185e914aeee7aa551a88a7cd7f0f9370a82aaadfef6"
 metafile = true
 
 [[files]]
-file = "mods/lisa-inspired-by-p-t.pw.toml"
-hash = "35006f6879ff16ebd916f436ab05871e608f1d95822839a9d02a90b7bde7af7b"
+file = "mods/lisa-inspired-by-the-interactive-teaser-p.t..pw.toml"
+hash = "6579976048b4008b8f324f1133cecfe8e5659934769023a6f96fdd5b21b6c4e4"
 metafile = true
 
 [[files]]
@@ -1914,7 +1919,7 @@ metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "94ce4f47270f7298c512d6f6e62db058700bd1203f55d604f7f57b1b67de4676"
+hash = "c1289caebac28eab176c81e691fe7f0d85ba57c45e621e567abeae16d9bf57ae"
 metafile = true
 
 [[files]]
@@ -1944,7 +1949,7 @@ metafile = true
 
 [[files]]
 file = "mods/particular-reforged.pw.toml"
-hash = "a9ee5071c4cdc303e9630dda11b13969ce22b43f84676c08b50a259c131e1a5f"
+hash = "45d6f9ac203536d03136d75dff52c381daf72311af19bc12805a007b31c8f112"
 metafile = true
 
 [[files]]
@@ -2189,7 +2194,7 @@ metafile = true
 
 [[files]]
 file = "mods/sizeable-foliage.pw.toml"
-hash = "b94d2f790d6e10fc7a29655ee91086a09ab9cc5697dc52c1ae28db1de6ea1137"
+hash = "335dd49319eb588deb0480a4be7843f10da0658af46a5f0ce5528619b2901a19"
 metafile = true
 
 [[files]]

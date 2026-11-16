@@ -3,11 +3,11 @@ filename = "antos-neoforge-1.21.1-1.6.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "817d26ef49b51b14c0cc9b7981e63e0ef23aa780"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/MzU6Lh9B/versions/QCuLhnVg/antos-neoforge-1.21.1-1.6.6.jar"
+hash-format = "sha512"
+hash = "0daf2aec77ef2af8243f4659a4f28fc586dd4b25c539fe49102e008e2d5601fc4701bb25181dbe07350f21a26c990fdad4ce8ac611cb45e21fdd50382e34c5fb"
 
 [update]
-[update.curseforge]
-file-id = 9650655
-project-id = 1700593
+[update.modrinth]
+mod-id = "MzU6Lh9B"
+version = "QCuLhnVg"

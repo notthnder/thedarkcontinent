@@ -3,11 +3,11 @@ filename = "sizeable_foliage-neoforge-1.21.1-1.3.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "681e82a16bb66ad65e82c7dd5c819535d10982f8"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/lgD8igI0/versions/kzcKvYlT/sizeable_foliage-neoforge-1.21.1-1.3.0.jar"
+hash-format = "sha512"
+hash = "bfdd5e6cf61bf29651328066041818adbd4576dd1311b8b272e32941f0f61f176c162874d0b08e0da3f844e06eac599f3ee67910cd2f3d12e65a84766c2d2b4a"
 
 [update]
-[update.curseforge]
-file-id = 9339775
-project-id = 1601832
+[update.modrinth]
+mod-id = "lgD8igI0"
+version = "kzcKvYlT"

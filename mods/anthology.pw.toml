@@ -1,13 +1,13 @@
 name = "Anthology: Time & Space API"
-filename = "anthology-1.0.7-1.21.1-neoforge.jar"
+filename = "anthology-1.0.7+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7cdf0c078ebffbe7b5b48444c7b76c592abdcc33"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/L7cI8p0P/versions/oYN3fJkz/anthology-1.0.7%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "b4b54feb06abbd5b0f59449939d80a618965c398628c5a7eb2dbf7a72b5ad2bc5329ddfa7adfe0d8593d2c881c26340578b2ffdd44f55e110cc57a734a3b640e"
 
 [update]
-[update.curseforge]
-file-id = 9552275
-project-id = 1741821
+[update.modrinth]
+mod-id = "L7cI8p0P"
+version = "oYN3fJkz"
