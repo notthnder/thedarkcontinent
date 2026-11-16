@@ -1073,11 +1073,6 @@ hash = "d46814600770d9774e2f1dd905359f204c9955f540c93ac4b708bdbb6c60ac0a"
 metafile = true
 
 [[files]]
-file = "mods/diegesis.pw.toml"
-hash = "137ae6c7250fc93d89c5e138accea146d46506dc086560aee9696502080657cc"
-metafile = true
-
-[[files]]
 file = "mods/dimensionaldoors.pw.toml"
 hash = "6712c8704a5cee8189992a4f5399fb49233d5e47aaedac2dcbfcaf8a818bfa2a"
 metafile = true
@@ -1124,7 +1119,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-mob-spawn-control.pw.toml"
-hash = "4080b33f9d88cd33728bf46ab90ccdf6db2c2111e0ce71f7f4481b4819bab42d"
+hash = "6d97eaef146f026bdaa9e6a719bf7818de885cf9af8be6c97c4296e6bb47d034"
 metafile = true
 
 [[files]]
@@ -1944,7 +1939,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "d83322021e707ff0de1d4465632838516a3014ad77d2aba7486c63c7702c6b47"
+hash = "7d1d55e398c4c02a4845969bddadf890d57d95d970b67fb36338e28af593733d"
 metafile = true
 
 [[files]]
