@@ -2,11 +2,127 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/click-common.toml"
-hash = "e7b84636e0c5911bfbe66856c405b1e8fa99a4b1260e19f945d5320b227f59c5"
+hash = "3f86499eae9843b1a8be20c3999510c7024dad124ef1567a5c2af109ff16810e"
+
+[[files]]
+file = "config/fancymenu/assets/thedarkcontinent_loading_screen.png"
+hash = "bf32db02f340d67ee969929af0773a20ff3a4a9848f4326fcaaece1790671e4a"
+
+[[files]]
+file = "config/fancymenu/assets/thedarkcontinent_title.png"
+hash = "2376a2b11ec2aa5f45c34c0767a4f2ad39735cf4fadee0554add254ea2951990"
+
+[[files]]
+file = "config/fancymenu/audio_element_controller_metas.json"
+hash = "01763c0759aaf35661167034d0b4a15f3ee99dbe1b1f434c530c717f13d14410"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "8123ab5bc474aa28955c550802a56fdc32fdd5547eef852af660e72220e672d0"
+
+[[files]]
+file = "config/fancymenu/customization/com.evandev.reliable_advancements.gui.screens.enhancedadvancementsscreen_layout.txt"
+hash = "ce62a363334c488e175f923767b9674faa8dce37b9e9875e483c08b3b600e60b"
+
+[[files]]
+file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash = "4c18ec4851c1986069079aa92e65f7fc3d99fe521777dfa5a9b7ec95a5593bf7"
+
+[[files]]
+file = "config/fancymenu/customization/inventory_screen_layout.txt"
+hash = "263bfc8dc5fe5c7016ed31c8ab041266a77d7be63514f1d77f060d3c0e72b332"
+
+[[files]]
+file = "config/fancymenu/customization/pause_screen_layout.txt"
+hash = "1e2ed6b35cbdc5ce90c7f3a45da0af4910d5f269d0875ba9e66e8eb86cc3513a"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
 hash = "d7802215d6a4b38125b789b127bad7bcde732ae1d3c8af531853e083fb73d3ac"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "13f91241d8812be7bc908d7532ce185ae0565c36d5c80721f810c8bde0b48350"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "a636558abf5984455b3ae161f754b67ba26c3b2811e3b83b47df8389c88481b6"
+
+[[files]]
+file = "config/fancymenu/panoramas/thedarkcontinent/panorama/panorama_0.png"
+hash = "50660e0160e4b2ac05400a159c145f8a4a0509a573f2ddd4296cd82312c050a4"
+
+[[files]]
+file = "config/fancymenu/panoramas/thedarkcontinent/panorama/panorama_1.png"
+hash = "d43778d93df768a5986050d653144b960e5a635a684888663d71e93f0f643938"
+
+[[files]]
+file = "config/fancymenu/panoramas/thedarkcontinent/panorama/panorama_2.png"
+hash = "2b3036e9f3b2fc54d97eddee6860b4b8ab22554be4ff2f9283a2ffd138f219b3"
+
+[[files]]
+file = "config/fancymenu/panoramas/thedarkcontinent/panorama/panorama_3.png"
+hash = "a18e62a04c27a62cb91e3cab6a6ff3a1ad8a3c8557330c36f5cb578b51af017e"
+
+[[files]]
+file = "config/fancymenu/panoramas/thedarkcontinent/panorama/panorama_4.png"
+hash = "3f7adf53c12f7d646dd71f9a1b82b8b8e74c6beb14a2ae0106e5e9403ee68dcc"
+
+[[files]]
+file = "config/fancymenu/panoramas/thedarkcontinent/panorama/panorama_5.png"
+hash = "4dbe57a212d33ad6a2dd76cad7246a84a0335f56df10b2dd3ddb2cc04219473d"
+
+[[files]]
+file = "config/fancymenu/panoramas/thedarkcontinent/properties.txt"
+hash = "94b2f981d31a89aec7213933d973e6afc68e27e581beacd2d4edfd2483562acc"
+
+[[files]]
+file = "config/fancymenu/ui_themes/cherry_blossom.json"
+hash = "993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452"
+
+[[files]]
+file = "config/fancymenu/ui_themes/cozy_campfire.json"
+hash = "1e7505231b9d99e6315845043ce810dfc7004ce1d8f5a4ceddb4ecb96c03ac50"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "01e2a3b5d250c0259a7f97f0d353785bfeab6d7ee2e147c16bb910f1d23e9498"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark_high_contrast.json"
+hash = "54316a2b309ddb472b9133f8ccb8694dce9b57be6ebcfb3c2e9d1bbfdade3f26"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "a05e95f7b62f338049fe0045d9a6a50060d3aba52d5ab83ac1ed6ff55cac1153"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light_high_contrast.json"
+hash = "7c96ba2f2cb4d59d20eaf88960de7a9308ce8a3460c4e1757e07c42e174ea65a"
+
+[[files]]
+file = "config/fancymenu/ui_themes/pumpkin_soup.json"
+hash = "7c6a5d5b19e53ca2f88371c2e867f51339b045697aab29864df5877a6bba9311"
+
+[[files]]
+file = "config/fancymenu/ui_themes/purple_void.json"
+hash = "fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0"
+
+[[files]]
+file = "config/fancymenu/ui_themes/spooky_season.json"
+hash = "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/lisa-common.toml"
