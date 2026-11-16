@@ -1542,11 +1542,6 @@ hash = "bfd9184f71cc1b76ecd421fdfde7dac179be909383777bfe0891010a495c5645"
 metafile = true
 
 [[files]]
-file = "mods/l_enders-cataclysm.pw.toml"
-hash = "f262b49b1038ef9f67704e0629da6aafa84cf4f760273589f5d73530ca5d74b5"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a18e3ccdf71e346bcd5f772c235ad9244aec9dfc128402486e91bffc807832a9"
 metafile = true
@@ -1569,6 +1564,11 @@ metafile = true
 [[files]]
 file = "mods/legionary.pw.toml"
 hash = "d59b2119114e3e6e8c9bbf60ea8fdcf26c2f83cf51fb9b9c04a8ba0222b6f618"
+metafile = true
+
+[[files]]
+file = "mods/lendercataclysm.pw.toml"
+hash = "0f04f325e69159d49ef7ad0593d9fa2caaca3825bc519b3d54c253bfcb0ae435"
 metafile = true
 
 [[files]]
