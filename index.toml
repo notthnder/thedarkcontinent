@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/click-common.toml"
-hash = "3f86499eae9843b1a8be20c3999510c7024dad124ef1567a5c2af109ff16810e"
+hash = "497fb276d1bcf4a37112667722eb952ebf1b7996aa88ddf1ae42360958beccf0"
 
 [[files]]
 file = "config/fancymenu/assets/thedarkcontinent_loading_screen.png"
@@ -190,7 +190,7 @@ hash = "4747e7c38891a7bf14973c242b91040ef71dca8f704b1d6d357ea8424876574b"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "8338df8053f32dde83561eb15455f6bc734b0ee55815e3f81cfae3f6f57b654a"
+hash = "8cdcab4ebb5cd88f160ffaf7d973a752b60d6988e73e86492b30575b3d8f6397"
 
 [[files]]
 file = "config/paxi/resourcepacks/Arid's Dimensional Resprites.zip"
@@ -504,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/antarchy.pw.toml"
-hash = "25d73bf0b85abc1a2d48a6ea63e8fce3404098d14b2962b5fe78c9c230edb99e"
+hash = "5a8e5be9a0ec19c88a2f453a767dd3eba2bc9a541defd62d01d8c2e9380c0df0"
 metafile = true
 
 [[files]]
@@ -574,7 +574,7 @@ metafile = true
 
 [[files]]
 file = "mods/apothic-compats.pw.toml"
-hash = "78ec590a0859dc9b07fa3c1a1c2d816f661748c3a2b9a2bef3fc2681dd66affa"
+hash = "2444dc1619be03543eecc88a16e4fd75542839e3963f953ed6d7e29838d8f38c"
 metafile = true
 
 [[files]]
@@ -679,7 +679,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-mob-combat-reimagined.pw.toml"
-hash = "d21cf9a96bcb7416e58a0b6975989c80498385eccb56e228520667e65b65aec2"
+hash = "279836b44601f4dad88e192440069929e39731246784a2cfc78bf77c1aeeb14e"
 metafile = true
 
 [[files]]
@@ -844,7 +844,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "9d9802c9b8af95c7e98356371cad12a2d87b4609c7bafe36c63352e7d448b58c"
+hash = "fea55a2f27b3648291142370063566cd67782fc1912f36b062741e1df044ebe1"
 metafile = true
 
 [[files]]
@@ -1044,7 +1044,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+hash = "6b6683fd8ec53d10d4fbef3b3d53922a1aaa8ef4d2e4b52bb819dc451f5d6b3d"
 metafile = true
 
 [[files]]
@@ -1069,7 +1069,7 @@ metafile = true
 
 [[files]]
 file = "mods/diegesis.pw.toml"
-hash = "137ae6c7250fc93d89c5e138accea146d46506dc086560aee9696502080657cc"
+hash = "59e4a15130ffc603fc468a789c41bacf39bf4568945ec42b37373da56d4af7cf"
 metafile = true
 
 [[files]]
@@ -1344,7 +1344,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "1c653566b0cea97e9282c23458a28b7de879e5fd226f5bb3455502adabfc839d"
+hash = "742b5d768e083e7c3536a49a5d2962ed416366fce4e873cfdc12b8900140401d"
 metafile = true
 
 [[files]]
@@ -1379,7 +1379,7 @@ metafile = true
 
 [[files]]
 file = "mods/gnetum.pw.toml"
-hash = "6bc3b96615f522db24a452d0f23681861890a967ee026819672ebbd02f5719e9"
+hash = "334f888725e02ea4f272f6634a1776eea830529467d92478fca0a96da027e13b"
 metafile = true
 
 [[files]]
@@ -1519,7 +1519,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-artifice.pw.toml"
-hash = "536b76de549036e2dfe6d159d84427eae3a50c7e7466bf181b91deeb21a2ef8f"
+hash = "72df71ca2ac0542631383fc6ed6216641d9c5626cd04097d88bf2dd5c1527972"
 metafile = true
 
 [[files]]
@@ -1599,7 +1599,7 @@ metafile = true
 
 [[files]]
 file = "mods/kerria.pw.toml"
-hash = "8925ad81f4435555aa86d32e9c5ca9548c2003f3edd3f3225cf60a810fd848ef"
+hash = "4b4da18b03756872d1c7eb6d2a03c6187efcf5089be592a1608355a6cf51d364"
 metafile = true
 
 [[files]]
@@ -1614,7 +1614,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "52be2f8af37fa9a10f817b3a676e56c9cdf33a3632048d8e922312878244b794"
+hash = "25f7a53ebcd6c163b9d688eafebec364ab523e493642bd29f7e523800e9a1eac"
 metafile = true
 
 [[files]]
@@ -1654,12 +1654,7 @@ metafile = true
 
 [[files]]
 file = "mods/l_enders-cataclysm-delight.pw.toml"
-hash = "bfd9184f71cc1b76ecd421fdfde7dac179be909383777bfe0891010a495c5645"
-metafile = true
-
-[[files]]
-file = "mods/l_enders-cataclysm.pw.toml"
-hash = "f262b49b1038ef9f67704e0629da6aafa84cf4f760273589f5d73530ca5d74b5"
+hash = "966196b83c001b81ecee8089c3180c06d594df05884b78c927acf2d45a869bb7"
 metafile = true
 
 [[files]]
@@ -1688,8 +1683,13 @@ hash = "d59b2119114e3e6e8c9bbf60ea8fdcf26c2f83cf51fb9b9c04a8ba0222b6f618"
 metafile = true
 
 [[files]]
+file = "mods/lendercataclysm.pw.toml"
+hash = "0f04f325e69159d49ef7ad0593d9fa2caaca3825bc519b3d54c253bfcb0ae435"
+metafile = true
+
+[[files]]
 file = "mods/lionfish-api.pw.toml"
-hash = "64acab1580ca6edd8b1dd185e914aeee7aa551a88a7cd7f0f9370a82aaadfef6"
+hash = "c27c2b642deba3609c6e5741ee6360cb8d760e5bf5b2595fd4fa01c01dc5f074"
 metafile = true
 
 [[files]]
@@ -1914,7 +1914,7 @@ metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "d502b96f95b6559ccd6be53fd9300cb9e9f0cb8be5182bd5bc06e646d2145232"
+hash = "7686e35cc196a9b28992c0fb5fb880cf84120d1cac9651124f928adf1ef72fda"
 metafile = true
 
 [[files]]
@@ -2074,7 +2074,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-advancements.pw.toml"
-hash = "ef5a1417c140db144fab3e0bbef03ca387a3c339b3c11eca5d34104240c6cea5"
+hash = "f3d75cadcf586b06a96eaf07dfe1ae181cf08be5d30a01c2269628096cd85991"
 metafile = true
 
 [[files]]
@@ -2089,7 +2089,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "13ffef7ec7a666e5baa7cd2def5ef3613d12428df5d643eceeddab4cdc327fca"
+hash = "7115cabeb65ce8338458f00b0af4544d533dea93f633feea32a2252976fe0575"
 metafile = true
 
 [[files]]
@@ -2234,7 +2234,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "a9c525571077c7473c6f09bfe795d045d98b60092e779f259067a206a9190647"
+hash = "d1cc686f749316c2497e46535cdb3d1fd40fc990de53096ac222b190cefca839"
 metafile = true
 
 [[files]]
@@ -2254,7 +2254,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
-hash = "a84f7b320926970b11a158f1eb734d9b4127188883d20945ed4d33ffe13da7a1"
+hash = "a69cd808224f9765970a6b61011e7b7fc5e87b19bfc79ef23063fa70ecc5130c"
 metafile = true
 
 [[files]]
@@ -2269,7 +2269,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "712b0b5289a61d43661f1fe5c527cb70d79a9d886dd7c37d60abd90c482c7942"
+hash = "97ecdd051374d7ef048fd48f326ec8453591b0c18893ec9b22e2d2794dd4dc80"
 metafile = true
 
 [[files]]
