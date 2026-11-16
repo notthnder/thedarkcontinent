@@ -1,13 +1,13 @@
 name = "Hands-On Delight"
-filename = "handson_delight-neoforge-1.21.1-1.4.0.jar"
+filename = "handson_delight-neoforge-1.21.1-1.5.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "310ead7fc4788a0f341881647001303d30976d0a"
+hash = "d664aa6e37d96dc0a954825317076a4d636371d6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9587913
+file-id = 9624658
 project-id = 1790221

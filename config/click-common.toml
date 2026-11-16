@@ -9,6 +9,10 @@
 		#How hard they hit (1-20, 2 = one heart).
 		#Range: 1.0 ~ 20.0
 		attackDamage = 1.0
+		#How fast his followers walk (0.1-1, 1 = as
+		#fast as Paimon).
+		#Range: 0.1 ~ 1.0
+		followerSpeed = 0.6
 		#They flicker in and out of sight.
 		flicker = true
 
@@ -62,6 +66,35 @@
 		#ticks, 20 = 1 second).
 		#Range: 20 ~ 24000
 		checkInterval = 24000
+
+	#A follower that waits for you somewhere up
+	#high, in the dark.
+	[general.perch]
+		#In the dark, a follower sometimes waits for
+		#you somewhere up high.
+		enabled = true
+		#Chance of a perched follower on each roll
+		#(0-1, 1 = every roll).
+		#Only at night or underground.
+		#Range: 0.0 ~ 1.0
+		chance = 0.01
+		#How often to roll for a perched follower
+		#(20-24000 ticks, 20 = 1 second).
+		#Range: 20 ~ 24000
+		checkInterval = 6000 
+		#How long you can look at it before it's gone
+		#(5-200 ticks, 20 = 1 second).
+		#Range: 5 ~ 200
+		lookTicks = 30
+		#How long it waits if nobody looks (200-6000
+		#ticks, higher = longer).
+		#Range: 200 ~ 6000
+		lifetimeTicks = 600 
+		#How often it picks a spot near your bed when
+		#you're close to it (0-1, 0 = off).
+		#Only changes where it waits, not how often.
+		#Range: 0.0 ~ 1.0
+		homePreference = 0.7
 
 	#The demon's sounds.
 	[general.sounds]
