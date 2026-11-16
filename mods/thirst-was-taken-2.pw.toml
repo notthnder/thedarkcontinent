@@ -1,13 +1,13 @@
 name = "Thirst Was Taken 2"
-filename = "ThirstWasTaken2-1.11.0-1.21.1-neoforge.jar"
+filename = "ThirstWasTaken2-1.11.0+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "63a59d7e661e53bc6f629b4a49f3c7d965572a47"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/juge6qKH/versions/C71MkyNY/ThirstWasTaken2-1.11.0%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "72ceadb7e9b3e5ab2be88b91dea1327fcc1f1fda0a39bd48d6a42c9481861ce633d9eb91e9ddc1b3b9db71b5afaf015c3303dd783802ec998eda9bfbd9d11b44"
 
 [update]
-[update.curseforge]
-file-id = 9587734
-project-id = 1700787
+[update.modrinth]
+mod-id = "juge6qKH"
+version = "C71MkyNY"

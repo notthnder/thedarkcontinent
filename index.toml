@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/click-common.toml"
-hash = "497fb276d1bcf4a37112667722eb952ebf1b7996aa88ddf1ae42360958beccf0"
-
-[[files]]
 file = "config/fancymenu/assets/thedarkcontinent_loading_screen.png"
 hash = "bf32db02f340d67ee969929af0773a20ff3a4a9848f4326fcaaece1790671e4a"
 
@@ -788,11 +784,6 @@ hash = "026b577ef02aa5fc25e49d7ecc4aafef971f6f36b2d59c6f539b504e403bc9b8"
 metafile = true
 
 [[files]]
-file = "mods/choicetheorems-overhauled-village.pw.toml"
-hash = "f57e49c9f51ad7cc781f912f27c59a8d8cb165088c67ae832c87b40344d76445"
-metafile = true
-
-[[files]]
 file = "mods/chunks-fade-in.pw.toml"
 hash = "c5072f8b7f10c7bdb2fedb548ba05b04c69c8e54f954a434eeac396ef9a5628e"
 metafile = true
@@ -1028,6 +1019,11 @@ hash = "feb49efc9902e8c33be37d508c6e117d0962b3aa579638aec255761318271c6f"
 metafile = true
 
 [[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "c5fca9eb7028486e6d9f71823077465e22946031968f8cc0ede491d317978394"
+metafile = true
+
+[[files]]
 file = "mods/cult-of-azazel-wrath-of-paimon.pw.toml"
 hash = "94f187835a371fbbc76f753abd8b0775912aa0923066c889b46b29be7046f3fc"
 metafile = true
@@ -1169,7 +1165,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "35758c0b3e04476d1ff8fb30a46d5beb2ad0634c062f753cfb02531c684c9134"
+hash = "1f7ee5ea0a84276fa059773e57e6b14c76ce1cf2954fe0b3cce938f268047c6e"
 metafile = true
 
 [[files]]
@@ -1184,7 +1180,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "8491436f99726aff4cd90644496679665f910b51822d9aac38401d0c70dfc61a"
+hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
 metafile = true
 
 [[files]]
@@ -1359,7 +1355,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "0431771ba664f762587b1d876b0cd0ef4ca0751aed1a5604dfb5f4190f29d409"
+hash = "f2849c357f9c82d017ff71c6d5e91ac8e51d6b0f2de9e7ae8d95bfb81759cd63"
 metafile = true
 
 [[files]]
@@ -1704,7 +1700,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "93f98a3019a5ce1bda97af2c3e937aaa2adbe4e4dce46e74b130d32cbfdc80a2"
+hash = "c0611d8448bc043f372a008a435e14aa238ba8fca52fd1d79634424576ea9e12"
 metafile = true
 
 [[files]]
@@ -2118,8 +2114,8 @@ hash = "985a99f7465b68e43b98f3dbe1081b7113d957c7926a8caab163503528910f42"
 metafile = true
 
 [[files]]
-file = "mods/ritchies-projectile-library.pw.toml"
-hash = "c62b51a8248d15e3cb63880ac123a92dd6a67973a1eafc4c4cb09f3f74481f78"
+file = "mods/rpl.pw.toml"
+hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
 metafile = true
 
 [[files]]
@@ -2304,7 +2300,7 @@ metafile = true
 
 [[files]]
 file = "mods/thirst-was-taken-2.pw.toml"
-hash = "439ee757df404c6aab34b6ad4026f20b7857c1b1c0ae5ffe8117592471e5aaa6"
+hash = "e334ab680741e86fbb138d4c73e6f693b7bece9928f9f99b2b92b72140c3b242"
 metafile = true
 
 [[files]]
@@ -2364,7 +2360,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanilla-backport-extras.pw.toml"
-hash = "fa88010e77d695422c1149f3bd57426de9dbe7c93fbe825d0a976d9e63e833a5"
+hash = "e1b6e82acee21f15cf6ddb8dc317e8c8d15b92380fe6d56c832f796f3448b8d0"
 metafile = true
 
 [[files]]
