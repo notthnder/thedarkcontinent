@@ -398,7 +398,7 @@ metafile = true
 
 [[files]]
 file = "mods/antos.pw.toml"
-hash = "8af1229b0157c381b2c069a733459e683ffb4e03f814b651052cfd263284c78f"
+hash = "03fa7b817355b9030efa201422ac0fe6d0c91f186909fcd6a90e7b96141db8a4"
 metafile = true
 
 [[files]]
@@ -1958,7 +1958,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-advancements.pw.toml"
-hash = "5cbd93ed0cf5f1cc373141a34d94bc0f7edb7d69828ff3e63ce861ff492f0986"
+hash = "ef5a1417c140db144fab3e0bbef03ca387a3c339b3c11eca5d34104240c6cea5"
 metafile = true
 
 [[files]]
@@ -1983,7 +1983,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "89d21f5da7fea8b1197c6e8e5215d45f7400844560e0f7c179d3c6145bd36a95"
+hash = "27721caca5a03b743bf25888e1d984142948069dace31453f103f94f7f24d2ce"
 metafile = true
 
 [[files]]
@@ -2118,7 +2118,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "9586073d1516edeb883ac756ba0379976b890b0faffffec7e45faace40b1ccac"
+hash = "a9c525571077c7473c6f09bfe795d045d98b60092e779f259067a206a9190647"
 metafile = true
 
 [[files]]
@@ -2138,7 +2138,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
-hash = "06d5443b746e7143ec84328202670f97150ce64af641914661f71f472c90075e"
+hash = "a84f7b320926970b11a158f1eb734d9b4127188883d20945ed4d33ffe13da7a1"
 metafile = true
 
 [[files]]
