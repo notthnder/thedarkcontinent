@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/click-common.toml"
+hash = "af2ccb01bc50324d62656cd98768aeddff3089a2eb09a44b6e000f1a52f03c74"
+
+[[files]]
 file = "config/fancymenu/assets/thedarkcontinent_loading_screen.png"
 hash = "bf32db02f340d67ee969929af0773a20ff3a4a9848f4326fcaaece1790671e4a"
 
@@ -2075,7 +2079,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-emi.pw.toml"
-hash = "eebd19a6487e211cbec47292d7c49e2e7fa66c84cbe14ccbc6d4c321d6d32578"
+hash = "e44211cfe707e71e7db2544afc7a56aedfc9e54e51944fb12c7698317512dadf"
 metafile = true
 
 [[files]]
