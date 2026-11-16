@@ -1654,7 +1654,7 @@ metafile = true
 
 [[files]]
 file = "mods/l_enders-cataclysm-delight.pw.toml"
-hash = "966196b83c001b81ecee8089c3180c06d594df05884b78c927acf2d45a869bb7"
+hash = "bfd9184f71cc1b76ecd421fdfde7dac179be909383777bfe0891010a495c5645"
 metafile = true
 
 [[files]]
