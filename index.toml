@@ -1263,7 +1263,7 @@ metafile = true
 
 [[files]]
 file = "mods/gnetum.pw.toml"
-hash = "57998c38e3755065ccacd7c0ec42558a111b43aa22828104481eb2f3fe32590c"
+hash = "6bc3b96615f522db24a452d0f23681861890a967ee026819672ebbd02f5719e9"
 metafile = true
 
 [[files]]
@@ -1282,8 +1282,8 @@ hash = "5937d1946e46487beec341600e673d1223a5b489ec74094b55dae24160e833b6"
 metafile = true
 
 [[files]]
-file = "mods/hands-on-delight.pw.toml"
-hash = "6d802d074f824d7d3bd77c22387182235e47570149917e55182af5356b9fd267"
+file = "mods/handson-delight.pw.toml"
+hash = "da30a9c3093ae0d22ebdeb9ba4e61a0349ccb9bbdb7ebf0cd3b260ecf297dfbe"
 metafile = true
 
 [[files]]
@@ -1403,7 +1403,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-artifice.pw.toml"
-hash = "fd0273303acae4072f8ddc88089c270bd0c550c85d57a263395ba79b05503f6f"
+hash = "536b76de549036e2dfe6d159d84427eae3a50c7e7466bf181b91deeb21a2ef8f"
 metafile = true
 
 [[files]]
@@ -1798,7 +1798,7 @@ metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "31394c866f4f67608ade54680998b518c37260035e745c6449384b81f8bac909"
+hash = "d502b96f95b6559ccd6be53fd9300cb9e9f0cb8be5182bd5bc06e646d2145232"
 metafile = true
 
 [[files]]
