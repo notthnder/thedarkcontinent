@@ -1,8 +1,8 @@
-name = "ArphexProdecureFix"
-filename = "v0.1"
+name = "ArphexProcedureFix"
+filename = "arphex_procedure_fix-0.1.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Deserty0/ArphexProcedureFix/releases/tag/v0.1"
+url = "https://github.com/Deserty0/ArphexProcedureFix/releases/download/v0.1/arphex_procedure_fix-0.1.jar"
 hash-format = "sha256"
-hash = "ac1e272f496d5e99c350b4fb6d583ab62b96cef480729d3b47e393267328a9bb"
+hash = "65d108227814985d7bc7118d4745fdd545ae6ef3042ec8d873f772a321fdceca"
