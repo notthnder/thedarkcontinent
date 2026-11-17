@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://github.com/Deserty0/ArphexProcedureFix/releases/tag/v0.1"
 hash-format = "sha256"
-hash = "253a88e5c4ae694b78b78235b07675de6dfe9e5bf8602016a53b4152e2858964"
+hash = "ac1e272f496d5e99c350b4fb6d583ab62b96cef480729d3b47e393267328a9bb"
