@@ -618,6 +618,11 @@ hash = "c8c4a22ac6593f4a430842069b6d1736beff6a6d279e71b5c7797201808f1020"
 metafile = true
 
 [[files]]
+file = "mods/arphexprocedurefix.pw.toml"
+hash = "07b9d7da71770f78994ab2afb0bbcd6d0ca22b19c2d4829656347862ed845a41"
+metafile = true
+
+[[files]]
 file = "mods/asynclogger.pw.toml"
 hash = "1f1cab010a5a3d8b06c893775307bd8f0c67e1713624b9048a39361dca28dea5"
 metafile = true
@@ -909,7 +914,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-ftb-chunks.pw.toml"
-hash = "0314ac67daeef11cd9dd2d1b9f959a7161e03a7d41af660992f329c08a16fe3a"
+hash = "6cc4f3cc95f5162bc3a94ccc3e53d1704ef82b319930cd3540cd4837201d3509"
 metafile = true
 
 [[files]]
@@ -1069,7 +1074,7 @@ metafile = true
 
 [[files]]
 file = "mods/diegesis-api.pw.toml"
-hash = "d46814600770d9774e2f1dd905359f204c9955f540c93ac4b708bdbb6c60ac0a"
+hash = "e9ecdd87df399e91e4343deff874600e99fad4aa87468eaa5e8f707332c20dcf"
 metafile = true
 
 [[files]]
@@ -2074,7 +2079,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-advancements.pw.toml"
-hash = "ef5a1417c140db144fab3e0bbef03ca387a3c339b3c11eca5d34104240c6cea5"
+hash = "6ae8b8fc7855d5a2ed97e32eb1e9ee25226f0b63ff02d842a948d0f52ed1e31b"
 metafile = true
 
 [[files]]
@@ -2089,7 +2094,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "cf649d08b30accc20b075881b4c98458e0ad70021c8e5963818fbde01020e2f6"
+hash = "7e45e8bfbcd6ca697892fff6d371c52c181705313b742dc9e3081cf9a4dd1ff2"
 metafile = true
 
 [[files]]
@@ -2139,7 +2144,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "98c213fbdb246d7de45e0062658fc5bf9b42ce874b81629f80b2059635afc2c6"
+hash = "f2c81cf494b7b6c1063563d7377224cf64b29e0b86bcf87bcf4da8eb79b9c800"
 metafile = true
 
 [[files]]
