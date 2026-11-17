@@ -623,6 +623,11 @@ hash = "07b9d7da71770f78994ab2afb0bbcd6d0ca22b19c2d4829656347862ed845a41"
 metafile = true
 
 [[files]]
+file = "mods/arphexprodecurefix.pw.toml"
+hash = "1edf0a691dc37223fbce5b4d9118a8735fbd2042a088005547e0a5c6cfe66d48"
+metafile = true
+
+[[files]]
 file = "mods/asynclogger.pw.toml"
 hash = "1f1cab010a5a3d8b06c893775307bd8f0c67e1713624b9048a39361dca28dea5"
 metafile = true
