@@ -619,11 +619,6 @@ metafile = true
 
 [[files]]
 file = "mods/arphexprocedurefix.pw.toml"
-hash = "07b9d7da71770f78994ab2afb0bbcd6d0ca22b19c2d4829656347862ed845a41"
-metafile = true
-
-[[files]]
-file = "mods/arphexprodecurefix.pw.toml"
 hash = "1edf0a691dc37223fbce5b4d9118a8735fbd2042a088005547e0a5c6cfe66d48"
 metafile = true
 
